@@ -4,7 +4,10 @@
   "private": true,
   "description": "Static website for recent microeconomic theory papers.",
   "scripts": {
-    "update-papers": "node scripts/update-papers.js"
+    "update-topic-papers": "node scripts/update-topic-papers.js",
+    "update-repec-author-papers": "node scripts/update-repec-author-papers.js",
+    "update-papers": "npm run update-topic-papers",
+    "validate-data": "node scripts/validate-data.js"
   },
   "dependencies": {
     "fast-xml-parser": "^5.2.5"

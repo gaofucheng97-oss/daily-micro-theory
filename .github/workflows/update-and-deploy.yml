@@ -57,28 +57,49 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Update paper data
-        run: npm run update-papers
+      - name: Update topic papers
+        continue-on-error: true
+        run: npm run update-topic-papers
 
-      - name: Commit updated paper data
+      - name: Update RePEc Author Watch papers
+        continue-on-error: true
+        run: npm run update-repec-author-papers
+
+      - name: Save daily history copies
         run: |
-          if git diff --quiet -- data/papers.json; then
-            echo "data/papers.json did not change."
+          today="$(TZ=Europe/London date +'%Y-%m-%d')"
+          mkdir -p data/history/topic-papers data/history/repec-author-papers
+
+          if [ -f data/topic-papers.json ]; then
+            cp data/topic-papers.json "data/history/topic-papers/${today}.json"
+          fi
+
+          if [ -f data/repec-author-papers.json ]; then
+            cp data/repec-author-papers.json "data/history/repec-author-papers/${today}.json"
+          fi
+
+      - name: Validate data files
+        run: npm run validate-data
+
+      - name: Commit updated data files
+        run: |
+          if git diff --quiet -- data; then
+            echo "Data files did not change."
             exit 0
           fi
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/papers.json
-          git commit -m "Update papers data"
+          git add data
+          git commit -m "Update daily paper data"
           git push
 
       - name: Prepare static site artifact
         run: |
           rm -rf _site
-          mkdir -p _site/data
+          mkdir -p _site
           cp index.html style.css script.js README.md _site/
-          cp data/papers.json _site/data/papers.json
+          cp -r data _site/data
 
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
