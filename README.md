@@ -23,6 +23,11 @@ configurable list of authors you choose to follow.
 - `data/repec-author-papers.json`: papers found from the author watchlist.
 - `data/history/`: daily history copies created by the workflow.
 
+The update scripts and validation step remove or reject duplicate papers. A
+paper is treated as a duplicate when it has the same DOI, canonical URL, arXiv
+ID, or normalized title. The RePEc Author Watch section also skips papers that
+already appear in Topic Papers.
+
 ## View It Locally
 
 Because the page loads JSON files, open it through a small local web server
