@@ -64,6 +64,10 @@ jobs:
         continue-on-error: true
         run: npm run update-topic-papers
 
+      - name: Refresh RePEc author watchlist
+        continue-on-error: true
+        run: npm run update-repec-watchlist
+
       - name: Update RePEc Author Watch papers
         continue-on-error: true
         run: npm run update-repec-author-papers
