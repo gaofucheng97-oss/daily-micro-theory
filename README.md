@@ -1,19 +1,32 @@
 # Daily Micro Theory
 
-Daily Micro Theory is a free static website for displaying recent theoretical
-microeconomics papers. It shows paper cards with titles, authors, publication
-dates, abstract previews, topic tags, paper links, and PDF links when available.
+Daily Micro Theory is a free static website for recent theoretical
+microeconomics papers. It uses plain HTML, CSS, and JavaScript and can be hosted
+for free with GitHub Pages.
 
-The site uses plain HTML, CSS, and JavaScript. Paper data is stored in
-`data/papers.json`, and a GitHub Actions workflow updates that file every
-morning from the arXiv `econ.TH` feed.
+The homepage has two separate sections:
+
+1. **Topic Papers**: recent arXiv `econ.TH` papers selected by topic relevance
+   and recency.
+2. **RePEc Author Watch**: recent papers from a manually editable author
+   watchlist informed by RePEc/IDEAS profiles or rankings.
+
+The author watchlist is not an objective list of the best economists. It is a
+configurable list of authors you choose to follow.
+
+## Data Files
+
+- `data/topic-papers.json`: the main topic feed used by the Topic Papers
+  section.
+- `data/papers.json`: a backward-compatible alias for the topic feed.
+- `data/repec-author-watchlist.json`: authors and public URLs to check.
+- `data/repec-author-papers.json`: papers found from the author watchlist.
+- `data/history/`: daily history copies created by the workflow.
 
 ## View It Locally
 
-Because the page loads `data/papers.json`, open it through a small local web
-server instead of double-clicking `index.html`.
-
-From this folder, run:
+Because the page loads JSON files, open it through a small local web server
+instead of double-clicking `index.html`.
 
 ```powershell
 python -m http.server 8000
@@ -25,9 +38,6 @@ Then open:
 http://localhost:8000
 ```
 
-If Python is not installed, you can still publish the site with GitHub Pages and
-view it online.
-
 ## Update Papers Locally
 
 Install dependencies once:
@@ -36,21 +46,35 @@ Install dependencies once:
 npm install
 ```
 
-Run the arXiv updater:
+Update topic papers from arXiv:
 
 ```powershell
-npm run update-papers
+npm run update-topic-papers
 ```
 
-The updater fetches recent arXiv `econ.TH` papers, scores and tags them with
-microeconomic theory keywords, keeps the top 10, and writes `data/papers.json`.
-If arXiv is unavailable or no valid papers are found, the existing JSON file is
-preserved.
+Update RePEc Author Watch papers:
+
+```powershell
+npm run update-repec-author-papers
+```
+
+Validate the data files:
+
+```powershell
+npm run validate-data
+```
 
 ## Automatic Updates
 
-GitHub Actions runs the update workflow every morning around 9:07 AM London
-time. The workflow can also be run manually:
+GitHub Actions runs every morning around 9:07 AM London time. The workflow:
+
+1. Updates Topic Papers from arXiv `econ.TH`.
+2. Tries to update RePEc Author Watch papers from configured public URLs.
+3. Preserves existing valid data if a source fails.
+4. Saves daily history copies.
+5. Deploys the static site with GitHub Pages Actions.
+
+To run it manually:
 
 1. Open the repository on GitHub.
 2. Go to **Actions**.
@@ -59,29 +83,79 @@ time. The workflow can also be run manually:
 
 ## Publish With GitHub Pages
 
-1. Push the repository to GitHub.
-2. Open the repository on GitHub.
-3. Go to **Settings**.
-4. Go to **Pages**.
-5. Under **Build and deployment**, set **Source** to **GitHub Actions**.
-6. Save the settings.
+1. Open the repository on GitHub.
+2. Go to **Settings**.
+3. Go to **Pages**.
+4. Under **Build and deployment**, set **Source** to **GitHub Actions**.
+5. Save the setting.
 
-The workflow uses GitHub Pages Actions to deploy the static files for free. The
-Pages screen will show the public website URL after deployment finishes.
+The workflow will publish the site for free.
 
-## Update Papers
+## Add an Author to RePEc Author Watch
 
-You can still edit `data/papers.json` manually. Each paper should include:
+Edit `data/repec-author-watchlist.json`. Add one object per author. This is an
+example structure, not real author data:
 
-- `title`
-- `authors`
-- `publicationDate`
-- `abstract`
-- `topics`
-- `paperUrl`
-- `pdfUrl`
+```json
+{
+  "name": "Author Name",
+  "repecProfileUrl": null,
+  "ideasAuthorUrl": null,
+  "homepageUrl": null,
+  "rssUrl": null,
+  "nberAuthorUrl": null,
+  "ssrnAuthorUrl": null,
+  "priority": 1,
+  "fields": ["Microeconomic Theory", "Game Theory"],
+  "notes": "Why this author is on the watchlist."
+}
+```
 
-Use `null` for `pdfUrl` when a PDF is not available.
+Only add URLs you have verified from public pages. If a URL is unknown, leave it
+as `null`. Do not invent personal websites, SSRN pages, NBER pages, or RSS
+feeds.
+
+The author section may miss papers when an author has no public feed, no
+accessible working paper page, or a page whose metadata is not visible without
+login, CAPTCHA, paywall, or access controls.
+
+## Disable RePEc Author Watch
+
+If the author-watch section breaks, set the watchlist to an empty array:
+
+```json
+[]
+```
+
+Then run:
+
+```powershell
+npm run validate-data
+```
+
+The homepage will still render the Topic Papers section and show an empty state
+for RePEc Author Watch.
+
+## Restore a Previous Version
+
+Daily history files are saved under:
+
+- `data/history/topic-papers/YYYY-MM-DD.json`
+- `data/history/repec-author-papers/YYYY-MM-DD.json`
+
+To restore a previous topic feed, copy the chosen history file back to:
+
+```text
+data/topic-papers.json
+```
+
+Also copy it to:
+
+```text
+data/papers.json
+```
+
+Then commit the restored files.
 
 ## If the Update Fails
 
@@ -92,5 +166,5 @@ Check the failing GitHub Actions run for gaofucheng97-oss/daily-micro-theory,
 explain why the Daily Micro Theory update failed, and fix it.
 ```
 
-The most useful details are the failed workflow run URL and any error message
-shown in the **Update paper data** step.
+Include the failed workflow run URL and any error text from the update or
+validation step.

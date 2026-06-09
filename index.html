@@ -45,25 +45,58 @@
         </div>
       </section>
 
-      <section class="toolbar" aria-label="Paper filters">
-        <div>
-          <p class="section-label">Topic</p>
-          <h2>Recent papers</h2>
+      <section class="paper-section" aria-labelledby="topic-papers-heading">
+        <div class="section-heading">
+          <div>
+            <p class="section-label">Topic Papers</p>
+            <h2 id="topic-papers-heading">Topic Papers</h2>
+            <p class="section-subtitle">
+              Recent papers matched by microeconomic theory topics.
+            </p>
+          </div>
+          <div class="filter-list" id="topic-filters"></div>
         </div>
-        <div class="filter-list" id="filters"></div>
+
+        <p class="results-summary" aria-live="polite" id="topic-result-count">
+          Loading topic papers...
+        </p>
+
+        <section
+          class="papers-grid"
+          id="topic-papers"
+          aria-label="Topic paper list"
+        ></section>
       </section>
 
-      <section class="results-summary" aria-live="polite">
-        <span id="result-count">Loading papers...</span>
-      </section>
+      <section class="paper-section author-section" aria-labelledby="author-watch-heading">
+        <div class="section-heading">
+          <div>
+            <p class="section-label">Author Watch</p>
+            <h2 id="author-watch-heading">RePEc Author Watch</h2>
+            <p class="section-subtitle">
+              Recent papers from a configurable watchlist of authors informed by
+              RePEc/IDEAS.
+            </p>
+          </div>
+          <div class="filter-list" id="author-filters"></div>
+        </div>
 
-      <section class="papers-grid" id="papers" aria-label="Paper list"></section>
+        <p class="results-summary" aria-live="polite" id="author-result-count">
+          Loading author-watch papers...
+        </p>
+
+        <section
+          class="papers-grid"
+          id="author-papers"
+          aria-label="RePEc Author Watch paper list"
+        ></section>
+      </section>
     </main>
 
     <footer class="site-footer">
       <p>
-        Data lives in <code>data/papers.json</code>. Update that file to add or
-        remove papers.
+        Topic data lives in <code>data/topic-papers.json</code>. Author-watch
+        data lives in <code>data/repec-author-papers.json</code>.
       </p>
     </footer>
 
