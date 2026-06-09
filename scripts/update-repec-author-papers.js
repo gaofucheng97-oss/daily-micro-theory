@@ -20,6 +20,7 @@ const WATCHLIST_PATH = path.join(
 );
 const OUTPUT_PATH = path.join(__dirname, "..", "data", "repec-author-papers.json");
 const TOPIC_PAPERS_PATH = path.join(__dirname, "..", "data", "topic-papers.json");
+const MAX_AUTHOR_WATCH_PAPERS = 60;
 
 const PUBLIC_SOURCE_FIELDS = [
   ["rssUrl", "RSS"],
@@ -128,7 +129,83 @@ function absolutizeUrl(href, baseUrl) {
   }
 }
 
+function isIdeasProfileUrl(url) {
+  try {
+    const parsed = new URL(url);
+    return (
+      parsed.hostname === "ideas.repec.org" &&
+      /^\/[ef]\/p[^/]+\.html$/i.test(parsed.pathname)
+    );
+  } catch {
+    return false;
+  }
+}
+
+function isIdeasWorkUrl(url) {
+  try {
+    const parsed = new URL(url);
+    return (
+      parsed.hostname === "ideas.repec.org" &&
+      /^\/[pabhc]\//i.test(parsed.pathname)
+    );
+  } catch {
+    return false;
+  }
+}
+
+function parseYearDate(year) {
+  return parseDate(`${year}-01-01`);
+}
+
+function parseIdeasProfileWorks(text, baseUrl, author, fieldName, collectedAt) {
+  const papers = [];
+  const source = sourceForField(fieldName);
+  const entryPattern =
+    /<li\b[^>]*class=["'][^"']*\blist-group-item\b[^"']*["'][^>]*>\s*([\s\S]*?),\s*((?:19|20)\d{2})\.\s*["“”]?\s*<b>\s*<a\b[^>]*href=["']([^"']+)["'][^>]*>([\s\S]*?)<\/a>\s*<\/b>/gi;
+  let match;
+
+  while ((match = entryPattern.exec(text)) !== null) {
+    const authorsText = cleanText(match[1]);
+    const publicationDate = parseYearDate(match[2]);
+    const href = absolutizeUrl(match[3], baseUrl);
+    const title = cleanText(match[4]);
+
+    if (!href || !isIdeasWorkUrl(href) || !title || !publicationDate) {
+      continue;
+    }
+
+    const authors = authorsText
+      .split(/\s*&\s*/)
+      .map((name) => cleanText(name))
+      .filter(Boolean);
+
+    papers.push({
+      id: stableId(source, href),
+      title,
+      authors: authors.length > 0 ? authors : [author.name],
+      matchedAuthor: author.name,
+      matchedAuthorRepecUrl: author.repecProfileUrl || author.ideasAuthorUrl || null,
+      publicationDate,
+      abstract: null,
+      abstractPreview: null,
+      source,
+      paperUrl: href,
+      pdfUrl: null,
+      doi: null,
+      topics: author.fields || [],
+      relevanceScore: Number(author.priority || 0),
+      collectedAt
+    });
+  }
+
+  return papers;
+}
+
 function parseConservativeHtml(text, baseUrl, author, fieldName, collectedAt) {
+  if (isIdeasProfileUrl(baseUrl)) {
+    return parseIdeasProfileWorks(text, baseUrl, author, fieldName, collectedAt);
+  }
+
   const papers = [];
   const linkPattern = /<a\b[^>]*href=["']([^"']+)["'][^>]*>([\s\S]*?)<\/a>/gi;
   const source = sourceForField(fieldName);
@@ -256,21 +333,22 @@ async function main() {
       (first, second) =>
         new Date(second.publicationDate) - new Date(first.publicationDate)
     );
+    const recentPapers = papers.slice(0, MAX_AUTHOR_WATCH_PAPERS);
 
     console.log(
-      `Collected ${papers.length} author-watch papers; removed ${duplicates.length} internal duplicates and ${topicDuplicates.length} papers already in Topic Papers.`
+      `Collected ${papers.length} author-watch papers; removed ${duplicates.length} internal duplicates and ${topicDuplicates.length} papers already in Topic Papers. Keeping ${recentPapers.length} newest papers.`
     );
 
-    if (papers.length === 0) {
+    if (recentPapers.length === 0) {
       console.log("No author-watch papers found. Existing data file preserved.");
       return;
     }
 
-    const changed = await writeJsonIfChanged(OUTPUT_PATH, papers);
-    await writeHistoryCopy(OUTPUT_PATH, papers, "repec-author-papers");
+    const changed = await writeJsonIfChanged(OUTPUT_PATH, recentPapers);
+    await writeHistoryCopy(OUTPUT_PATH, recentPapers, "repec-author-papers");
 
     if (changed) {
-      console.log(`Saved ${papers.length} papers to data/repec-author-papers.json.`);
+      console.log(`Saved ${recentPapers.length} papers to data/repec-author-papers.json.`);
     } else {
       console.log("RePEc Author Watch paper data is already up to date.");
     }
