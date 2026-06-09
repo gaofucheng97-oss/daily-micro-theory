@@ -1,1 +1,1417 @@
-[]
+[
+  {
+    "id": "repec-ideas-https-ideas-repec-org-p-hal-wpaper-hal-05486053-html",
+    "title": "Contracts in the reform of the EU electricity market",
+    "authors": [
+      "Stefan Ambec",
+      "Claude Crampes",
+      "Jean Tirole"
+    ],
+    "matchedAuthor": "Jean Tirole",
+    "matchedAuthorRepecUrl": "https://ideas.repec.org/e/pti33.html",
+    "publicationDate": "2026-01-01",
+    "abstract": null,
+    "abstractPreview": null,
+    "source": "RePEc/IDEAS",
+    "paperUrl": "https://ideas.repec.org/p/hal/wpaper/hal-05486053.html",
+    "pdfUrl": null,
+    "doi": null,
+    "topics": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "relevanceScore": 1,
+    "collectedAt": "2026-06-09T12:24:08.664Z"
+  },
+  {
+    "id": "repec-ideas-https-ideas-repec-org-p-arx-papers-2601-05914-html",
+    "title": "Bayesian Persuasion with Selective Disclosure",
+    "authors": [
+      "Yifan Dai",
+      "Drew Fudenberg",
+      "Harry Pei"
+    ],
+    "matchedAuthor": "Drew Fudenberg",
+    "matchedAuthorRepecUrl": "https://ideas.repec.org/e/pfu49.html",
+    "publicationDate": "2026-01-01",
+    "abstract": null,
+    "abstractPreview": null,
+    "source": "RePEc/IDEAS",
+    "paperUrl": "https://ideas.repec.org/p/arx/papers/2601.05914.html",
+    "pdfUrl": null,
+    "doi": null,
+    "topics": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "relevanceScore": 2,
+    "collectedAt": "2026-06-09T12:24:08.664Z"
+  },
+  {
+    "id": "repec-ideas-https-ideas-repec-org-p-arx-papers-2602-15674-html",
+    "title": "Complexity and Misspecification",
+    "authors": [
+      "Drew Fudenberg",
+      "Florian Mudekereza"
+    ],
+    "matchedAuthor": "Drew Fudenberg",
+    "matchedAuthorRepecUrl": "https://ideas.repec.org/e/pfu49.html",
+    "publicationDate": "2026-01-01",
+    "abstract": null,
+    "abstractPreview": null,
+    "source": "RePEc/IDEAS",
+    "paperUrl": "https://ideas.repec.org/p/arx/papers/2602.15674.html",
+    "pdfUrl": null,
+    "doi": null,
+    "topics": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "relevanceScore": 2,
+    "collectedAt": "2026-06-09T12:24:08.664Z"
+  },
+  {
+    "id": "repec-ideas-https-ideas-repec-org-p-arx-papers-2602-07688-html",
+    "title": "Model Restrictiveness in Functional and Structural Settings",
+    "authors": [
+      "Drew Fudenberg",
+      "Wayne Yuan Gao",
+      "Zhiheng You"
+    ],
+    "matchedAuthor": "Drew Fudenberg",
+    "matchedAuthorRepecUrl": "https://ideas.repec.org/e/pfu49.html",
+    "publicationDate": "2026-01-01",
+    "abstract": null,
+    "abstractPreview": null,
+    "source": "RePEc/IDEAS",
+    "paperUrl": "https://ideas.repec.org/p/arx/papers/2602.07688.html",
+    "pdfUrl": null,
+    "doi": null,
+    "topics": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "relevanceScore": 2,
+    "collectedAt": "2026-06-09T12:24:08.664Z"
+  },
+  {
+    "id": "repec-ideas-https-ideas-repec-org-p-nbr-nberwo-34909-html",
+    "title": "Multidimensional Signaling and the Rise of Cultural Politics",
+    "authors": [
+      "Daron Acemoglu",
+      "Georgy Egorov",
+      "Konstantin Sonin"
+    ],
+    "matchedAuthor": "Daron Acemoglu",
+    "matchedAuthorRepecUrl": "https://ideas.repec.org/e/pac16.html",
+    "publicationDate": "2026-01-01",
+    "abstract": null,
+    "abstractPreview": null,
+    "source": "RePEc/IDEAS",
+    "paperUrl": "https://ideas.repec.org/p/nbr/nberwo/34909.html",
+    "pdfUrl": null,
+    "doi": null,
+    "topics": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "relevanceScore": 3,
+    "collectedAt": "2026-06-09T12:24:08.664Z"
+  },
+  {
+    "id": "repec-ideas-https-ideas-repec-org-p-nbr-nberwo-34910-html",
+    "title": "AI, Human Cognition and Knowledge Collapse",
+    "authors": [
+      "Daron Acemoglu",
+      "Dingwen Kong",
+      "Asuman Ozdaglar"
+    ],
+    "matchedAuthor": "Daron Acemoglu",
+    "matchedAuthorRepecUrl": "https://ideas.repec.org/e/pac16.html",
+    "publicationDate": "2026-01-01",
+    "abstract": null,
+    "abstractPreview": null,
+    "source": "RePEc/IDEAS",
+    "paperUrl": "https://ideas.repec.org/p/nbr/nberwo/34910.html",
+    "pdfUrl": null,
+    "doi": null,
+    "topics": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "relevanceScore": 3,
+    "collectedAt": "2026-06-09T12:24:08.664Z"
+  },
+  {
+    "id": "repec-ideas-https-ideas-repec-org-p-nbr-nberwo-35036-html",
+    "title": "How AI Aggregation Affects Knowledge",
+    "authors": [
+      "Daron Acemoglu",
+      "Tianyi Lin",
+      "Asuman Ozdaglar",
+      "James Siderius"
+    ],
+    "matchedAuthor": "Daron Acemoglu",
+    "matchedAuthorRepecUrl": "https://ideas.repec.org/e/pac16.html",
+    "publicationDate": "2026-01-01",
+    "abstract": null,
+    "abstractPreview": null,
+    "source": "RePEc/IDEAS",
+    "paperUrl": "https://ideas.repec.org/p/nbr/nberwo/35036.html",
+    "pdfUrl": null,
+    "doi": null,
+    "topics": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "relevanceScore": 3,
+    "collectedAt": "2026-06-09T12:24:08.664Z"
+  },
+  {
+    "id": "repec-ideas-https-ideas-repec-org-p-nbr-nberwo-34730-html",
+    "title": "Technology and Economic Development",
+    "authors": [
+      "Daron Acemoglu",
+      "Ufuk Akcigit",
+      "Simon Johnson"
+    ],
+    "matchedAuthor": "Daron Acemoglu",
+    "matchedAuthorRepecUrl": "https://ideas.repec.org/e/pac16.html",
+    "publicationDate": "2026-01-01",
+    "abstract": null,
+    "abstractPreview": null,
+    "source": "RePEc/IDEAS",
+    "paperUrl": "https://ideas.repec.org/p/nbr/nberwo/34730.html",
+    "pdfUrl": null,
+    "doi": null,
+    "topics": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "relevanceScore": 3,
+    "collectedAt": "2026-06-09T12:24:08.664Z"
+  },
+  {
+    "id": "repec-ideas-https-ideas-repec-org-p-nbr-nberwo-34854-html",
+    "title": "Building Pro-Worker Artificial Intelligence",
+    "authors": [
+      "Daron Acemoglu",
+      "David Autor",
+      "Simon Johnson"
+    ],
+    "matchedAuthor": "Daron Acemoglu",
+    "matchedAuthorRepecUrl": "https://ideas.repec.org/e/pac16.html",
+    "publicationDate": "2026-01-01",
+    "abstract": null,
+    "abstractPreview": null,
+    "source": "RePEc/IDEAS",
+    "paperUrl": "https://ideas.repec.org/p/nbr/nberwo/34854.html",
+    "pdfUrl": null,
+    "doi": null,
+    "topics": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "relevanceScore": 3,
+    "collectedAt": "2026-06-09T12:24:08.664Z"
+  },
+  {
+    "id": "repec-ideas-https-ideas-repec-org-p-nbr-nberwo-35119-html",
+    "title": "How Reform Happens",
+    "authors": [
+      "Simeon Djankov",
+      "Edward L. Glaeser",
+      "Andrei Shleifer"
+    ],
+    "matchedAuthor": "Andrei Shleifer",
+    "matchedAuthorRepecUrl": "https://ideas.repec.org/e/psh93.html",
+    "publicationDate": "2026-01-01",
+    "abstract": null,
+    "abstractPreview": null,
+    "source": "RePEc/IDEAS",
+    "paperUrl": "https://ideas.repec.org/p/nbr/nberwo/35119.html",
+    "pdfUrl": null,
+    "doi": null,
+    "topics": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "relevanceScore": 5,
+    "collectedAt": "2026-06-09T12:24:08.664Z"
+  },
+  {
+    "id": "repec-ideas-https-ideas-repec-org-p-nbr-nberwo-35214-html",
+    "title": "The Psychology of Macroeconomic Expectations",
+    "authors": [
+      "Pedro Bordalo",
+      "Nicola Gennaioli",
+      "Florencio Lopez-de-Silanes",
+      "Simon G. Schröder",
+      "Andrei Shleifer",
+      "Maarten van Rooij"
+    ],
+    "matchedAuthor": "Andrei Shleifer",
+    "matchedAuthorRepecUrl": "https://ideas.repec.org/e/psh93.html",
+    "publicationDate": "2026-01-01",
+    "abstract": null,
+    "abstractPreview": null,
+    "source": "RePEc/IDEAS",
+    "paperUrl": "https://ideas.repec.org/p/nbr/nberwo/35214.html",
+    "pdfUrl": null,
+    "doi": null,
+    "topics": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "relevanceScore": 5,
+    "collectedAt": "2026-06-09T12:24:08.664Z"
+  },
+  {
+    "id": "repec-ideas-https-ideas-repec-org-p-nbr-nberwo-34834-html",
+    "title": "GPT as a Measurement Tool",
+    "authors": [
+      "Hemanth Asirvatham",
+      "Elliott Mokski",
+      "Andrei Shleifer"
+    ],
+    "matchedAuthor": "Andrei Shleifer",
+    "matchedAuthorRepecUrl": "https://ideas.repec.org/e/psh93.html",
+    "publicationDate": "2026-01-01",
+    "abstract": null,
+    "abstractPreview": null,
+    "source": "RePEc/IDEAS",
+    "paperUrl": "https://ideas.repec.org/p/nbr/nberwo/34834.html",
+    "pdfUrl": null,
+    "doi": null,
+    "topics": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "relevanceScore": 5,
+    "collectedAt": "2026-06-09T12:24:08.664Z"
+  },
+  {
+    "id": "repec-ideas-https-ideas-repec-org-p-cpr-ceprdp-21088-html",
+    "title": "Information Design and Mechanism Design: An Integrated Framework",
+    "authors": [
+      "Bergemann, Dirk",
+      "Heumann, Tibor",
+      "Morris, Stephen"
+    ],
+    "matchedAuthor": "Dirk Bergemann",
+    "matchedAuthorRepecUrl": "https://ideas.repec.org/f/pbe258.html",
+    "publicationDate": "2026-01-01",
+    "abstract": null,
+    "abstractPreview": null,
+    "source": "RePEc/IDEAS",
+    "paperUrl": "https://ideas.repec.org/p/cpr/ceprdp/21088.html",
+    "pdfUrl": null,
+    "doi": null,
+    "topics": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "relevanceScore": 7,
+    "collectedAt": "2026-06-09T12:24:08.664Z"
+  },
+  {
+    "id": "repec-ideas-https-ideas-repec-org-p-arx-papers-2604-16472-html",
+    "title": "Training Language Models for Bilateral Trade with Private Information",
+    "authors": [
+      "Dirk Bergemann",
+      "Soheil Ghili",
+      "Xinyang Hu",
+      "Chuanhao Li",
+      "Zhuoran Yang"
+    ],
+    "matchedAuthor": "Dirk Bergemann",
+    "matchedAuthorRepecUrl": "https://ideas.repec.org/f/pbe258.html",
+    "publicationDate": "2026-01-01",
+    "abstract": null,
+    "abstractPreview": null,
+    "source": "RePEc/IDEAS",
+    "paperUrl": "https://ideas.repec.org/p/arx/papers/2604.16472.html",
+    "pdfUrl": null,
+    "doi": null,
+    "topics": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "relevanceScore": 7,
+    "collectedAt": "2026-06-09T12:24:08.664Z"
+  },
+  {
+    "id": "repec-ideas-https-ideas-repec-org-p-arx-papers-2605-22632-html",
+    "title": "Position: The Pre/Post-Training Boundary Should Govern IP in Industry-Academia ML Collaborations",
+    "authors": [
+      "Dirk Bergemann",
+      "Soheil Ghili",
+      "Nitzan Mekel-Bobrov"
+    ],
+    "matchedAuthor": "Dirk Bergemann",
+    "matchedAuthorRepecUrl": "https://ideas.repec.org/f/pbe258.html",
+    "publicationDate": "2026-01-01",
+    "abstract": null,
+    "abstractPreview": null,
+    "source": "RePEc/IDEAS",
+    "paperUrl": "https://ideas.repec.org/p/arx/papers/2605.22632.html",
+    "pdfUrl": null,
+    "doi": null,
+    "topics": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "relevanceScore": 7,
+    "collectedAt": "2026-06-09T12:24:08.664Z"
+  },
+  {
+    "id": "repec-ideas-https-ideas-repec-org-p-arx-papers-2605-16695-html",
+    "title": "Supply Chain Coordination Mechanism Design: Consensus Planning Protocol Meets Vickrey-Clarke-Groves Mechanism",
+    "authors": [
+      "Dirk Bergemann",
+      "Garrett van Ryzin",
+      "Jiaxuan Li"
+    ],
+    "matchedAuthor": "Dirk Bergemann",
+    "matchedAuthorRepecUrl": "https://ideas.repec.org/f/pbe258.html",
+    "publicationDate": "2026-01-01",
+    "abstract": null,
+    "abstractPreview": null,
+    "source": "RePEc/IDEAS",
+    "paperUrl": "https://ideas.repec.org/p/arx/papers/2605.16695.html",
+    "pdfUrl": null,
+    "doi": null,
+    "topics": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "relevanceScore": 7,
+    "collectedAt": "2026-06-09T12:24:08.664Z"
+  },
+  {
+    "id": "repec-ideas-https-ideas-repec-org-p-cpr-ceprdp-21275-html",
+    "title": "Menu Pricing of Large Language Models",
+    "authors": [
+      "Bergemann, Dirk",
+      "Bonatti, Alessandro",
+      "Smolin, Alex"
+    ],
+    "matchedAuthor": "Dirk Bergemann",
+    "matchedAuthorRepecUrl": "https://ideas.repec.org/f/pbe258.html",
+    "publicationDate": "2026-01-01",
+    "abstract": null,
+    "abstractPreview": null,
+    "source": "RePEc/IDEAS",
+    "paperUrl": "https://ideas.repec.org/p/cpr/ceprdp/21275.html",
+    "pdfUrl": null,
+    "doi": null,
+    "topics": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "relevanceScore": 7,
+    "collectedAt": "2026-06-09T12:24:08.664Z"
+  },
+  {
+    "id": "repec-ideas-https-ideas-repec-org-p-cla-levarc-786969000000001843-html",
+    "title": "Behavioral Mechanism Design as a Benchmark for Experimental Studies",
+    "authors": [
+      "David K Levine"
+    ],
+    "matchedAuthor": "David Levine",
+    "matchedAuthorRepecUrl": "https://ideas.repec.org/e/ple26.html",
+    "publicationDate": "2026-01-01",
+    "abstract": null,
+    "abstractPreview": null,
+    "source": "RePEc/IDEAS",
+    "paperUrl": "https://ideas.repec.org/p/cla/levarc/786969000000001843.html",
+    "pdfUrl": null,
+    "doi": null,
+    "topics": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "relevanceScore": 9,
+    "collectedAt": "2026-06-09T12:24:08.664Z"
+  },
+  {
+    "id": "repec-ideas-https-ideas-repec-org-p-cla-levarc-11694000000000199-html",
+    "title": "Vote or Fight?",
+    "authors": [
+      "David K Levine",
+      "Cesar Martinelli",
+      "Nicole Stoelinga"
+    ],
+    "matchedAuthor": "David Levine",
+    "matchedAuthorRepecUrl": "https://ideas.repec.org/e/ple26.html",
+    "publicationDate": "2026-01-01",
+    "abstract": null,
+    "abstractPreview": null,
+    "source": "RePEc/IDEAS",
+    "paperUrl": "https://ideas.repec.org/p/cla/levarc/11694000000000199.html",
+    "pdfUrl": null,
+    "doi": null,
+    "topics": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "relevanceScore": 9,
+    "collectedAt": "2026-06-09T12:24:08.664Z"
+  },
+  {
+    "id": "repec-ideas-https-ideas-repec-org-p-cla-levarc-735347000000000007-html",
+    "title": "Predicting Cooperation with Welfare Maximization and Trembles",
+    "authors": [
+      "David K Levine"
+    ],
+    "matchedAuthor": "David Levine",
+    "matchedAuthorRepecUrl": "https://ideas.repec.org/e/ple26.html",
+    "publicationDate": "2026-01-01",
+    "abstract": null,
+    "abstractPreview": null,
+    "source": "RePEc/IDEAS",
+    "paperUrl": "https://ideas.repec.org/p/cla/levarc/735347000000000007.html",
+    "pdfUrl": null,
+    "doi": null,
+    "topics": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "relevanceScore": 9,
+    "collectedAt": "2026-06-09T12:24:08.664Z"
+  },
+  {
+    "id": "repec-ideas-https-ideas-repec-org-p-cla-levarc-11694000000000112-html",
+    "title": "Cooperating Through Leaders",
+    "authors": [
+      "David K Levine",
+      "Salvatore Modica",
+      "Aldo Rustichini"
+    ],
+    "matchedAuthor": "David Levine",
+    "matchedAuthorRepecUrl": "https://ideas.repec.org/e/ple26.html",
+    "publicationDate": "2026-01-01",
+    "abstract": null,
+    "abstractPreview": null,
+    "source": "RePEc/IDEAS",
+    "paperUrl": "https://ideas.repec.org/p/cla/levarc/11694000000000112.html",
+    "pdfUrl": null,
+    "doi": null,
+    "topics": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "relevanceScore": 9,
+    "collectedAt": "2026-06-09T12:24:08.664Z"
+  },
+  {
+    "id": "repec-ideas-https-ideas-repec-org-p-nbr-nberwo-35211-html",
+    "title": "Endogenous Task Bundling, Skills and Automation",
+    "authors": [
+      "Joshua S. Gans"
+    ],
+    "matchedAuthor": "Joshua Gans",
+    "matchedAuthorRepecUrl": "https://ideas.repec.org/e/pga42.html",
+    "publicationDate": "2026-01-01",
+    "abstract": null,
+    "abstractPreview": null,
+    "source": "RePEc/IDEAS",
+    "paperUrl": "https://ideas.repec.org/p/nbr/nberwo/35211.html",
+    "pdfUrl": null,
+    "doi": null,
+    "topics": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "relevanceScore": 14,
+    "collectedAt": "2026-06-09T12:24:08.664Z"
+  },
+  {
+    "id": "repec-ideas-https-ideas-repec-org-p-nbr-nberwo-34639-html",
+    "title": "O-Ring Automation",
+    "authors": [
+      "Joshua S. Gans",
+      "Avi Goldfarb"
+    ],
+    "matchedAuthor": "Joshua Gans",
+    "matchedAuthorRepecUrl": "https://ideas.repec.org/e/pga42.html",
+    "publicationDate": "2026-01-01",
+    "abstract": null,
+    "abstractPreview": null,
+    "source": "RePEc/IDEAS",
+    "paperUrl": "https://ideas.repec.org/p/nbr/nberwo/34639.html",
+    "pdfUrl": null,
+    "doi": null,
+    "topics": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "relevanceScore": 14,
+    "collectedAt": "2026-06-09T12:24:08.664Z"
+  },
+  {
+    "id": "repec-ideas-https-ideas-repec-org-p-arx-papers-2601-07573-html",
+    "title": "A Model of Artificial Jagged Intelligence",
+    "authors": [
+      "Joshua Gans"
+    ],
+    "matchedAuthor": "Joshua Gans",
+    "matchedAuthorRepecUrl": "https://ideas.repec.org/e/pga42.html",
+    "publicationDate": "2026-01-01",
+    "abstract": null,
+    "abstractPreview": null,
+    "source": "RePEc/IDEAS",
+    "paperUrl": "https://ideas.repec.org/p/arx/papers/2601.07573.html",
+    "pdfUrl": null,
+    "doi": null,
+    "topics": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "relevanceScore": 14,
+    "collectedAt": "2026-06-09T12:24:08.664Z"
+  },
+  {
+    "id": "repec-ideas-https-ideas-repec-org-p-nbr-nberwo-35207-html",
+    "title": "More Paths or More Contrast? A Theory of Experimentation Breadth",
+    "authors": [
+      "Joshua S. Gans",
+      "Luca Gius"
+    ],
+    "matchedAuthor": "Joshua Gans",
+    "matchedAuthorRepecUrl": "https://ideas.repec.org/e/pga42.html",
+    "publicationDate": "2026-01-01",
+    "abstract": null,
+    "abstractPreview": null,
+    "source": "RePEc/IDEAS",
+    "paperUrl": "https://ideas.repec.org/p/nbr/nberwo/35207.html",
+    "pdfUrl": null,
+    "doi": null,
+    "topics": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "relevanceScore": 14,
+    "collectedAt": "2026-06-09T12:24:08.664Z"
+  },
+  {
+    "id": "repec-ideas-https-ideas-repec-org-p-arx-papers-2601-18732-html",
+    "title": "Optimal Use of Preferences in Artificial Intelligence Algorithms",
+    "authors": [
+      "Joshua S. Gans"
+    ],
+    "matchedAuthor": "Joshua Gans",
+    "matchedAuthorRepecUrl": "https://ideas.repec.org/e/pga42.html",
+    "publicationDate": "2026-01-01",
+    "abstract": null,
+    "abstractPreview": null,
+    "source": "RePEc/IDEAS",
+    "paperUrl": "https://ideas.repec.org/p/arx/papers/2601.18732.html",
+    "pdfUrl": null,
+    "doi": null,
+    "topics": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "relevanceScore": 14,
+    "collectedAt": "2026-06-09T12:24:08.664Z"
+  },
+  {
+    "id": "repec-ideas-https-ideas-repec-org-p-nbr-nberwo-34669-html",
+    "title": "Price Discrimination with Costless Resale",
+    "authors": [
+      "Joshua S. Gans"
+    ],
+    "matchedAuthor": "Joshua Gans",
+    "matchedAuthorRepecUrl": "https://ideas.repec.org/e/pga42.html",
+    "publicationDate": "2026-01-01",
+    "abstract": null,
+    "abstractPreview": null,
+    "source": "RePEc/IDEAS",
+    "paperUrl": "https://ideas.repec.org/p/nbr/nberwo/34669.html",
+    "pdfUrl": null,
+    "doi": null,
+    "topics": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "relevanceScore": 14,
+    "collectedAt": "2026-06-09T12:24:08.664Z"
+  },
+  {
+    "id": "repec-ideas-https-ideas-repec-org-p-nbr-nberwo-35091-html",
+    "title": "Belief Dispersion and Entrepreneurial Entry",
+    "authors": [
+      "Joshua S. Gans"
+    ],
+    "matchedAuthor": "Joshua Gans",
+    "matchedAuthorRepecUrl": "https://ideas.repec.org/e/pga42.html",
+    "publicationDate": "2026-01-01",
+    "abstract": null,
+    "abstractPreview": null,
+    "source": "RePEc/IDEAS",
+    "paperUrl": "https://ideas.repec.org/p/nbr/nberwo/35091.html",
+    "pdfUrl": null,
+    "doi": null,
+    "topics": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "relevanceScore": 14,
+    "collectedAt": "2026-06-09T12:24:08.664Z"
+  },
+  {
+    "id": "repec-ideas-https-ideas-repec-org-p-nbr-nberwo-34850-html",
+    "title": "Managing the Entrepreneur's Miracle Budget",
+    "authors": [
+      "Joshua S. Gans"
+    ],
+    "matchedAuthor": "Joshua Gans",
+    "matchedAuthorRepecUrl": "https://ideas.repec.org/e/pga42.html",
+    "publicationDate": "2026-01-01",
+    "abstract": null,
+    "abstractPreview": null,
+    "source": "RePEc/IDEAS",
+    "paperUrl": "https://ideas.repec.org/p/nbr/nberwo/34850.html",
+    "pdfUrl": null,
+    "doi": null,
+    "topics": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "relevanceScore": 14,
+    "collectedAt": "2026-06-09T12:24:08.664Z"
+  },
+  {
+    "id": "repec-ideas-https-ideas-repec-org-p-nbr-nberwo-35172-html",
+    "title": "Competitive Exposure and Entrepreneurial Experimentation",
+    "authors": [
+      "Joshua S. Gans"
+    ],
+    "matchedAuthor": "Joshua Gans",
+    "matchedAuthorRepecUrl": "https://ideas.repec.org/e/pga42.html",
+    "publicationDate": "2026-01-01",
+    "abstract": null,
+    "abstractPreview": null,
+    "source": "RePEc/IDEAS",
+    "paperUrl": "https://ideas.repec.org/p/nbr/nberwo/35172.html",
+    "pdfUrl": null,
+    "doi": null,
+    "topics": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "relevanceScore": 14,
+    "collectedAt": "2026-06-09T12:24:08.664Z"
+  },
+  {
+    "id": "repec-ideas-https-ideas-repec-org-p-nbr-nberwo-35183-html",
+    "title": "What Does A Grade Mean? Informativeness and Strategic Manipulation of Grading Systems",
+    "authors": [
+      "Joshua S. Gans",
+      "Scott Duke Kominers"
+    ],
+    "matchedAuthor": "Joshua Gans",
+    "matchedAuthorRepecUrl": "https://ideas.repec.org/e/pga42.html",
+    "publicationDate": "2026-01-01",
+    "abstract": null,
+    "abstractPreview": null,
+    "source": "RePEc/IDEAS",
+    "paperUrl": "https://ideas.repec.org/p/nbr/nberwo/35183.html",
+    "pdfUrl": null,
+    "doi": null,
+    "topics": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "relevanceScore": 14,
+    "collectedAt": "2026-06-09T12:24:08.664Z"
+  },
+  {
+    "id": "repec-ideas-https-ideas-repec-org-a-eee-ecolet-v263y2026ics0165176526001291-html",
+    "title": "Platform pricing and data bargaining",
+    "authors": [
+      "Gans, Joshua S."
+    ],
+    "matchedAuthor": "Joshua Gans",
+    "matchedAuthorRepecUrl": "https://ideas.repec.org/e/pga42.html",
+    "publicationDate": "2026-01-01",
+    "abstract": null,
+    "abstractPreview": null,
+    "source": "RePEc/IDEAS",
+    "paperUrl": "https://ideas.repec.org/a/eee/ecolet/v263y2026ics0165176526001291.html",
+    "pdfUrl": null,
+    "doi": null,
+    "topics": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "relevanceScore": 14,
+    "collectedAt": "2026-06-09T12:24:08.664Z"
+  },
+  {
+    "id": "repec-ideas-https-ideas-repec-org-b-nbr-nberbk-agra-4-html",
+    "title": "The Political Economy of Artificial Intelligence",
+    "authors": [
+      "Ajay Agrawal",
+      "Joshua Gans",
+      "Avi Goldfarb",
+      "Catherine Tucker"
+    ],
+    "matchedAuthor": "Joshua Gans",
+    "matchedAuthorRepecUrl": "https://ideas.repec.org/e/pga42.html",
+    "publicationDate": "2026-01-01",
+    "abstract": null,
+    "abstractPreview": null,
+    "source": "RePEc/IDEAS",
+    "paperUrl": "https://ideas.repec.org/b/nbr/nberbk/agra-4.html",
+    "pdfUrl": null,
+    "doi": null,
+    "topics": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "relevanceScore": 14,
+    "collectedAt": "2026-06-09T12:24:08.664Z"
+  },
+  {
+    "id": "repec-ideas-https-ideas-repec-org-p-hal-wpaper-hal-05551104-html",
+    "title": "Dynamic Efficiency With Private Information",
+    "authors": [
+      "Bruno Biais",
+      "Hans Gersbach",
+      "Jean-Charles Rochet",
+      "Stéphane Villeneuve"
+    ],
+    "matchedAuthor": "Jean Charles Rochet",
+    "matchedAuthorRepecUrl": "https://ideas.repec.org/e/pro57.html",
+    "publicationDate": "2026-01-01",
+    "abstract": null,
+    "abstractPreview": null,
+    "source": "RePEc/IDEAS",
+    "paperUrl": "https://ideas.repec.org/p/hal/wpaper/hal-05551104.html",
+    "pdfUrl": null,
+    "doi": null,
+    "topics": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "relevanceScore": 15,
+    "collectedAt": "2026-06-09T12:24:08.664Z"
+  },
+  {
+    "id": "repec-ideas-https-ideas-repec-org-p-hal-wpaper-hal-05551080-html",
+    "title": "Should we stop the COPs ?",
+    "authors": [
+      "Renaud Bourlès",
+      "Jérémy Laurent-Lucchetti",
+      "Jean-Charles Rochet"
+    ],
+    "matchedAuthor": "Jean Charles Rochet",
+    "matchedAuthorRepecUrl": "https://ideas.repec.org/e/pro57.html",
+    "publicationDate": "2026-01-01",
+    "abstract": null,
+    "abstractPreview": null,
+    "source": "RePEc/IDEAS",
+    "paperUrl": "https://ideas.repec.org/p/hal/wpaper/hal-05551080.html",
+    "pdfUrl": null,
+    "doi": null,
+    "topics": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "relevanceScore": 15,
+    "collectedAt": "2026-06-09T12:24:08.664Z"
+  },
+  {
+    "id": "repec-ideas-https-ideas-repec-org-p-arx-papers-2602-15246-html",
+    "title": "Learning Against Nature: Minimax Regret and the Price of Robustness",
+    "authors": [
+      "Yeon-Koo Che",
+      "Longjian Li",
+      "Tianling Luo"
+    ],
+    "matchedAuthor": "Yeon-Koo Che",
+    "matchedAuthorRepecUrl": "https://ideas.repec.org/e/pch91.html",
+    "publicationDate": "2026-01-01",
+    "abstract": null,
+    "abstractPreview": null,
+    "source": "RePEc/IDEAS",
+    "paperUrl": "https://ideas.repec.org/p/arx/papers/2602.15246.html",
+    "pdfUrl": null,
+    "doi": null,
+    "topics": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "relevanceScore": 22,
+    "collectedAt": "2026-06-09T12:24:08.664Z"
+  },
+  {
+    "id": "repec-ideas-https-ideas-repec-org-p-ssa-lemwps-2026-06-html",
+    "title": "Decoding drug search under public funding: rates, directions, and social impacts in an agent-based model",
+    "authors": [
+      "Giovanni Dosi",
+      "Elisa Palagi",
+      "Andrea Roventini",
+      "Joseph Stiglitz"
+    ],
+    "matchedAuthor": "Joseph Stiglitz",
+    "matchedAuthorRepecUrl": "https://ideas.repec.org/e/pst33.html",
+    "publicationDate": "2026-01-01",
+    "abstract": null,
+    "abstractPreview": null,
+    "source": "RePEc/IDEAS",
+    "paperUrl": "https://ideas.repec.org/p/ssa/lemwps/2026-06.html",
+    "pdfUrl": null,
+    "doi": null,
+    "topics": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "relevanceScore": 23,
+    "collectedAt": "2026-06-09T12:24:08.664Z"
+  },
+  {
+    "id": "repec-ideas-https-ideas-repec-org-p-nbr-nberwo-34994-html",
+    "title": "Steering Technological Progress",
+    "authors": [
+      "Anton Korinek",
+      "Joseph E. Stiglitz"
+    ],
+    "matchedAuthor": "Joseph Stiglitz",
+    "matchedAuthorRepecUrl": "https://ideas.repec.org/e/pst33.html",
+    "publicationDate": "2026-01-01",
+    "abstract": null,
+    "abstractPreview": null,
+    "source": "RePEc/IDEAS",
+    "paperUrl": "https://ideas.repec.org/p/nbr/nberwo/34994.html",
+    "pdfUrl": null,
+    "doi": null,
+    "topics": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "relevanceScore": 23,
+    "collectedAt": "2026-06-09T12:24:08.664Z"
+  },
+  {
+    "id": "repec-ideas-https-ideas-repec-org-p-hal-wpaper-hal-05601560-html",
+    "title": "On The (Relative) Merits of Money Burning For Optimal Contracting",
+    "authors": [
+      "Javier Gonzalez Morin",
+      "David Martimort"
+    ],
+    "matchedAuthor": "David Martimort",
+    "matchedAuthorRepecUrl": "https://ideas.repec.org/f/pma1390.html",
+    "publicationDate": "2026-01-01",
+    "abstract": null,
+    "abstractPreview": null,
+    "source": "RePEc/IDEAS",
+    "paperUrl": "https://ideas.repec.org/p/hal/wpaper/hal-05601560.html",
+    "pdfUrl": null,
+    "doi": null,
+    "topics": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "relevanceScore": 24,
+    "collectedAt": "2026-06-09T12:24:08.664Z"
+  },
+  {
+    "id": "repec-ideas-https-ideas-repec-org-p-hal-wpaper-hal-05488377-html",
+    "title": "Institutional Design For Environmental Acts",
+    "authors": [
+      "Louise Guillouet",
+      "David Martimort"
+    ],
+    "matchedAuthor": "David Martimort",
+    "matchedAuthorRepecUrl": "https://ideas.repec.org/f/pma1390.html",
+    "publicationDate": "2026-01-01",
+    "abstract": null,
+    "abstractPreview": null,
+    "source": "RePEc/IDEAS",
+    "paperUrl": "https://ideas.repec.org/p/hal/wpaper/hal-05488377.html",
+    "pdfUrl": null,
+    "doi": null,
+    "topics": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "relevanceScore": 24,
+    "collectedAt": "2026-06-09T12:24:08.664Z"
+  },
+  {
+    "id": "repec-ideas-https-ideas-repec-org-p-hal-wpaper-hal-05488373-html",
+    "title": "A Demand-Side Driven Explanation of Niche Lobbying: A Theory and Some Application to Climate-Biodiversity Policy",
+    "authors": [
+      "Perrin Lefebvre",
+      "David Martimort"
+    ],
+    "matchedAuthor": "David Martimort",
+    "matchedAuthorRepecUrl": "https://ideas.repec.org/f/pma1390.html",
+    "publicationDate": "2026-01-01",
+    "abstract": null,
+    "abstractPreview": null,
+    "source": "RePEc/IDEAS",
+    "paperUrl": "https://ideas.repec.org/p/hal/wpaper/hal-05488373.html",
+    "pdfUrl": null,
+    "doi": null,
+    "topics": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "relevanceScore": 24,
+    "collectedAt": "2026-06-09T12:24:08.664Z"
+  },
+  {
+    "id": "repec-ideas-https-ideas-repec-org-p-ott-wpaper-2603e-html",
+    "title": "Optimal Stationary Contracts under One-Sided Enforcement and Persistent Adverse Selection",
+    "authors": [
+      "David Martimort",
+      "Aggey Simons"
+    ],
+    "matchedAuthor": "David Martimort",
+    "matchedAuthorRepecUrl": "https://ideas.repec.org/f/pma1390.html",
+    "publicationDate": "2026-01-01",
+    "abstract": null,
+    "abstractPreview": null,
+    "source": "RePEc/IDEAS",
+    "paperUrl": "https://ideas.repec.org/p/ott/wpaper/2603e.html",
+    "pdfUrl": null,
+    "doi": null,
+    "topics": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "relevanceScore": 24,
+    "collectedAt": "2026-06-09T12:24:08.664Z"
+  },
+  {
+    "id": "repec-ideas-https-ideas-repec-org-p-hal-wpaper-hal-05459518-html",
+    "title": "Economics of Procurement and Organizational Design: A review of selected literature 1",
+    "authors": [
+      "Bruno Jullien",
+      "Matthieu Bouvard",
+      "David Martimort"
+    ],
+    "matchedAuthor": "David Martimort",
+    "matchedAuthorRepecUrl": "https://ideas.repec.org/f/pma1390.html",
+    "publicationDate": "2026-01-01",
+    "abstract": null,
+    "abstractPreview": null,
+    "source": "RePEc/IDEAS",
+    "paperUrl": "https://ideas.repec.org/p/hal/wpaper/hal-05459518.html",
+    "pdfUrl": null,
+    "doi": null,
+    "topics": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "relevanceScore": 24,
+    "collectedAt": "2026-06-09T12:24:08.664Z"
+  },
+  {
+    "id": "repec-ideas-https-ideas-repec-org-p-hal-wpaper-hal-04991014-html",
+    "title": "Optimal contracts under moral hazard, adverse selection and limited liability",
+    "authors": [
+      "David Martimort",
+      "Jean-Christophe Poudou",
+      "Lionel Thomas"
+    ],
+    "matchedAuthor": "David Martimort",
+    "matchedAuthorRepecUrl": "https://ideas.repec.org/f/pma1390.html",
+    "publicationDate": "2026-01-01",
+    "abstract": null,
+    "abstractPreview": null,
+    "source": "RePEc/IDEAS",
+    "paperUrl": "https://ideas.repec.org/p/hal/wpaper/hal-04991014.html",
+    "pdfUrl": null,
+    "doi": null,
+    "topics": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "relevanceScore": 24,
+    "collectedAt": "2026-06-09T12:24:08.664Z"
+  },
+  {
+    "id": "repec-ideas-https-ideas-repec-org-p-hal-wpaper-hal-05461307-html",
+    "title": "Buying Components",
+    "authors": [
+      "Bruno Jullien",
+      "Matthieu Bouvard",
+      "David Martimort"
+    ],
+    "matchedAuthor": "David Martimort",
+    "matchedAuthorRepecUrl": "https://ideas.repec.org/f/pma1390.html",
+    "publicationDate": "2026-01-01",
+    "abstract": null,
+    "abstractPreview": null,
+    "source": "RePEc/IDEAS",
+    "paperUrl": "https://ideas.repec.org/p/hal/wpaper/hal-05461307.html",
+    "pdfUrl": null,
+    "doi": null,
+    "topics": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "relevanceScore": 24,
+    "collectedAt": "2026-06-09T12:24:08.664Z"
+  },
+  {
+    "id": "repec-ideas-https-ideas-repec-org-p-hal-wpaper-hal-05488385-html",
+    "title": "One-Sided Enforcement in a Model with Persistent Adverse Selection",
+    "authors": [
+      "David Martimort",
+      "Aggey Simons"
+    ],
+    "matchedAuthor": "David Martimort",
+    "matchedAuthorRepecUrl": "https://ideas.repec.org/f/pma1390.html",
+    "publicationDate": "2026-01-01",
+    "abstract": null,
+    "abstractPreview": null,
+    "source": "RePEc/IDEAS",
+    "paperUrl": "https://ideas.repec.org/p/hal/wpaper/hal-05488385.html",
+    "pdfUrl": null,
+    "doi": null,
+    "topics": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "relevanceScore": 24,
+    "collectedAt": "2026-06-09T12:24:08.664Z"
+  },
+  {
+    "id": "repec-ideas-https-ideas-repec-org-p-hal-wpaper-hal-04758824-html",
+    "title": "The Incentive Virtues of Performance-Based Trade Allowances and Loss Leading",
+    "authors": [
+      "David Martimort",
+      "Jérôme Pouyet"
+    ],
+    "matchedAuthor": "David Martimort",
+    "matchedAuthorRepecUrl": "https://ideas.repec.org/f/pma1390.html",
+    "publicationDate": "2026-01-01",
+    "abstract": null,
+    "abstractPreview": null,
+    "source": "RePEc/IDEAS",
+    "paperUrl": "https://ideas.repec.org/p/hal/wpaper/hal-04758824.html",
+    "pdfUrl": null,
+    "doi": null,
+    "topics": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "relevanceScore": 24,
+    "collectedAt": "2026-06-09T12:24:08.664Z"
+  },
+  {
+    "id": "repec-ideas-https-ideas-repec-org-p-hal-journl-hal-05557417-html",
+    "title": "Highway to sell: How to renew concessions if you want it",
+    "authors": [
+      "Philippe Bontems",
+      "Marie-Françoise Calmette",
+      "David Martimort"
+    ],
+    "matchedAuthor": "David Martimort",
+    "matchedAuthorRepecUrl": "https://ideas.repec.org/f/pma1390.html",
+    "publicationDate": "2026-01-01",
+    "abstract": null,
+    "abstractPreview": null,
+    "source": "RePEc/IDEAS",
+    "paperUrl": "https://ideas.repec.org/p/hal/journl/hal-05557417.html",
+    "pdfUrl": null,
+    "doi": null,
+    "topics": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "relevanceScore": 24,
+    "collectedAt": "2026-06-09T12:24:08.664Z"
+  },
+  {
+    "id": "repec-ideas-https-ideas-repec-org-p-pen-papers-26-004-html",
+    "title": "A Dynamic Model of the Economic Returns to Adolescent Social Skills",
+    "authors": [
+      "Zach Weingarten",
+      "Jere R. Behrman",
+      "Andrew Postlewaite"
+    ],
+    "matchedAuthor": "Andrew Postlewaite",
+    "matchedAuthorRepecUrl": "https://ideas.repec.org/e/ppo86.html",
+    "publicationDate": "2026-01-01",
+    "abstract": null,
+    "abstractPreview": null,
+    "source": "RePEc/IDEAS",
+    "paperUrl": "https://ideas.repec.org/p/pen/papers/26-004.html",
+    "pdfUrl": null,
+    "doi": null,
+    "topics": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "relevanceScore": 25,
+    "collectedAt": "2026-06-09T12:24:08.664Z"
+  },
+  {
+    "id": "repec-ideas-https-ideas-repec-org-p-hal-wpaper-hal-05489350-html",
+    "title": "A Theory of Conglomerate Mergers",
+    "authors": [
+      "Zhijun Chen",
+      "Patrick Rey"
+    ],
+    "matchedAuthor": "Patrick Rey",
+    "matchedAuthorRepecUrl": "https://ideas.repec.org/e/pre34.html",
+    "publicationDate": "2026-01-01",
+    "abstract": null,
+    "abstractPreview": null,
+    "source": "RePEc/IDEAS",
+    "paperUrl": "https://ideas.repec.org/p/hal/wpaper/hal-05489350.html",
+    "pdfUrl": null,
+    "doi": null,
+    "topics": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "relevanceScore": 26,
+    "collectedAt": "2026-06-09T12:24:08.664Z"
+  },
+  {
+    "id": "repec-ideas-https-ideas-repec-org-p-hal-wpaper-hal-04956965-html",
+    "title": "Platform Competition and Innovation",
+    "authors": [
+      "Doh-Shin Jeon",
+      "Patrick Rey"
+    ],
+    "matchedAuthor": "Patrick Rey",
+    "matchedAuthorRepecUrl": "https://ideas.repec.org/e/pre34.html",
+    "publicationDate": "2026-01-01",
+    "abstract": null,
+    "abstractPreview": null,
+    "source": "RePEc/IDEAS",
+    "paperUrl": "https://ideas.repec.org/p/hal/wpaper/hal-04956965.html",
+    "pdfUrl": null,
+    "doi": null,
+    "topics": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "relevanceScore": 26,
+    "collectedAt": "2026-06-09T12:24:08.664Z"
+  },
+  {
+    "id": "repec-ideas-https-ideas-repec-org-a-inm-ormoor-v51y2026i2p1061-1079-html",
+    "title": "Fair Congested Assignment",
+    "authors": [
+      "Anna Bogomolnaia",
+      "Hervé Moulin"
+    ],
+    "matchedAuthor": "Herve Moulin",
+    "matchedAuthorRepecUrl": "https://ideas.repec.org/f/pmo321.html",
+    "publicationDate": "2026-01-01",
+    "abstract": null,
+    "abstractPreview": null,
+    "source": "RePEc/IDEAS",
+    "paperUrl": "https://ideas.repec.org/a/inm/ormoor/v51y2026i2p1061-1079.html",
+    "pdfUrl": null,
+    "doi": null,
+    "topics": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "relevanceScore": 29,
+    "collectedAt": "2026-06-09T12:24:08.664Z"
+  },
+  {
+    "id": "repec-ideas-https-ideas-repec-org-p-cam-camdae-2633-html",
+    "title": "Network Threshold Games",
+    "authors": [
+      "Langtry, A.",
+      "Taylor, S.",
+      "Zhang, Y."
+    ],
+    "matchedAuthor": "Yaojie Zhang",
+    "matchedAuthorRepecUrl": "https://ideas.repec.org/f/pzh1078.html",
+    "publicationDate": "2026-01-01",
+    "abstract": null,
+    "abstractPreview": null,
+    "source": "RePEc/IDEAS",
+    "paperUrl": "https://ideas.repec.org/p/cam/camdae/2633.html",
+    "pdfUrl": null,
+    "doi": null,
+    "topics": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "relevanceScore": 31,
+    "collectedAt": "2026-06-09T12:24:08.664Z"
+  },
+  {
+    "id": "repec-ideas-https-ideas-repec-org-p-cam-camdae-2634-html",
+    "title": "Price Competition with Network Spillovers: Entry, Cohesiveness and Interoperability",
+    "authors": [
+      "Zhang, Y."
+    ],
+    "matchedAuthor": "Yaojie Zhang",
+    "matchedAuthorRepecUrl": "https://ideas.repec.org/f/pzh1078.html",
+    "publicationDate": "2026-01-01",
+    "abstract": null,
+    "abstractPreview": null,
+    "source": "RePEc/IDEAS",
+    "paperUrl": "https://ideas.repec.org/p/cam/camdae/2634.html",
+    "pdfUrl": null,
+    "doi": null,
+    "topics": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "relevanceScore": 31,
+    "collectedAt": "2026-06-09T12:24:08.664Z"
+  },
+  {
+    "id": "repec-ideas-https-ideas-repec-org-a-taf-quantf-v26y2026i2p235-253-html",
+    "title": "Forecasting carbon returns under structural breaks and model uncertainty: a time-weighted regularized combination approach",
+    "authors": [
+      "Zhikai Zhang",
+      "Yaojie Zhang",
+      "Yudong Wang",
+      "Qunwei Wang"
+    ],
+    "matchedAuthor": "Yaojie Zhang",
+    "matchedAuthorRepecUrl": "https://ideas.repec.org/f/pzh1078.html",
+    "publicationDate": "2026-01-01",
+    "abstract": null,
+    "abstractPreview": null,
+    "source": "RePEc/IDEAS",
+    "paperUrl": "https://ideas.repec.org/a/taf/quantf/v26y2026i2p235-253.html",
+    "pdfUrl": null,
+    "doi": null,
+    "topics": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "relevanceScore": 31,
+    "collectedAt": "2026-06-09T12:24:08.664Z"
+  },
+  {
+    "id": "repec-ideas-https-ideas-repec-org-a-taf-jnlbes-v44y2026i2p413-424-html",
+    "title": "Adaptive Group LASSO for the GARCH-MIDAS Model",
+    "authors": [
+      "Zhiyuan Pan",
+      "Yudong Wang",
+      "Juan Huang",
+      "Yaojie Zhang"
+    ],
+    "matchedAuthor": "Yaojie Zhang",
+    "matchedAuthorRepecUrl": "https://ideas.repec.org/f/pzh1078.html",
+    "publicationDate": "2026-01-01",
+    "abstract": null,
+    "abstractPreview": null,
+    "source": "RePEc/IDEAS",
+    "paperUrl": "https://ideas.repec.org/a/taf/jnlbes/v44y2026i2p413-424.html",
+    "pdfUrl": null,
+    "doi": null,
+    "topics": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "relevanceScore": 31,
+    "collectedAt": "2026-06-09T12:24:08.664Z"
+  },
+  {
+    "id": "repec-ideas-https-ideas-repec-org-p-hal-wpaper-hal-05506686-html",
+    "title": "Self-Revealing Renegotiation",
+    "authors": [
+      "Andrea Attar",
+      "Lorenzo Bozzoli",
+      "Roland Strausz"
+    ],
+    "matchedAuthor": "Roland Strausz",
+    "matchedAuthorRepecUrl": "https://ideas.repec.org/e/pst3.html",
+    "publicationDate": "2026-01-01",
+    "abstract": null,
+    "abstractPreview": null,
+    "source": "RePEc/IDEAS",
+    "paperUrl": "https://ideas.repec.org/p/hal/wpaper/hal-05506686.html",
+    "pdfUrl": null,
+    "doi": null,
+    "topics": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "relevanceScore": 41,
+    "collectedAt": "2026-06-09T12:24:08.664Z"
+  },
+  {
+    "id": "repec-ideas-https-ideas-repec-org-p-arx-papers-2601-01607-html",
+    "title": "Existence of Optimal Mechanisms for Selling Multiple Goods: An Elementary Proof",
+    "authors": [
+      "Sergiu Hart",
+      "Noam Nisan"
+    ],
+    "matchedAuthor": "Sergiu Hart",
+    "matchedAuthorRepecUrl": "https://ideas.repec.org/e/pha148.html",
+    "publicationDate": "2026-01-01",
+    "abstract": null,
+    "abstractPreview": null,
+    "source": "RePEc/IDEAS",
+    "paperUrl": "https://ideas.repec.org/p/arx/papers/2601.01607.html",
+    "pdfUrl": null,
+    "doi": null,
+    "topics": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "relevanceScore": 44,
+    "collectedAt": "2026-06-09T12:24:08.664Z"
+  },
+  {
+    "id": "repec-ideas-https-ideas-repec-org-p-hal-wpaper-hal-05601463-html",
+    "title": "Gaming the Giants : How Startups Shape Innovation to Spark Acquisition Wars",
+    "authors": [
+      "Özlem Bedre Defolie",
+      "Gary Biglaiser",
+      "Bruno Jullien"
+    ],
+    "matchedAuthor": "Bruno Jullien",
+    "matchedAuthorRepecUrl": "https://ideas.repec.org/e/pju57.html",
+    "publicationDate": "2026-01-01",
+    "abstract": null,
+    "abstractPreview": null,
+    "source": "RePEc/IDEAS",
+    "paperUrl": "https://ideas.repec.org/p/hal/wpaper/hal-05601463.html",
+    "pdfUrl": null,
+    "doi": null,
+    "topics": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "relevanceScore": 45,
+    "collectedAt": "2026-06-09T12:24:08.664Z"
+  },
+  {
+    "id": "repec-ideas-https-ideas-repec-org-p-hal-wpaper-hal-05502168-html",
+    "title": "Mergers and Investments in New Products",
+    "authors": [
+      "Anna D’annunzio",
+      "Bruno Jullien",
+      "Yassine Lefouili",
+      "Leonardo Madio"
+    ],
+    "matchedAuthor": "Bruno Jullien",
+    "matchedAuthorRepecUrl": "https://ideas.repec.org/e/pju57.html",
+    "publicationDate": "2026-01-01",
+    "abstract": null,
+    "abstractPreview": null,
+    "source": "RePEc/IDEAS",
+    "paperUrl": "https://ideas.repec.org/p/hal/wpaper/hal-05502168.html",
+    "pdfUrl": null,
+    "doi": null,
+    "topics": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "relevanceScore": 45,
+    "collectedAt": "2026-06-09T12:24:08.664Z"
+  }
+]

@@ -137,6 +137,11 @@ The author section may miss papers when an author has no public feed, no
 accessible working paper page, or a page whose metadata is not visible without
 login, CAPTCHA, paywall, or access controls.
 
+The updater does not crawl the whole web for each author. It checks only the
+public URLs in `data/repec-author-watchlist.json`, including IDEAS/RePEc author
+profiles, RSS feeds, and any manually verified homepage, NBER, or SSRN URLs.
+This keeps the site free, predictable, and respectful of source websites.
+
 ## Disable RePEc Author Watch
 
 If the author-watch section breaks, set the watchlist to an empty array:

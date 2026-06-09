@@ -238,7 +238,7 @@ async function loadJson(urls) {
 
   for (const url of urls) {
     try {
-      const response = await fetch(url);
+      const response = await fetch(url, { cache: "no-store" });
 
       if (!response.ok) {
         throw new Error(`${url} returned ${response.status}`);
