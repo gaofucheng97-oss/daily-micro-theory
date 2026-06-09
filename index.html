@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Daily Micro Theory</title>
+    <meta
+      name="description"
+      content="A static reading list for recent microeconomic theory papers."
+    >
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="header-art" aria-hidden="true">
+        <div class="node node-a"></div>
+        <div class="node node-b"></div>
+        <div class="node node-c"></div>
+        <div class="node node-d"></div>
+      </div>
+      <div class="header-content">
+        <p class="eyebrow">Working paper digest</p>
+        <h1>Daily Micro Theory</h1>
+        <p class="intro">
+          A lightweight reading list for recent microeconomic theory papers in
+          game theory, mechanism design, contracts, auctions, matching, and
+          related market design topics.
+        </p>
+      </div>
+    </header>
+
+    <main>
+      <section class="toolbar" aria-label="Paper filters">
+        <div>
+          <p class="section-label">Topic</p>
+          <h2>Recent papers</h2>
+        </div>
+        <div class="filter-list" id="filters"></div>
+      </section>
+
+      <section class="results-summary" aria-live="polite">
+        <span id="result-count">Loading papers...</span>
+      </section>
+
+      <section class="papers-grid" id="papers" aria-label="Paper list"></section>
+    </main>
+
+    <footer class="site-footer">
+      <p>
+        Data lives in <code>data/papers.json</code>. Update that file to add or
+        remove papers.
+      </p>
+    </footer>
+
+    <script src="script.js"></script>
+  </body>
+</html>

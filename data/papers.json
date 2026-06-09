@@ -1,0 +1,74 @@
+[
+  {
+    "title": "A Kernel-Clean Lean Mechanization of Classical Lottery in Action and the Wakker-Debreu-Koopmans Representation Layer",
+    "authors": ["Jingyuan Li", "Ilia Tsetlin", "Fan Wang"],
+    "publicationDate": "2026-06-08",
+    "abstract": "This paper presents a Lean 4 and Mathlib formalization of additive representation theory behind Classical Lottery in Action and the Wakker-Debreu-Koopmans layer. It gives a machine-checked boundary between ordinal axioms of additive conjoint measurement and the additional structural input needed for representation results.",
+    "topics": ["Decision Theory"],
+    "paperUrl": "https://arxiv.org/abs/2606.08902",
+    "pdfUrl": "https://arxiv.org/pdf/2606.08902"
+  },
+  {
+    "title": "The Winner's Bliss in Common-Value Auctions under Horizontal Differentiation",
+    "authors": ["Jiawei Chen", "Anh Nguyen", "Matthew Shum"],
+    "publicationDate": "2026-06-07",
+    "abstract": "The authors study common-value auctions with horizontally differentiated bidder preferences. In a two-bidder setting, winning can convey good news about the object's value to the winner, producing a winner's bliss that differs from the standard winner's curse logic.",
+    "topics": ["Auctions", "Game Theory"],
+    "paperUrl": "https://arxiv.org/abs/2606.08419",
+    "pdfUrl": "https://arxiv.org/pdf/2606.08419"
+  },
+  {
+    "title": "Strategic Type Spaces",
+    "authors": ["Olivier Gossner", "Rafael Veiel"],
+    "publicationDate": "2026-06-06",
+    "abstract": "This paper develops a strategic foundation for information in incomplete-information games. It defines strategic quotients that are sufficient for best responses and proves existence and essential uniqueness of a minimal Strategic Type Space with a recursive finite-automaton structure.",
+    "topics": ["Game Theory", "Decision Theory"],
+    "paperUrl": "https://arxiv.org/abs/2606.08297",
+    "pdfUrl": "https://arxiv.org/pdf/2606.08297"
+  },
+  {
+    "title": "Learn to Match: Two-Sided Matching with Temporally Extended Feedback",
+    "authors": ["Haijing Zong", "Yancheng Liang", "Boyang Zhou", "Natasha Jaques"],
+    "publicationDate": "2026-06-04",
+    "abstract": "This paper models two-sided matching as a partially observable Markov game with interviews, repeated interaction, latent profiles, and endogenous continuation or dissolution. The Learn2Match benchmark evaluates policies using regret, social welfare, and information-friction loss.",
+    "topics": ["Matching", "Market Design", "Game Theory"],
+    "paperUrl": "https://arxiv.org/abs/2606.06744",
+    "pdfUrl": "https://arxiv.org/pdf/2606.06744"
+  },
+  {
+    "title": "Fairness and Strategy-Proofness in Automated Market Makers",
+    "authors": ["Frank M. V. Feys"],
+    "publicationDate": "2026-06-03",
+    "abstract": "The paper shows that no aggregation rule for weighted-product automated market makers with at least three assets can be both fair and strategy-proof. The result connects Arrovian fairness, provider preferences over pools, and impossibility results for externally Bayesian pooling.",
+    "topics": ["Market Design", "Mechanism Design"],
+    "paperUrl": "https://arxiv.org/abs/2606.04959",
+    "pdfUrl": "https://arxiv.org/pdf/2606.04959"
+  },
+  {
+    "title": "Multi-Dimensional Matching in Market Design",
+    "authors": ["Irene Aldridge"],
+    "publicationDate": "2026-05-19",
+    "abstract": "This paper proposes a computational mechanism for multi-dimensional matching markets where agents report preferences over object features. It uses singular value decomposition to reduce feature-based matching to an effectively one-dimensional problem and studies welfare, truthfulness, symmetry, and robustness.",
+    "topics": ["Matching", "Market Design"],
+    "paperUrl": "https://arxiv.org/abs/2605.22865",
+    "pdfUrl": "https://arxiv.org/pdf/2605.22865"
+  },
+  {
+    "title": "Contracting with Imperfect Commitment: Minimal Canonical Contracts",
+    "authors": ["Seungjin Han", "Siyang Xiong"],
+    "publicationDate": "2026-05-19",
+    "abstract": "The authors ask when imperfect commitment is equivalent to full commitment in contract design. They study contracts with committed baselines and bounded discretionary adjustments, characterize optimal single-principal contracts, and develop an extended taxation principle for tractable analysis.",
+    "topics": ["Contract Theory", "Mechanism Design"],
+    "paperUrl": "https://arxiv.org/abs/2605.19884",
+    "pdfUrl": "https://arxiv.org/pdf/2605.19884"
+  },
+  {
+    "title": "Supply Chain Coordination Mechanism Design: Consensus Planning Protocol Meets Vickrey-Clarke-Groves Mechanism",
+    "authors": ["Dirk Bergemann", "Garrett van Ryzin", "Jiaxuan Li"],
+    "publicationDate": "2026-05-15",
+    "abstract": "This paper combines Vickrey-Clarke-Groves mechanisms with the Consensus Planning Protocol to support truthful and efficient collaboration between a retailer and vendors. It also introduces an activity-fee design to improve revenue properties while preserving incentive and efficiency features.",
+    "topics": ["Mechanism Design", "Auctions", "Market Design"],
+    "paperUrl": "https://arxiv.org/abs/2605.16695",
+    "pdfUrl": "https://arxiv.org/pdf/2605.16695"
+  }
+]
