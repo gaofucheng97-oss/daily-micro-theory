@@ -186,6 +186,7 @@ async function fetchConfiguredUrl(url) {
 
 async function collectForAuthor(author, collectedAt) {
   const papers = [];
+  const fetchedUrls = new Set();
 
   console.log(`Checking ${author.name}.`);
 
@@ -195,6 +196,13 @@ async function collectForAuthor(author, collectedAt) {
     if (!isHttpUrl(url)) {
       continue;
     }
+
+    if (fetchedUrls.has(url)) {
+      console.log(`  Skipping duplicate URL for ${fieldName}: ${url}`);
+      continue;
+    }
+
+    fetchedUrls.add(url);
 
     try {
       console.log(`  Fetching ${fieldName}: ${url}`);

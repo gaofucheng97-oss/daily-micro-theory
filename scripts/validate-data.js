@@ -8,6 +8,12 @@ const PAPER_FILES = [
     path.join(__dirname, "..", "data", "repec-author-papers.json")
   ]
 ];
+const WATCHLIST_PATH = path.join(
+  __dirname,
+  "..",
+  "data",
+  "repec-author-watchlist.json"
+);
 
 function assert(condition, message) {
   if (!condition) {
@@ -73,6 +79,79 @@ function findDuplicatePaper(papers, seedPapers = []) {
   return null;
 }
 
+function normalizeName(value) {
+  return String(value || "")
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, " ")
+    .trim();
+}
+
+function validateOptionalUrl(author, fieldName, label) {
+  const value = author[fieldName];
+
+  assert(
+    value === null || (typeof value === "string" && /^https?:\/\//.test(value)),
+    `${label} ${fieldName} must be null or an http(s) URL.`
+  );
+}
+
+function validateWatchlistAuthor(author, index) {
+  const label = `Watchlist author ${index + 1}`;
+
+  assert(author && typeof author === "object", `${label} must be an object.`);
+  assert(typeof author.name === "string" && author.name.trim(), `${label} missing name.`);
+  assert(Number.isInteger(author.priority) && author.priority > 0, `${label} needs priority.`);
+  assert(Array.isArray(author.fields), `${label} fields must be an array.`);
+  assert(author.fields.length > 0, `${label} must list at least one field.`);
+
+  [
+    "repecProfileUrl",
+    "ideasAuthorUrl",
+    "homepageUrl",
+    "rssUrl",
+    "nberAuthorUrl",
+    "ssrnAuthorUrl"
+  ].forEach((fieldName) => validateOptionalUrl(author, fieldName, label));
+
+  assert(
+    author.repecProfileUrl || author.ideasAuthorUrl,
+    `${label} needs at least one RePEc/IDEAS profile URL.`
+  );
+
+  if (author.notes !== null && author.notes !== undefined) {
+    assert(typeof author.notes === "string", `${label} notes must be text when present.`);
+  }
+}
+
+function validateWatchlist(watchlist) {
+  assert(Array.isArray(watchlist), "RePEc author watchlist must be an array.");
+
+  const seenNames = new Map();
+  const seenUrls = new Map();
+
+  watchlist.forEach((author, index) => {
+    validateWatchlistAuthor(author, index);
+
+    const nameKey = normalizeName(author.name);
+    assert(!seenNames.has(nameKey), `Duplicate watchlist author name: ${author.name}.`);
+    seenNames.set(nameKey, author.name);
+
+    for (const fieldName of ["repecProfileUrl", "ideasAuthorUrl"]) {
+      const url = author[fieldName];
+
+      if (!url) {
+        continue;
+      }
+
+      const existing = seenUrls.get(url);
+      assert(!existing || existing === author.name, `Duplicate watchlist profile URL: ${url}.`);
+      seenUrls.set(url, author.name);
+    }
+  });
+
+  console.log(`RePEc author watchlist: ${watchlist.length} authors valid.`);
+}
+
 async function main() {
   const loadedFiles = [];
 
@@ -100,6 +179,9 @@ async function main() {
       `Duplicate across sections: "${crossDuplicate.title}" already appears as "${crossDuplicate.duplicateOf}".`
     );
   }
+
+  const watchlist = await readJsonFile(WATCHLIST_PATH, []);
+  validateWatchlist(watchlist);
 
   console.log("Data validation passed.");
 }
