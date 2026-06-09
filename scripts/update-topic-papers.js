@@ -4,6 +4,7 @@ const {
   asArray,
   cleanText,
   createPreview,
+  dedupePapers,
   stableId,
   writeHistoryCopy,
   writeJsonIfChanged
@@ -239,7 +240,7 @@ async function main() {
 
     console.log(`Fetched ${entries.length} arXiv entries.`);
 
-    const selected = entries
+    const scored = entries
       .map((entry) => transformEntry(entry, collectedAt))
       .filter(Boolean)
       .sort((first, second) => {
@@ -250,14 +251,18 @@ async function main() {
         return (
           new Date(second.publicationDate) - new Date(first.publicationDate)
         );
-      })
+      });
+    const { unique, duplicates } = dedupePapers(scored);
+    const selected = unique
       .slice(0, MAX_PAPERS)
       .sort(
         (first, second) =>
           new Date(second.publicationDate) - new Date(first.publicationDate)
       );
 
-    console.log(`Selected ${selected.length} topic papers after scoring.`);
+    console.log(
+      `Selected ${selected.length} topic papers after scoring; removed ${duplicates.length} duplicates.`
+    );
 
     if (selected.length === 0) {
       console.log("No valid topic papers found. Existing data files preserved.");

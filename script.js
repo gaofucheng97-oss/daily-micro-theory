@@ -55,6 +55,80 @@ function createPreview(text, maxLength = 280) {
   return `${shortened.slice(0, Math.max(lastSpace, 180)).trim()}...`;
 }
 
+function normalizeTitle(value) {
+  return String(value || "")
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, " ")
+    .trim();
+}
+
+function canonicalUrl(value) {
+  if (!value) {
+    return null;
+  }
+
+  try {
+    const url = new URL(value);
+    const host = url.hostname.toLowerCase().replace(/^www\./, "");
+    let pathname = url.pathname.replace(/\/+$/, "");
+
+    if (host === "arxiv.org") {
+      pathname = pathname
+        .replace(/^\/pdf\//, "/abs/")
+        .replace(/\.pdf$/i, "")
+        .replace(/v\d+$/i, "");
+    }
+
+    return `${host}${pathname.toLowerCase()}`;
+  } catch {
+    return normalizeTitle(value);
+  }
+}
+
+function arxivKeyFromUrl(value) {
+  const canonical = canonicalUrl(value);
+  const match = canonical?.match(/arxiv\.org\/abs\/([^/?#]+)/i);
+  return match ? `arxiv:${match[1].toLowerCase()}` : null;
+}
+
+function paperIdentityKeys(paper) {
+  const title = normalizeTitle(paper?.title);
+  return [
+    paper?.doi ? `doi:${String(paper.doi).toLowerCase().trim()}` : null,
+    paper?.paperUrl ? `url:${canonicalUrl(paper.paperUrl)}` : null,
+    paper?.pdfUrl ? `url:${canonicalUrl(paper.pdfUrl)}` : null,
+    arxivKeyFromUrl(paper?.paperUrl),
+    arxivKeyFromUrl(paper?.pdfUrl),
+    title.length > 8 ? `title:${title}` : null
+  ].filter(Boolean);
+}
+
+function dedupePapers(papers) {
+  const seen = new Set();
+  const unique = [];
+
+  papers.forEach((paper) => {
+    const keys = paperIdentityKeys(paper);
+
+    if (keys.some((key) => seen.has(key))) {
+      return;
+    }
+
+    keys.forEach((key) => seen.add(key));
+    unique.push(paper);
+  });
+
+  return unique;
+}
+
+function withoutTopicDuplicates(papers) {
+  const topicKeys = new Set(state.topicPapers.flatMap(paperIdentityKeys));
+
+  return papers.filter(
+    (paper) => !paperIdentityKeys(paper).some((key) => topicKeys.has(key))
+  );
+}
+
 function createLink(href, label, className = "") {
   const link = document.createElement("a");
   link.href = href;
@@ -155,11 +229,12 @@ function authorFilterLabel(filter) {
 function renderAuthorFilters() {
   elements.authorFilters.innerHTML = "";
 
+  const visibleAuthorPapers = withoutTopicDuplicates(state.authorPapers);
   const authors = [
-    ...new Set(state.authorPapers.map((paper) => paper.matchedAuthor).filter(Boolean))
+    ...new Set(visibleAuthorPapers.map((paper) => paper.matchedAuthor).filter(Boolean))
   ].sort();
   const sources = [
-    ...new Set(state.authorPapers.map((paper) => paper.source).filter(Boolean))
+    ...new Set(visibleAuthorPapers.map((paper) => paper.source).filter(Boolean))
   ].sort();
   const filters = [
     { type: "all", value: "All watched authors" },
@@ -287,7 +362,7 @@ function renderTopicPapers() {
 
 function renderAuthorPapers() {
   const { type, value } = state.activeAuthorFilter;
-  const visiblePapers = state.authorPapers.filter((paper) => {
+  const visiblePapers = withoutTopicDuplicates(state.authorPapers).filter((paper) => {
     if (type === "author") {
       return paper.matchedAuthor === value;
     }
@@ -315,7 +390,7 @@ async function loadTopicPapers() {
       "data/papers.json"
     ]);
 
-    state.topicPapers = data.sort(
+    state.topicPapers = dedupePapers(data).sort(
       (first, second) =>
         new Date(second.publicationDate) - new Date(first.publicationDate)
     );
@@ -323,6 +398,8 @@ async function loadTopicPapers() {
     noteLastUpdated(state.topicPapers, lastModified);
     renderTopicFilters();
     renderTopicPapers();
+    renderAuthorFilters();
+    renderAuthorPapers();
   } catch (error) {
     elements.topicPapers.innerHTML =
       '<p class="empty-state">Could not load topic paper data.</p>';
@@ -335,7 +412,7 @@ async function loadAuthorPapers() {
   try {
     const { data, lastModified } = await loadJson(["data/repec-author-papers.json"]);
 
-    state.authorPapers = data.sort(
+    state.authorPapers = dedupePapers(data).sort(
       (first, second) =>
         new Date(second.publicationDate) - new Date(first.publicationDate)
     );

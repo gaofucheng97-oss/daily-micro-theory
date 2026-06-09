@@ -4,8 +4,9 @@ const {
   asArray,
   cleanText,
   createPreview,
-  normalizeTitle,
+  dedupePapers,
   readJsonFile,
+  removePapersAlreadySeen,
   stableId,
   writeHistoryCopy,
   writeJsonIfChanged
@@ -18,6 +19,7 @@ const WATCHLIST_PATH = path.join(
   "repec-author-watchlist.json"
 );
 const OUTPUT_PATH = path.join(__dirname, "..", "data", "repec-author-papers.json");
+const TOPIC_PAPERS_PATH = path.join(__dirname, "..", "data", "topic-papers.json");
 
 const PUBLIC_SOURCE_FIELDS = [
   ["rssUrl", "RSS"],
@@ -182,31 +184,6 @@ async function fetchConfiguredUrl(url) {
   return { contentType, text };
 }
 
-function dedupePapers(papers) {
-  const seen = new Set();
-  const unique = [];
-
-  for (const paper of papers) {
-    const keys = [
-      paper.doi && `doi:${paper.doi.toLowerCase()}`,
-      paper.paperUrl && `url:${paper.paperUrl.toLowerCase()}`,
-      `title:${normalizeTitle(paper.title)}`
-    ].filter(Boolean);
-
-    if (keys.some((key) => seen.has(key))) {
-      continue;
-    }
-
-    keys.forEach((key) => seen.add(key));
-    unique.push(paper);
-  }
-
-  return unique.sort(
-    (first, second) =>
-      new Date(second.publicationDate) - new Date(first.publicationDate)
-  );
-}
-
 async function collectForAuthor(author, collectedAt) {
   const papers = [];
 
@@ -262,8 +239,19 @@ async function main() {
       allPapers.push(...(await collectForAuthor(author, collectedAt)));
     }
 
-    const papers = dedupePapers(allPapers);
-    console.log(`Collected ${papers.length} deduplicated author-watch papers.`);
+    const { unique: dedupedPapers, duplicates } = dedupePapers(allPapers);
+    const topicPapers = await readJsonFile(TOPIC_PAPERS_PATH, []);
+    const { unique: papers, duplicates: topicDuplicates } =
+      removePapersAlreadySeen(dedupedPapers, topicPapers);
+
+    papers.sort(
+      (first, second) =>
+        new Date(second.publicationDate) - new Date(first.publicationDate)
+    );
+
+    console.log(
+      `Collected ${papers.length} author-watch papers; removed ${duplicates.length} internal duplicates and ${topicDuplicates.length} papers already in Topic Papers.`
+    );
 
     if (papers.length === 0) {
       console.log("No author-watch papers found. Existing data file preserved.");
