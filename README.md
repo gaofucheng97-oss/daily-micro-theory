@@ -85,10 +85,12 @@ npm run validate-data
 GitHub Actions runs every morning around 9:07 AM London time. The workflow:
 
 1. Updates Topic Papers from arXiv `econ.TH`.
-2. Tries to update RePEc Author Watch papers from configured public URLs.
-3. Preserves existing valid data if a source fails.
-4. Saves daily history copies.
-5. Deploys the static site with GitHub Pages Actions.
+2. Refreshes the RePEc Author Watch watchlist from the public IDEAS/RePEc
+   Microeconomics field pages.
+3. Tries to update RePEc Author Watch papers from configured public URLs.
+4. Preserves existing valid data if a source fails.
+5. Saves daily history copies.
+6. Deploys the static site with GitHub Pages Actions.
 
 To run it manually:
 
