@@ -1,6 +1,9 @@
 name: Update papers and deploy
 
 on:
+  push:
+    branches:
+      - main
   schedule:
     - cron: "7 8 * * *"
     - cron: "7 9 * * *"
@@ -30,7 +33,7 @@ jobs:
           london_time="$(TZ=Europe/London date +'%Y-%m-%d %H:%M:%S %Z')"
           echo "London time: ${london_time}"
 
-          if [ "${GITHUB_EVENT_NAME}" = "workflow_dispatch" ] || [ "${london_hour}" = "09" ]; then
+          if [ "${GITHUB_EVENT_NAME}" = "workflow_dispatch" ] || [ "${GITHUB_EVENT_NAME}" = "push" ] || [ "${london_hour}" = "09" ]; then
             echo "should_run=true" >> "${GITHUB_OUTPUT}"
           else
             echo "should_run=false" >> "${GITHUB_OUTPUT}"
