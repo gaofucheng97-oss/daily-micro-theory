@@ -1,1 +1,4502 @@
-[]
+[
+  {
+    "name": "Jean Tirole",
+    "repecProfileUrl": "https://ideas.repec.org/e/pti33.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pti33.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 1,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 1 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Drew Fudenberg",
+    "repecProfileUrl": "https://ideas.repec.org/e/pfu49.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pfu49.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 2,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 2 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Daron Acemoglu",
+    "repecProfileUrl": "https://ideas.repec.org/e/pac16.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pac16.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 3,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 3 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Stephen Morris",
+    "repecProfileUrl": "https://ideas.repec.org/e/pmo9.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pmo9.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 4,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 4 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Andrei Shleifer",
+    "repecProfileUrl": "https://ideas.repec.org/e/psh93.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/psh93.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 5,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 5 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Oliver D. Hart",
+    "repecProfileUrl": "https://ideas.repec.org/f/pha222.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pha222.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 6,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 6 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Dirk Bergemann",
+    "repecProfileUrl": "https://ideas.repec.org/f/pbe258.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pbe258.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 7,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 7 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Roland Benabou",
+    "repecProfileUrl": "https://ideas.repec.org/e/pbe27.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pbe27.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 8,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 8 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "David Levine",
+    "repecProfileUrl": "https://ideas.repec.org/e/ple26.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/ple26.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 9,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 9 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Mark Armstrong",
+    "repecProfileUrl": "https://ideas.repec.org/e/par85.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/par85.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 10,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 10 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Randolph Preston Mcafee",
+    "repecProfileUrl": "https://ideas.repec.org/e/pmc32.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pmc32.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 11,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 11 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Debraj Ray",
+    "repecProfileUrl": "https://ideas.repec.org/e/pra6.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pra6.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 12,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 12 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Larry Epstein",
+    "repecProfileUrl": "https://ideas.repec.org/e/pep2.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pep2.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 13,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 13 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Joshua Gans",
+    "repecProfileUrl": "https://ideas.repec.org/e/pga42.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pga42.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 14,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 14 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Jean Charles Rochet",
+    "repecProfileUrl": "https://ideas.repec.org/e/pro57.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pro57.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 15,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 15 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Xavier Vives",
+    "repecProfileUrl": "https://ideas.repec.org/e/pvi149.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pvi149.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 16,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 16 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Kevin M. Murphy",
+    "repecProfileUrl": "https://ideas.repec.org/e/pmu108.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pmu108.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 17,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 17 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Ariel Rubinstein",
+    "repecProfileUrl": "https://ideas.repec.org/e/pru8.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pru8.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 18,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 18 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "David Schmeidler",
+    "repecProfileUrl": "https://ideas.repec.org/e/psc61.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/psc61.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 19,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 19 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "John Vickers",
+    "repecProfileUrl": "https://ideas.repec.org/e/pvi114.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pvi114.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 20,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 20 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Paul Klemperer",
+    "repecProfileUrl": "https://ideas.repec.org/e/pkl5.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pkl5.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 21,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 21 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Yeon-Koo Che",
+    "repecProfileUrl": "https://ideas.repec.org/e/pch91.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pch91.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 22,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 22 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Joseph Stiglitz",
+    "repecProfileUrl": "https://ideas.repec.org/e/pst33.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pst33.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 23,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 23 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "David Martimort",
+    "repecProfileUrl": "https://ideas.repec.org/f/pma1390.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pma1390.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 24,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 24 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Andrew Postlewaite",
+    "repecProfileUrl": "https://ideas.repec.org/e/ppo86.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/ppo86.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 25,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 25 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Patrick Rey",
+    "repecProfileUrl": "https://ideas.repec.org/e/pre34.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pre34.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 26,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 26 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Andreu Mas-Colell",
+    "repecProfileUrl": "https://ideas.repec.org/f/pma1422.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pma1422.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 27,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 27 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Simon Anderson",
+    "repecProfileUrl": "https://ideas.repec.org/e/pan42.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pan42.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 28,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 28 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Herve Moulin",
+    "repecProfileUrl": "https://ideas.repec.org/f/pmo321.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pmo321.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 29,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 29 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Xavier Gabaix",
+    "repecProfileUrl": "https://ideas.repec.org/e/pga174.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pga174.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 30,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 30 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Yaojie Zhang",
+    "repecProfileUrl": "https://ideas.repec.org/f/pzh1078.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pzh1078.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 31,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 31 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Efe Ok",
+    "repecProfileUrl": "https://ideas.repec.org/e/pok13.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pok13.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 32,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 32 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Itzhak Gilboa",
+    "repecProfileUrl": "https://ideas.repec.org/e/pgi34.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pgi34.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 33,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 33 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Lars A Stole",
+    "repecProfileUrl": "https://ideas.repec.org/f/pst479.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pst479.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 34,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 34 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Robert Butler Wilson",
+    "repecProfileUrl": "https://ideas.repec.org/e/pwi97.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pwi97.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 35,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 35 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "George J. Mailath",
+    "repecProfileUrl": "https://ideas.repec.org/e/pma6.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pma6.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 36,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 36 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Philippe Aghion",
+    "repecProfileUrl": "https://ideas.repec.org/e/pag175.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pag175.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 37,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 37 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Lars Peter Hansen",
+    "repecProfileUrl": "https://ideas.repec.org/f/pha303.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pha303.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 38,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 38 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Klaus M. Schmidt",
+    "repecProfileUrl": "https://ideas.repec.org/e/psc136.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/psc136.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 39,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 39 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Luigi Zingales",
+    "repecProfileUrl": "https://ideas.repec.org/e/pzi101.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pzi101.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 40,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 40 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Roland Strausz",
+    "repecProfileUrl": "https://ideas.repec.org/e/pst3.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pst3.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 41,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 41 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Philippe Jehiel",
+    "repecProfileUrl": "https://ideas.repec.org/e/pje39.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pje39.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 42,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 42 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Eric van Damme",
+    "repecProfileUrl": "https://ideas.repec.org/f/pva299.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pva299.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 43,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 43 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Sergiu Hart",
+    "repecProfileUrl": "https://ideas.repec.org/e/pha148.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pha148.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 44,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 44 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Bruno Jullien",
+    "repecProfileUrl": "https://ideas.repec.org/e/pju57.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pju57.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 45,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 45 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Martin Peitz",
+    "repecProfileUrl": "https://ideas.repec.org/e/ppe135.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/ppe135.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 46,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 46 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Philip J. Reny",
+    "repecProfileUrl": "https://ideas.repec.org/e/pre196.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pre196.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 47,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 47 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Peter M. DeMarzo",
+    "repecProfileUrl": "https://ideas.repec.org/f/pde650.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pde650.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 48,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 48 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Patrick W. Schmitz",
+    "repecProfileUrl": "https://ideas.repec.org/e/psc133.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/psc133.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 49,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 49 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Martin F. Hellwig",
+    "repecProfileUrl": "https://ideas.repec.org/e/phe118.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/phe118.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 50,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 50 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Sushil Bikhchandani",
+    "repecProfileUrl": "https://ideas.repec.org/e/pbi114.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pbi114.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 51,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 51 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Luca Lambertini",
+    "repecProfileUrl": "https://ideas.repec.org/f/pla288.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pla288.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 52,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 52 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Jay Pil Choi",
+    "repecProfileUrl": "https://ideas.repec.org/e/pch73.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pch73.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 53,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 53 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Alex Edmans",
+    "repecProfileUrl": "https://ideas.repec.org/e/ped30.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/ped30.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 54,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 54 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Elhanan Helpman",
+    "repecProfileUrl": "https://ideas.repec.org/f/phe205.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/phe205.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 55,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 55 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Nicola Gennaioli",
+    "repecProfileUrl": "https://ideas.repec.org/e/pge95.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pge95.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 56,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 56 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Yongmin Chen",
+    "repecProfileUrl": "https://ideas.repec.org/f/pch420.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pch420.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 57,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 57 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Paul Joskow",
+    "repecProfileUrl": "https://ideas.repec.org/e/pjo110.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pjo110.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 58,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 58 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "James Andreoni",
+    "repecProfileUrl": "https://ideas.repec.org/e/pan31.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pan31.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 59,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 59 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Dan Bernhardt",
+    "repecProfileUrl": "https://ideas.repec.org/e/pbe65.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pbe65.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 60,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 60 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Edi Karni",
+    "repecProfileUrl": "https://ideas.repec.org/f/pka445.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pka445.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 61,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 61 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Matthew O. Jackson (Matthew Owen Jackson)",
+    "repecProfileUrl": "https://ideas.repec.org/e/pja7.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pja7.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 62,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 62 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Timothy Besley",
+    "repecProfileUrl": "https://ideas.repec.org/e/pbe46.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pbe46.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 63,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 63 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Jörgen W. Weibull (Jorgen W. Weibull)",
+    "repecProfileUrl": "https://ideas.repec.org/e/pwe185.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pwe185.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 64,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 64 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Ran Spiegler",
+    "repecProfileUrl": "https://ideas.repec.org/e/psp83.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/psp83.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 65,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 65 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Joel Watson",
+    "repecProfileUrl": "https://ideas.repec.org/e/pwa36.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pwa36.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 66,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 66 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Alexander Wolitzky",
+    "repecProfileUrl": "https://ideas.repec.org/e/pwo172.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pwo172.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 67,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 67 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Pierpaolo Battigalli",
+    "repecProfileUrl": "https://ideas.repec.org/e/pba80.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pba80.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 68,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 68 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Ngo Van Long",
+    "repecProfileUrl": "https://ideas.repec.org/e/plo153.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/plo153.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 69,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 69 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Hugo A. Hopenhayn",
+    "repecProfileUrl": "https://ideas.repec.org/f/pho217.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pho217.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 70,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 70 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Michael Woodford",
+    "repecProfileUrl": "https://ideas.repec.org/e/pwo3.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pwo3.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 71,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 71 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Wing Suen",
+    "repecProfileUrl": "https://ideas.repec.org/e/psu33.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/psu33.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 72,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 72 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Johannes Hörner (Johannes Hoerner)",
+    "repecProfileUrl": "https://ideas.repec.org/e/phr34.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/phr34.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 73,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 73 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "James Malcomson",
+    "repecProfileUrl": "https://ideas.repec.org/e/pma172.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pma172.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 74,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 74 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Roman Inderst",
+    "repecProfileUrl": "https://ideas.repec.org/e/pin77.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pin77.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 75,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 75 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Gene Grossman",
+    "repecProfileUrl": "https://ideas.repec.org/e/pgr21.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pgr21.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 76,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 76 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Ernst Fehr",
+    "repecProfileUrl": "https://ideas.repec.org/e/pfe29.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pfe29.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 77,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 77 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Eytan Sheshinski",
+    "repecProfileUrl": "https://ideas.repec.org/e/psh109.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/psh109.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 78,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 78 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "John Morgan",
+    "repecProfileUrl": "https://ideas.repec.org/e/pmo131.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pmo131.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 79,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 79 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Salvador Barberà (Salvador Barbera)",
+    "repecProfileUrl": "https://ideas.repec.org/f/pba283.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pba283.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 80,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 80 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Julian Wright",
+    "repecProfileUrl": "https://ideas.repec.org/e/pwr4.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pwr4.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 81,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 81 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Dani Rodrik",
+    "repecProfileUrl": "https://ideas.repec.org/e/pro60.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pro60.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 82,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 82 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Margaret Ann Meyer",
+    "repecProfileUrl": "https://ideas.repec.org/e/pme165.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pme165.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 83,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 83 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Xavier Sala-i-Martin",
+    "repecProfileUrl": "https://ideas.repec.org/f/psa510.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/psa510.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 84,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 84 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Navin Kartik",
+    "repecProfileUrl": "https://ideas.repec.org/e/pka189.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pka189.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 85,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 85 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Steven Levitt",
+    "repecProfileUrl": "https://ideas.repec.org/e/ple59.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/ple59.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 86,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 86 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Aner Sela",
+    "repecProfileUrl": "https://ideas.repec.org/f/pse753.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pse753.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 87,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 87 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Massimo Marinacci",
+    "repecProfileUrl": "https://ideas.repec.org/f/pma507.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pma507.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 88,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 88 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Pierre Chiappori",
+    "repecProfileUrl": "https://ideas.repec.org/f/pch377.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pch377.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 89,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 89 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Alessandro Pavan",
+    "repecProfileUrl": "https://ideas.repec.org/f/ppa367.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/ppa367.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 90,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 90 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Stephen Coate",
+    "repecProfileUrl": "https://ideas.repec.org/e/pco66.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pco66.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 91,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 91 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Benny Moldovanu",
+    "repecProfileUrl": "https://ideas.repec.org/e/pmo12.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pmo12.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 92,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 92 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Inkoo Cho",
+    "repecProfileUrl": "https://ideas.repec.org/f/pch1518.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pch1518.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 93,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 93 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Francoise Forges",
+    "repecProfileUrl": "https://ideas.repec.org/e/pfo80.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pfo80.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 94,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 94 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Edward Ludwig Glaeser",
+    "repecProfileUrl": "https://ideas.repec.org/e/pgl9.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pgl9.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 95,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 95 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Hans Gersbach",
+    "repecProfileUrl": "https://ideas.repec.org/e/pge9.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pge9.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 96,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 96 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "James Alan Robinson",
+    "repecProfileUrl": "https://ideas.repec.org/e/pro179.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pro179.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 97,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 97 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Massimo Motta",
+    "repecProfileUrl": "https://ideas.repec.org/e/pmo197.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pmo197.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 98,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 98 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Andrzej Skrzypacz",
+    "repecProfileUrl": "https://ideas.repec.org/e/psk11.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/psk11.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 99,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 99 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Guoqiang Tian",
+    "repecProfileUrl": "https://ideas.repec.org/e/pti55.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pti55.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 100,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 100 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Helmut Bester",
+    "repecProfileUrl": "https://ideas.repec.org/e/pbe134.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pbe134.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 101,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 101 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Luis M B Cabral",
+    "repecProfileUrl": "https://ideas.repec.org/e/pca193.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pca193.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 102,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 102 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Nicholas S. Economides",
+    "repecProfileUrl": "https://ideas.repec.org/e/pec1.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pec1.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 103,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 103 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Steven M. Shavell",
+    "repecProfileUrl": "https://ideas.repec.org/e/psh42.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/psh42.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 104,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 104 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Bhaskar Dutta",
+    "repecProfileUrl": "https://ideas.repec.org/e/pdu147.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pdu147.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 105,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 105 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Claude d'Aspremont",
+    "repecProfileUrl": "https://ideas.repec.org/f/pda295.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pda295.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 106,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 106 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Martin Shubik",
+    "repecProfileUrl": "https://ideas.repec.org/e/psh155.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/psh155.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 107,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 107 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Rajiv Vohra",
+    "repecProfileUrl": "https://ideas.repec.org/e/pvo2.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pvo2.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 108,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 108 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Kai A. Konrad",
+    "repecProfileUrl": "https://ideas.repec.org/e/pko51.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pko51.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 109,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 109 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Francis Bloch",
+    "repecProfileUrl": "https://ideas.repec.org/e/pbl45.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pbl45.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 110,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 110 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Tomasz Strzalecki",
+    "repecProfileUrl": "https://ideas.repec.org/f/pst237.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pst237.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 111,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 111 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Roberto Serrano",
+    "repecProfileUrl": "https://ideas.repec.org/e/pse18.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pse18.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 112,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 112 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Martin J. Osborne",
+    "repecProfileUrl": "https://ideas.repec.org/e/pos1.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pos1.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 113,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 113 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Patrick L. Bajari",
+    "repecProfileUrl": "https://ideas.repec.org/f/pba2106.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pba2106.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 114,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 114 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Alvin Roth",
+    "repecProfileUrl": "https://ideas.repec.org/e/pro40.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pro40.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 115,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 115 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Yves Sprumont",
+    "repecProfileUrl": "https://ideas.repec.org/e/psp114.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/psp114.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 116,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 116 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Andrew Caplin",
+    "repecProfileUrl": "https://ideas.repec.org/e/pca77.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pca77.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 117,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 117 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Bruno S. Frey",
+    "repecProfileUrl": "https://ideas.repec.org/e/pfr6.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pfr6.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 118,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 118 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Thierry A. Verdier",
+    "repecProfileUrl": "https://ideas.repec.org/e/pve75.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pve75.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 119,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 119 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Thomas R. Palfrey",
+    "repecProfileUrl": "https://ideas.repec.org/f/ppa1164.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/ppa1164.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 120,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 120 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Kyle Bagwell",
+    "repecProfileUrl": "https://ideas.repec.org/f/pba409.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pba409.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 121,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 121 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Georg Nöldeke (Georg Noeldeke)",
+    "repecProfileUrl": "https://ideas.repec.org/e/pno8.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pno8.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 122,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 122 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Hans J.m. Peters",
+    "repecProfileUrl": "https://ideas.repec.org/f/ppe433.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/ppe433.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 123,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 123 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Martin Browning",
+    "repecProfileUrl": "https://ideas.repec.org/f/pbr221.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pbr221.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 124,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 124 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "John K.-h. Quah",
+    "repecProfileUrl": "https://ideas.repec.org/e/pqu49.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pqu49.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 125,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 125 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "M. Ali Khan",
+    "repecProfileUrl": "https://ideas.repec.org/f/pkh243.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pkh243.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 126,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 126 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Jean Gabszewicz",
+    "repecProfileUrl": "https://ideas.repec.org/e/pga74.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pga74.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 127,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 127 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "William R. Zame",
+    "repecProfileUrl": "https://ideas.repec.org/e/pza30.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pza30.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 128,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 128 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Marius Schwartz",
+    "repecProfileUrl": "https://ideas.repec.org/f/psc463.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/psc463.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 129,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 129 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Pedro Bordalo",
+    "repecProfileUrl": "https://ideas.repec.org/f/pbo515.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pbo515.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 130,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 130 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Jacob K Goeree",
+    "repecProfileUrl": "https://ideas.repec.org/e/pgo37.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pgo37.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 131,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 131 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Noriaki Matsushima",
+    "repecProfileUrl": "https://ideas.repec.org/f/pma666.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pma666.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 132,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 132 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Marco Ottaviani",
+    "repecProfileUrl": "https://ideas.repec.org/e/pot1.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pot1.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 133,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 133 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "David Laibson",
+    "repecProfileUrl": "https://ideas.repec.org/e/pla164.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pla164.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 134,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 134 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Shmuel Nitzan",
+    "repecProfileUrl": "https://ideas.repec.org/e/pni105.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pni105.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 135,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 135 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Toshihiro Matsumura",
+    "repecProfileUrl": "https://ideas.repec.org/f/pma2008.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pma2008.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 136,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 136 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "James J. Heckman",
+    "repecProfileUrl": "https://ideas.repec.org/e/phe22.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/phe22.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 137,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 137 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Philipp Strack",
+    "repecProfileUrl": "https://ideas.repec.org/f/pst716.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pst716.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 138,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 138 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Mark J. Roberts",
+    "repecProfileUrl": "https://ideas.repec.org/e/pro190.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pro190.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 139,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 139 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Alessandro Bonatti",
+    "repecProfileUrl": "https://ideas.repec.org/f/pbo878.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pbo878.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 140,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 140 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Peter Hammond",
+    "repecProfileUrl": "https://ideas.repec.org/e/pha6.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pha6.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 141,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 141 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Jidong Zhou",
+    "repecProfileUrl": "https://ideas.repec.org/f/pzh220.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pzh220.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 142,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 142 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Bruno R Biais",
+    "repecProfileUrl": "https://ideas.repec.org/e/pbi43.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pbi43.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 143,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 143 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Lucian Bebchuk",
+    "repecProfileUrl": "https://ideas.repec.org/e/pbe72.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pbe72.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 144,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 144 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Kaushik Basu",
+    "repecProfileUrl": "https://ideas.repec.org/f/pba464.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pba464.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 145,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 145 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Charles A. Holt",
+    "repecProfileUrl": "https://ideas.repec.org/e/pho200.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pho200.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 146,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Rank 146 in the IDEAS/RePEc Microeconomics field ranking, April 2026. Source: https://ideas.repec.org/top/top.mic.html"
+  },
+  {
+    "name": "Abbring, Jaap H.",
+    "repecProfileUrl": "https://ideas.repec.org/e/pab1.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pab1.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 147,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Alos-Ferrer, Carlos",
+    "repecProfileUrl": "https://ideas.repec.org/e/pal4.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pal4.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 148,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Argenziano, Rossella",
+    "repecProfileUrl": "https://ideas.repec.org/e/par101.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/par101.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 149,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Aboutajdine, Reda",
+    "repecProfileUrl": "https://ideas.repec.org/f/pab381.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pab381.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 150,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Amarante, Massimiliano",
+    "repecProfileUrl": "https://ideas.repec.org/e/pam125.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pam125.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 151,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Arguedas, Carmen",
+    "repecProfileUrl": "https://ideas.repec.org/e/par78.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/par78.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 152,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Amir, Rabah",
+    "repecProfileUrl": "https://ideas.repec.org/e/pam56.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pam56.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 153,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Arjmandi, Nabi",
+    "repecProfileUrl": "https://ideas.repec.org/f/par647.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/par647.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 154,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Achim, Peter",
+    "repecProfileUrl": "https://ideas.repec.org/f/pwa804.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pwa804.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 155,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Amoros, Pablo",
+    "repecProfileUrl": "https://ideas.repec.org/e/pam9.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pam9.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 156,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Achuthankutty, Gopakumar",
+    "repecProfileUrl": "https://ideas.repec.org/e/pac92.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pac92.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 157,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Anderlini, Luca",
+    "repecProfileUrl": "https://ideas.repec.org/e/pan51.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pan51.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 158,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Arozamena, Leandro",
+    "repecProfileUrl": "https://ideas.repec.org/e/par192.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/par192.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 159,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Adriani, Fabrizio",
+    "repecProfileUrl": "https://ideas.repec.org/e/pad82.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pad82.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 160,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Arribillaga, R. Pablo",
+    "repecProfileUrl": "https://ideas.repec.org/f/par402.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/par402.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 161,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Andersson, Tommy",
+    "repecProfileUrl": "https://ideas.repec.org/e/pan168.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pan168.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 162,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Asker, John",
+    "repecProfileUrl": "https://ideas.repec.org/e/pas7.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pas7.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 163,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Aguiar, Victor H.",
+    "repecProfileUrl": "https://ideas.repec.org/e/pag44.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pag44.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 164,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Andina-Diaz, Ascension",
+    "repecProfileUrl": "https://ideas.repec.org/f/pan372.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pan372.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 165,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Aslan, Fatma",
+    "repecProfileUrl": "https://ideas.repec.org/f/pas252.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pas252.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 166,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Aguirregabiria, Victor",
+    "repecProfileUrl": "https://ideas.repec.org/e/pag15.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pag15.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 167,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Andolfatto, David",
+    "repecProfileUrl": "https://ideas.repec.org/e/pan9.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pan9.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 168,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Asplund, Marcus",
+    "repecProfileUrl": "https://ideas.repec.org/e/pas45.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pas45.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 169,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Ahmed, Rafayal",
+    "repecProfileUrl": "https://ideas.repec.org/f/pah285.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pah285.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 170,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Asriyan, Vladimir",
+    "repecProfileUrl": "https://ideas.repec.org/e/pas138.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pas138.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 171,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Ahrens, Steffen",
+    "repecProfileUrl": "https://ideas.repec.org/e/pah84.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pah84.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 172,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Andreottola, Giovanni",
+    "repecProfileUrl": "https://ideas.repec.org/f/pan652.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pan652.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 173,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Atakan, Alp Enver",
+    "repecProfileUrl": "https://ideas.repec.org/e/pat41.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pat41.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 174,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Alaoui, Larbi",
+    "repecProfileUrl": "https://ideas.repec.org/f/pal299.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pal299.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 175,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Anesi, Vincent",
+    "repecProfileUrl": "https://ideas.repec.org/f/pan206.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pan206.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 176,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Atallah, Gamal",
+    "repecProfileUrl": "https://ideas.repec.org/e/pat1.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pat1.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 177,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Albrecht, Brian C.",
+    "repecProfileUrl": "https://ideas.repec.org/f/pal847.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pal847.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 178,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Angeletos, George-Marios",
+    "repecProfileUrl": "https://ideas.repec.org/e/pan143.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pan143.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 179,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Athey, Susan Carleton",
+    "repecProfileUrl": "https://ideas.repec.org/e/pat6.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pat6.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 180,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Albrecht, James",
+    "repecProfileUrl": "https://ideas.repec.org/e/pal153.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pal153.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 181,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Angelini, Francesco",
+    "repecProfileUrl": "https://ideas.repec.org/f/pan570.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pan570.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 182,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Attar, Andrea",
+    "repecProfileUrl": "https://ideas.repec.org/e/pat29.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pat29.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 183,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Alcantud, Jose Carlos Rodriguez",
+    "repecProfileUrl": "https://ideas.repec.org/e/pal50.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pal50.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 184,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Anthropelos, Michail",
+    "repecProfileUrl": "https://ideas.repec.org/f/pan319.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pan319.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 185,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Auriol, Emmanuelle",
+    "repecProfileUrl": "https://ideas.repec.org/e/pau5.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pau5.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 186,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Aldashev, Gani",
+    "repecProfileUrl": "https://ideas.repec.org/f/pal231.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pal231.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 187,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Anwar, Chowdhury Mohammad S",
+    "repecProfileUrl": "https://ideas.repec.org/f/pan588.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pan588.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 188,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Aybas, Yunus C",
+    "repecProfileUrl": "https://ideas.repec.org/e/pay88.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pay88.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 189,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Alger, Ingela",
+    "repecProfileUrl": "https://ideas.repec.org/e/pal24.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pal24.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 190,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Aoyagi, Masaki",
+    "repecProfileUrl": "https://ideas.repec.org/e/pao5.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pao5.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 191,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Azacis, Helmuts",
+    "repecProfileUrl": "https://ideas.repec.org/e/paz14.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/paz14.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 192,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Allouch, Nizar",
+    "repecProfileUrl": "https://ideas.repec.org/e/pal104.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pal104.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 193,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Apesteguia, Jose",
+    "repecProfileUrl": "https://ideas.repec.org/e/pap14.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pap14.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 194,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Azrieli, Yaron",
+    "repecProfileUrl": "https://ideas.repec.org/e/paz24.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/paz24.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 195,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "al-Nowaihi, Ali",
+    "repecProfileUrl": "https://ideas.repec.org/f/pal637.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pal637.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 196,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Araujo, Aloisio",
+    "repecProfileUrl": "https://ideas.repec.org/f/par368.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/par368.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 197,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Alonso, Ricardo",
+    "repecProfileUrl": "https://ideas.repec.org/f/pal640.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pal640.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 198,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Arenas Molina, Jorge",
+    "repecProfileUrl": "https://ideas.repec.org/f/par731.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/par731.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 199,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Ba, Cuimin",
+    "repecProfileUrl": "https://ideas.repec.org/f/pba2039.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pba2039.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 200,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Beccuti, Juan",
+    "repecProfileUrl": "https://ideas.repec.org/f/pbe902.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pbe902.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 201,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Boldrin, Michele",
+    "repecProfileUrl": "https://ideas.repec.org/e/pbo31.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pbo31.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 202,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Baake, Pio",
+    "repecProfileUrl": "https://ideas.repec.org/f/pba314.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pba314.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 203,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Becker, Robert A.",
+    "repecProfileUrl": "https://ideas.repec.org/f/pbe624.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pbe624.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 204,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Bolte, Lukas",
+    "repecProfileUrl": "https://ideas.repec.org/f/pbo1167.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pbo1167.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 205,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Babus, Ana",
+    "repecProfileUrl": "https://ideas.repec.org/f/pba397.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pba397.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 206,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Behrens, Kristian",
+    "repecProfileUrl": "https://ideas.repec.org/e/pbe108.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pbe108.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 207,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Bommier, Antoine",
+    "repecProfileUrl": "https://ideas.repec.org/e/pbo59.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pbo59.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 208,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Bacchiega, Alberto",
+    "repecProfileUrl": "https://ideas.repec.org/e/pba6.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pba6.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 209,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Behringer, Stefan",
+    "repecProfileUrl": "https://ideas.repec.org/f/pbe240.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pbe240.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 210,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Bacchiega, Emanuele",
+    "repecProfileUrl": "https://ideas.repec.org/f/pba501.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pba501.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 211,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Belhaj, Mohamed",
+    "repecProfileUrl": "https://ideas.repec.org/f/pbe380.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pbe380.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 212,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Boncinelli, Leonardo",
+    "repecProfileUrl": "https://ideas.repec.org/f/pbo309.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pbo309.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 213,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Belkov, Sergei",
+    "repecProfileUrl": "https://ideas.repec.org/f/pbe1149.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pbe1149.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 214,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Bonifacio, Agustin G.",
+    "repecProfileUrl": "https://ideas.repec.org/f/pbo800.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pbo800.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 215,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Belleflamme, Paul",
+    "repecProfileUrl": "https://ideas.repec.org/e/pbe57.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pbe57.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 216,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Bonnet, Celine",
+    "repecProfileUrl": "https://ideas.repec.org/f/pbo582.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pbo582.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 217,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Balafoutas, Loukas",
+    "repecProfileUrl": "https://ideas.repec.org/f/pba1068.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pba1068.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 218,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Bonnisseau, Jean-Marc",
+    "repecProfileUrl": "https://ideas.repec.org/f/pbo292.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pbo292.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 219,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Baldwin, Elizabeth",
+    "repecProfileUrl": "https://ideas.repec.org/f/pba1555.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pba1555.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 220,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Benchekroun, Hassan",
+    "repecProfileUrl": "https://ideas.repec.org/f/pbe218.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pbe218.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 221,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Bonroy, Olivier",
+    "repecProfileUrl": "https://ideas.repec.org/e/pbo88.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pbo88.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 222,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Ballester, Miguel Angel",
+    "repecProfileUrl": "https://ideas.repec.org/f/pba849.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pba849.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 223,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Benkert, Jean-Michel",
+    "repecProfileUrl": "https://ideas.repec.org/f/pbe846.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pbe846.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 224,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Bontems, Philippe",
+    "repecProfileUrl": "https://ideas.repec.org/f/pbo540.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pbo540.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 225,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Balmaceda, Felipe",
+    "repecProfileUrl": "https://ideas.repec.org/e/pba38.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pba38.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 226,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Berga, Dolors",
+    "repecProfileUrl": "https://ideas.repec.org/f/pbe519.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pbe519.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 227,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Boom, Anette",
+    "repecProfileUrl": "https://ideas.repec.org/e/pbo79.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pbo79.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 228,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Bandyopadhyay, Siddhartha",
+    "repecProfileUrl": "https://ideas.repec.org/e/pba174.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pba174.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 229,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Bergantinos, Gustavo",
+    "repecProfileUrl": "https://ideas.repec.org/e/pbe155.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pbe155.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 230,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Boone, Jan",
+    "repecProfileUrl": "https://ideas.repec.org/e/pbo131.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pbo131.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 231,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Banerjee, Abhijit Vinayak",
+    "repecProfileUrl": "https://ideas.repec.org/f/pba1710.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pba1710.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 232,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Banerjee, Anwesha",
+    "repecProfileUrl": "https://ideas.repec.org/f/pba1577.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pba1577.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 233,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Berger, Loic",
+    "repecProfileUrl": "https://ideas.repec.org/f/pbe650.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pbe650.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 234,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Bos, Iwan",
+    "repecProfileUrl": "https://ideas.repec.org/f/pbo459.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pbo459.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 235,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Banerjee, Shraman",
+    "repecProfileUrl": "https://ideas.repec.org/f/pba1544.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pba1544.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 236,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Berggreen, Steve",
+    "repecProfileUrl": "https://ideas.repec.org/f/pbe1365.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pbe1365.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 237,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Bos, Olivier",
+    "repecProfileUrl": "https://ideas.repec.org/f/pbo457.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pbo457.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 238,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Banerjee (Bandyopadhyay), Swapnendu",
+    "repecProfileUrl": "https://ideas.repec.org/f/pba757.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pba757.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 239,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Berliant, Marcus",
+    "repecProfileUrl": "https://ideas.repec.org/e/pbe122.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pbe122.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 240,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Bose, Subir",
+    "repecProfileUrl": "https://ideas.repec.org/f/pbo349.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pbo349.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 241,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Bernard, Andrew B.",
+    "repecProfileUrl": "https://ideas.repec.org/f/pbe478.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pbe478.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 242,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Bossert, Walter",
+    "repecProfileUrl": "https://ideas.repec.org/e/pbo182.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pbo182.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 243,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Barbieri, Stefano",
+    "repecProfileUrl": "https://ideas.repec.org/f/pba1013.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pba1013.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 244,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Boucekkine, Raouf",
+    "repecProfileUrl": "https://ideas.repec.org/e/pbo84.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pbo84.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 245,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Barbos, Andrei",
+    "repecProfileUrl": "https://ideas.repec.org/f/pba756.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pba756.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 246,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Bertoletti, Paolo",
+    "repecProfileUrl": "https://ideas.repec.org/f/pbe270.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pbe270.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 247,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Bourreau, Marc",
+    "repecProfileUrl": "https://ideas.repec.org/e/pbo149.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pbo149.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 248,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Bardey, David",
+    "repecProfileUrl": "https://ideas.repec.org/f/pba359.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pba359.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 249,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Bouton, Laurent",
+    "repecProfileUrl": "https://ideas.repec.org/e/pbo198.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pbo198.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 250,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Barelli, Paulo",
+    "repecProfileUrl": "https://ideas.repec.org/f/pba1737.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pba1737.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 251,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Bowen, T. Renee",
+    "repecProfileUrl": "https://ideas.repec.org/f/pbo759.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pbo759.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 252,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Barigozzi, Francesca",
+    "repecProfileUrl": "https://ideas.repec.org/f/pba343.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pba343.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 253,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Bhardwaj, Bhavook",
+    "repecProfileUrl": "https://ideas.repec.org/e/pbh186.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pbh186.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 254,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Boyer, Pierre C.",
+    "repecProfileUrl": "https://ideas.repec.org/f/pbo355.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pbo355.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 255,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Bar-Isaac, Heski",
+    "repecProfileUrl": "https://ideas.repec.org/e/pba94.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pba94.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 256,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Bhaskar, V",
+    "repecProfileUrl": "https://ideas.repec.org/e/pbh25.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pbh25.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 257,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Bramoulle, Yann",
+    "repecProfileUrl": "https://ideas.repec.org/e/pbr146.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pbr146.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 258,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Barlo, Mehmet",
+    "repecProfileUrl": "https://ideas.repec.org/f/pba246.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pba246.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 259,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Bhattacharjee, Swagata",
+    "repecProfileUrl": "https://ideas.repec.org/e/pbh173.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pbh173.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 260,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Brams, Steven J.",
+    "repecProfileUrl": "https://ideas.repec.org/e/pbr76.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pbr76.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 261,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Bartolini, David",
+    "repecProfileUrl": "https://ideas.repec.org/f/pba513.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pba513.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 262,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Bhowmik, Anuj",
+    "repecProfileUrl": "https://ideas.repec.org/e/pbh126.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pbh126.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 263,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Brandao, Antonio",
+    "repecProfileUrl": "https://ideas.repec.org/f/pbr489.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pbr489.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 264,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Basile, Achille",
+    "repecProfileUrl": "https://ideas.repec.org/f/pba754.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pba754.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 265,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Brandts, Jordi",
+    "repecProfileUrl": "https://ideas.repec.org/f/pbr469.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pbr469.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 266,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Basili, Marcello",
+    "repecProfileUrl": "https://ideas.repec.org/f/pba672.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pba672.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 267,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Bianchi, Milo",
+    "repecProfileUrl": "https://ideas.repec.org/e/pbi129.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pbi129.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 268,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Breitmoser, Yves",
+    "repecProfileUrl": "https://ideas.repec.org/f/pbr372.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pbr372.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 269,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Basov, Suren",
+    "repecProfileUrl": "https://ideas.repec.org/f/pba218.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pba218.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 270,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Biancini, Sara",
+    "repecProfileUrl": "https://ideas.repec.org/e/pbi123.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pbi123.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 271,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Brekke, Kurt Richard",
+    "repecProfileUrl": "https://ideas.repec.org/f/pbr420.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pbr420.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 272,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Breu, Maximilian Franz Xaver",
+    "repecProfileUrl": "https://ideas.repec.org/f/pbr574.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pbr574.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 273,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Battaggion, Maria Rosa",
+    "repecProfileUrl": "https://ideas.repec.org/f/pba539.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pba539.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 274,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Bilancini, Ennio",
+    "repecProfileUrl": "https://ideas.repec.org/e/pbi69.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pbi69.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 275,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Brito, Duarte",
+    "repecProfileUrl": "https://ideas.repec.org/e/pbr131.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pbr131.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 276,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Battaglini, Marco",
+    "repecProfileUrl": "https://ideas.repec.org/e/pba170.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pba170.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 277,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Billand, Pascal",
+    "repecProfileUrl": "https://ideas.repec.org/f/pbi347.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pbi347.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 278,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Brooks, Benjamin A",
+    "repecProfileUrl": "https://ideas.repec.org/f/pbr781.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pbr781.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 279,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Billette de Villemeur, Etienne",
+    "repecProfileUrl": "https://ideas.repec.org/e/pbi70.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pbi70.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 280,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Brown, Donald",
+    "repecProfileUrl": "https://ideas.repec.org/e/pbr50.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pbr50.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 281,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Baumann, Leonie",
+    "repecProfileUrl": "https://ideas.repec.org/f/pba1862.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pba1862.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 282,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Billot, Antoine",
+    "repecProfileUrl": "https://ideas.repec.org/e/pbi6.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pbi6.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 283,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Bavly, Gilad",
+    "repecProfileUrl": "https://ideas.repec.org/f/pba968.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pba968.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 284,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Bisin, Alberto",
+    "repecProfileUrl": "https://ideas.repec.org/e/pbi10.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pbi10.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 285,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Bru, Lluis",
+    "repecProfileUrl": "https://ideas.repec.org/f/pbr471.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pbr471.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 286,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Bayer, Peter",
+    "repecProfileUrl": "https://ideas.repec.org/f/pba1915.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pba1915.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 287,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Bizzotto, Jacopo",
+    "repecProfileUrl": "https://ideas.repec.org/f/pbi256.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pbi256.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 288,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Bucher, Stefan F",
+    "repecProfileUrl": "https://ideas.repec.org/f/pbu624.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pbu624.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 289,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Bayraktar, Erhan",
+    "repecProfileUrl": "https://ideas.repec.org/f/pba1177.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pba1177.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 290,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Buechel, Berno",
+    "repecProfileUrl": "https://ideas.repec.org/e/pbc3.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pbc3.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 291,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Beal, Sylvain",
+    "repecProfileUrl": "https://ideas.repec.org/f/pba617.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pba617.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 292,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Blomquist, Soren",
+    "repecProfileUrl": "https://ideas.repec.org/e/pbl164.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pbl164.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 293,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Buehler, Stefan",
+    "repecProfileUrl": "https://ideas.repec.org/e/pbu81.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pbu81.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 294,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Bohren, Aislinn",
+    "repecProfileUrl": "https://ideas.repec.org/f/pbo779.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pbo779.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 295,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Burguet, Roberto",
+    "repecProfileUrl": "https://ideas.repec.org/e/pbu48.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pbu48.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 296,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Chambers, Christopher P.",
+    "repecProfileUrl": "https://ideas.repec.org/f/pch496.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pch496.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 297,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Coad, Alex",
+    "repecProfileUrl": "https://ideas.repec.org/f/pco248.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pco248.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 298,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Cabrales, Antonio",
+    "repecProfileUrl": "https://ideas.repec.org/e/pca5.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/e/pca5.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 299,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  },
+  {
+    "name": "Charness, Gary",
+    "repecProfileUrl": "https://ideas.repec.org/f/pch205.html",
+    "ideasAuthorUrl": "https://ideas.repec.org/f/pch205.html",
+    "homepageUrl": null,
+    "rssUrl": null,
+    "nberAuthorUrl": null,
+    "ssrnAuthorUrl": null,
+    "priority": 300,
+    "fields": [
+      "Microeconomics",
+      "Microeconomic Theory"
+    ],
+    "notes": "Added from the public IDEAS/RePEc Microeconomics author index to complete a 300-author watchlist. The ranking page lists only 146 ranked Microeconomics authors. Sources: https://ideas.repec.org/top/top.mic.html and https://ideas.repec.org/i/emic.html"
+  }
+]

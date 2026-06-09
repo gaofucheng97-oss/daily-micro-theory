@@ -14,6 +14,11 @@ The homepage has two separate sections:
 The author watchlist is not an objective list of the best economists. It is a
 configurable list of authors you choose to follow.
 
+The current watchlist is seeded from the public IDEAS/RePEc Microeconomics
+field pages, dated April 2026. The ranked page exposes 146 ranked authors; the
+remaining watchlist slots are filled from the linked Microeconomics author
+index. Unknown personal, NBER, SSRN, and RSS URLs are left as `null`.
+
 ## Data Files
 
 - `data/topic-papers.json`: the main topic feed used by the Topic Papers
@@ -61,6 +66,12 @@ Update RePEc Author Watch papers:
 
 ```powershell
 npm run update-repec-author-papers
+```
+
+Refresh the RePEc author watchlist from the IDEAS/RePEc Microeconomics ranking:
+
+```powershell
+npm run update-repec-watchlist
 ```
 
 Validate the data files:

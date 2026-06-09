@@ -6,6 +6,7 @@
   "scripts": {
     "update-topic-papers": "node scripts/update-topic-papers.js",
     "update-repec-author-papers": "node scripts/update-repec-author-papers.js",
+    "update-repec-watchlist": "node scripts/update-repec-watchlist-from-ranking.js",
     "update-papers": "npm run update-topic-papers",
     "validate-data": "node scripts/validate-data.js"
   },
