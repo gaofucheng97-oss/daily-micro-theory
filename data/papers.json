@@ -1,74 +1,163 @@
 [
   {
-    "title": "A Kernel-Clean Lean Mechanization of Classical Lottery in Action and the Wakker-Debreu-Koopmans Representation Layer",
-    "authors": ["Jingyuan Li", "Ilia Tsetlin", "Fan Wang"],
-    "publicationDate": "2026-06-08",
-    "abstract": "This paper presents a Lean 4 and Mathlib formalization of additive representation theory behind Classical Lottery in Action and the Wakker-Debreu-Koopmans layer. It gives a machine-checked boundary between ordinal axioms of additive conjoint measurement and the additional structural input needed for representation results.",
-    "topics": ["Decision Theory"],
-    "paperUrl": "https://arxiv.org/abs/2606.08902",
-    "pdfUrl": "https://arxiv.org/pdf/2606.08902"
+    "title": "EFX for Additive Chores: Nonexistence, Pareto Incompatibility, and Bi-Valued Existence",
+    "authors": [
+      "Wentao He",
+      "Biaoshuai Tao"
+    ],
+    "publicationDate": "2026-06-07",
+    "abstract": "We consider the fair division problem of indivisible chores and resolve the long-standing open problem for the existence of EFX allocations with additive cost functions. We show that, even for tri-valued additive cost functions, for every $n\\geq 4$, there exists an instance with $n$ agents where no EFX allocation exists. Our counterexample only uses three types of chores, which is also tight on the number of types, as an EFX allocation is known to exist for two types of chores. We then consider bi-valued instances. We show that, for every $n\\geq 4$, there exists an instance with $n$ agents where every EFX allocation is not Pareto-optimal. This is also the first example showing the incompatibility of EFX and Pareto-optimality when the costs of items are positive: existing examples showing the incompatibility of EFX and Pareto-optimal exploit items with $0$ costs. Our result shows such an example exists even for bi-valued instances. The number of agents $n$ is also tight: for $n\\leq 3$, it is known that EFX is compatible with Pareto-optimality. Finally, we also show that an EFX allocation is guaranteed to exist for $n=4$.",
+    "topics": [
+      "Market Design",
+      "Social Choice"
+    ],
+    "paperUrl": "https://arxiv.org/abs/2606.08872v1",
+    "pdfUrl": "https://arxiv.org/pdf/2606.08872v1"
   },
   {
     "title": "The Winner's Bliss in Common-Value Auctions under Horizontal Differentiation",
-    "authors": ["Jiawei Chen", "Anh Nguyen", "Matthew Shum"],
+    "authors": [
+      "Jiawei Chen",
+      "Anh Nguyen",
+      "Matthew Shum"
+    ],
     "publicationDate": "2026-06-07",
-    "abstract": "The authors study common-value auctions with horizontally differentiated bidder preferences. In a two-bidder setting, winning can convey good news about the object's value to the winner, producing a winner's bliss that differs from the standard winner's curse logic.",
-    "topics": ["Auctions", "Game Theory"],
-    "paperUrl": "https://arxiv.org/abs/2606.08419",
-    "pdfUrl": "https://arxiv.org/pdf/2606.08419"
-  },
-  {
-    "title": "Strategic Type Spaces",
-    "authors": ["Olivier Gossner", "Rafael Veiel"],
-    "publicationDate": "2026-06-06",
-    "abstract": "This paper develops a strategic foundation for information in incomplete-information games. It defines strategic quotients that are sufficient for best responses and proves existence and essential uniqueness of a minimal Strategic Type Space with a recursive finite-automaton structure.",
-    "topics": ["Game Theory", "Decision Theory"],
-    "paperUrl": "https://arxiv.org/abs/2606.08297",
-    "pdfUrl": "https://arxiv.org/pdf/2606.08297"
+    "abstract": "We study common-value auctions in which bidders have horizontally differentiated preferences. In a specific two-bidder parameterization, winning conveys good news about the object's value to the winner, a phenomenon we call the winner's bliss in contrast to the conventional winner's curse. Additional implications also differ from the conventional analysis. When bidders' preferences are horizontally differentiated, seller revenue is reduced with information disclosure, and advantageous selection sustains bilateral trade under asymmetric information.",
+    "topics": [
+      "Decision Theory",
+      "Auctions"
+    ],
+    "paperUrl": "https://arxiv.org/abs/2606.08419v1",
+    "pdfUrl": "https://arxiv.org/pdf/2606.08419v1"
   },
   {
     "title": "Learn to Match: Two-Sided Matching with Temporally Extended Feedback",
-    "authors": ["Haijing Zong", "Yancheng Liang", "Boyang Zhou", "Natasha Jaques"],
+    "authors": [
+      "Haijing Zong",
+      "Yancheng Liang",
+      "Boyang Zhou",
+      "Natasha Jaques"
+    ],
     "publicationDate": "2026-06-04",
-    "abstract": "This paper models two-sided matching as a partially observable Markov game with interviews, repeated interaction, latent profiles, and endogenous continuation or dissolution. The Learn2Match benchmark evaluates policies using regret, social welfare, and information-friction loss.",
-    "topics": ["Matching", "Market Design", "Game Theory"],
-    "paperUrl": "https://arxiv.org/abs/2606.06744",
-    "pdfUrl": "https://arxiv.org/pdf/2606.06744"
+    "abstract": "Two-sided matching markets often involve information that unfolds over time through interviews, repeated interaction, learning, and separation. Existing matching models typically reduce this process to immediate sub-Gaussian feedback about fixed preferences, missing settings where payoff-relevant information is revealed gradually and changes future matching decisions. We introduce a framework with temporally extended feedback, that formulates two-sided matching as a partially observable Markov game with costly pre-match screening, noisy post-match observations, evolving latent profiles, and endogenous continuation or dissolution. We instantiate this framework in Learn2Match, a multi-agent reinforcement-learning benchmark for dynamic matching markets. Learn2Match supports decentralized decision making over whom to interview, whom to match with, and when to dissolve a match, while evaluating policies using regret, social welfare, and an information-friction loss that measures the welfare gap caused by incomplete revelation of latent preferences. We find that independent PPO achieves higher cumulative social welfare and lower cumulative regret than the bandit-style CA-ETC baseline under temporally extended feedback, demonstrating the promise of MARL for dynamic matching markets. However, PPO still incurs higher information-friction loss, revealing that end-to-end MARL does not yet provide the coordinated exploration structure of matching-bandit methods. These results position Learn2Match as a benchmark for developing the next generation of matching-market algorithms: methods that are adaptive like RL agents, statistically disciplined like bandit algorithms, and structurally aware like stable-matching mechanisms.",
+    "topics": [
+      "Game Theory",
+      "Mechanism Design",
+      "Decision Theory",
+      "Matching"
+    ],
+    "paperUrl": "https://arxiv.org/abs/2606.06744v1",
+    "pdfUrl": "https://arxiv.org/pdf/2606.06744v1"
   },
   {
-    "title": "Fairness and Strategy-Proofness in Automated Market Makers",
-    "authors": ["Frank M. V. Feys"],
-    "publicationDate": "2026-06-03",
-    "abstract": "The paper shows that no aggregation rule for weighted-product automated market makers with at least three assets can be both fair and strategy-proof. The result connects Arrovian fairness, provider preferences over pools, and impossibility results for externally Bayesian pooling.",
-    "topics": ["Market Design", "Mechanism Design"],
-    "paperUrl": "https://arxiv.org/abs/2606.04959",
-    "pdfUrl": "https://arxiv.org/pdf/2606.04959"
+    "title": "Measuring Concentration of Power in Approval Voting Games",
+    "authors": [
+      "Takaaki Abe"
+    ],
+    "publicationDate": "2026-06-04",
+    "abstract": "The ratio of voting power between a permanent member and a non-permanent member of the United Nations Security Council varies substantially across indices: approximately 100 to 1 according to the Shapley-Shubik index, 10 to 1 according to the Banzhaf index, and 2.5 to 1 according to the Deegan-Packel index. Such comparisons depend on the choice of power index and are meaningful only in settings where players are divided into two types. To address these limitations, this paper proposes and characterizes a function that measures the level of power concentration in monotonic approval voting games. The proposed measure assigns a single value to each voting game, reflecting the extent to which voting power is unevenly distributed among players. The proposed measure is proportional to the sum of squared Deegan-Packel power indices and can also be interpreted as the degree of overlap among minimal winning coalitions. An application to the United Nations Security Council is also provided.",
+    "topics": [
+      "Game Theory",
+      "Decision Theory",
+      "Social Choice"
+    ],
+    "paperUrl": "https://arxiv.org/abs/2606.05655v1",
+    "pdfUrl": "https://arxiv.org/pdf/2606.05655v1"
+  },
+  {
+    "title": "On the sufficiency of unidirectional incentive compatibility in auctions",
+    "authors": [
+      "Kiho Yoon"
+    ],
+    "publicationDate": "2026-06-02",
+    "abstract": "We study optimal auction design when the direction of bidders' deviations is restricted. We show that the optimal revenue when bidders can only underbid their true values cannot exceed the optimal revenue when bidders may freely underbid or overbid. Thus, unidirectional incentive compatibility is sufficient for full incentive compatibility for revenue maximization. We prove this equivalence through linear programming duality in a discrete model, which makes it possible to analyze the feasibility of allocation rules in multi-agent environments.",
+    "topics": [
+      "Mechanism Design",
+      "Market Design",
+      "Auctions"
+    ],
+    "paperUrl": "https://arxiv.org/abs/2606.03051v1",
+    "pdfUrl": "https://arxiv.org/pdf/2606.03051v1"
+  },
+  {
+    "title": "Obviously Strategy-proof Choice of Social Acts",
+    "authors": [
+      "Abinash Panda",
+      "Anup Pramanik"
+    ],
+    "publicationDate": "2026-05-28",
+    "abstract": "We study obviously strategy-proof implementation in the framework of social choice over acts introduced by Bahel and Sprumont (2020). We characterize the class of unanimous social choice functions that are implementable via obviously strategy-proof mechanisms. Our main result shows that a unanimous social choice function is obviously strategy-proof implementable if and only if it is dictatorial.",
+    "topics": [
+      "Game Theory",
+      "Mechanism Design",
+      "Decision Theory",
+      "Social Choice"
+    ],
+    "paperUrl": "https://arxiv.org/abs/2605.30515v1",
+    "pdfUrl": "https://arxiv.org/pdf/2605.30515v1"
+  },
+  {
+    "title": "The Empirical Content of Revealed Preference in High Dimensions",
+    "authors": [
+      "Ian Crawford",
+      "Longye Tian"
+    ],
+    "publicationDate": "2026-05-28",
+    "abstract": "We examine how the empirical content of revealed preference theory depends on the dimensionality of the choice environment. While higher-dimensional choice problems may appear more demanding, we show that revealed preference restrictions become less informative. Using Selten's Area measure, we establish that for any fixed number of observations, the empirical content of GARP converges to zero exponentially fast in the number of goods. We provide complementary proofs based on revealed preference graphs and the Afriat inequalities, and show in simulations calibrated to scanner data that the effect is quantitatively large. We also evaluate potential responses in observational and experimental settings and find that, while these can slow the rate, they do not eliminate this loss of empirical content.",
+    "topics": [
+      "Decision Theory"
+    ],
+    "paperUrl": "https://arxiv.org/abs/2605.29361v1",
+    "pdfUrl": "https://arxiv.org/pdf/2605.29361v1"
+  },
+  {
+    "title": "Existence and Optimality of Envy-Free random allocations",
+    "authors": [
+      "Anna Vakarova"
+    ],
+    "publicationDate": "2026-05-27",
+    "abstract": "I provide a unified framework to establish the existence of a weak Pareto efficient, envy-free allocation in general settings: random allocations are probability measures on a compact metric space, and preferences of agents are represented by continuous, concave utility function on the space of probability measures. The generality of my setting nests the existence results for small spaces with indivisibles -- the list of prominent applications includes the school assignment problem and the house allocation problem. The technique developed to prove the existence also applies to allocation problems with divisibles, like fair cake-cutting or land-division problems. Here I also show that even when agents' preferences are not atomless, the allocation in question can be represented as a probability measure over partitions with finite support. Last but not least, I apply the existence result to new allocation problems that no existing framework encompasses. These include allocation of indivisible goods or services over time and allocation of differentiated goods.",
+    "topics": [
+      "Decision Theory",
+      "Market Design",
+      "Matching",
+      "Social Choice"
+    ],
+    "paperUrl": "https://arxiv.org/abs/2605.28263v1",
+    "pdfUrl": "https://arxiv.org/pdf/2605.28263v1"
   },
   {
     "title": "Multi-Dimensional Matching in Market Design",
-    "authors": ["Irene Aldridge"],
+    "authors": [
+      "Irene Aldridge"
+    ],
     "publicationDate": "2026-05-19",
-    "abstract": "This paper proposes a computational mechanism for multi-dimensional matching markets where agents report preferences over object features. It uses singular value decomposition to reduce feature-based matching to an effectively one-dimensional problem and studies welfare, truthfulness, symmetry, and robustness.",
-    "topics": ["Matching", "Market Design"],
-    "paperUrl": "https://arxiv.org/abs/2605.22865",
-    "pdfUrl": "https://arxiv.org/pdf/2605.22865"
+    "abstract": "This paper proposes a computationally efficient mechanism for multi-dimensional matching markets where agents report preferences over object features rather than complete utility assessments. We use Singular Value Decomposition (SVD) to identify the principal direction of variation in feature space and match agents to objects along this dimension, reducing a complex multi-dimensional problem to an effectively one-dimensional problem solvable in $O(N \\log N)$ time. We show that when data exhibit low effective dimensionality, our mechanism approximately maximizes Nash Social Welfare, satisfies distributional truthfulness, and achieves symmetry. We establish a novel connection between Nash Social Welfare and Geometric Distributionally Robust Optimization, providing robustness guaranties. Numerical experiments demonstrate that our approach achieves 99\\% optimal welfare while running three orders of magnitude faster than direct optimization. The framework applies naturally to school choice, labor markets, and course allocation, where feature-based elicitation reduces the cognitive burden on agents.",
+    "topics": [
+      "Game Theory",
+      "Mechanism Design",
+      "Contract Theory",
+      "Decision Theory",
+      "Market Design",
+      "Matching"
+    ],
+    "paperUrl": "https://arxiv.org/abs/2605.22865v1",
+    "pdfUrl": "https://arxiv.org/pdf/2605.22865v1"
   },
   {
-    "title": "Contracting with Imperfect Commitment: Minimal Canonical Contracts",
-    "authors": ["Seungjin Han", "Siyang Xiong"],
-    "publicationDate": "2026-05-19",
-    "abstract": "The authors ask when imperfect commitment is equivalent to full commitment in contract design. They study contracts with committed baselines and bounded discretionary adjustments, characterize optimal single-principal contracts, and develop an extended taxation principle for tractable analysis.",
-    "topics": ["Contract Theory", "Mechanism Design"],
-    "paperUrl": "https://arxiv.org/abs/2605.19884",
-    "pdfUrl": "https://arxiv.org/pdf/2605.19884"
-  },
-  {
-    "title": "Supply Chain Coordination Mechanism Design: Consensus Planning Protocol Meets Vickrey-Clarke-Groves Mechanism",
-    "authors": ["Dirk Bergemann", "Garrett van Ryzin", "Jiaxuan Li"],
-    "publicationDate": "2026-05-15",
-    "abstract": "This paper combines Vickrey-Clarke-Groves mechanisms with the Consensus Planning Protocol to support truthful and efficient collaboration between a retailer and vendors. It also introduces an activity-fee design to improve revenue properties while preserving incentive and efficiency features.",
-    "topics": ["Mechanism Design", "Auctions", "Market Design"],
-    "paperUrl": "https://arxiv.org/abs/2605.16695",
-    "pdfUrl": "https://arxiv.org/pdf/2605.16695"
+    "title": "Nash Welfare in Additively Separable Hedonic Games",
+    "authors": [
+      "Marta Pagano",
+      "Alexander Schlenga"
+    ],
+    "publicationDate": "2026-05-18",
+    "abstract": "Additively separable hedonic games (ASHGs) are a prominent model of coalition formation where agents' preferences are derived from their individual valuations of peers. While social welfare maximization in ASHGs has traditionally focused mostly on utilitarian welfare, Nash welfare -- a well-established metric in economics which balances fairness with efficiency and offers scale invariance -- has been entirely overlooked. In this paper, we initiate the study of Nash welfare in ASHGs. We point out desirable properties fulfilled by partitions with high Nash welfare. This includes guaranteed contractual Nash stability in symmetric games, even for any approximation of Nash welfare. This is particularly appealing since, as for other welfare notions, Nash welfare turns out to be NP-hard to maximize, even for the ASHG subclass of symmetric aversion to enemies games (AEGs). A main focus of our study is on approximation algorithms for the Nash welfare objective. We present packing-based algorithms with approximation ratios for well-established subclasses of ASHGs: $n-1$ for AEGs and $2n$ for appreciation of friends games. This is complemented by a strict inapproximability result showing it is NP-hard to approximate Nash welfare within a factor of $1.0000759$ in general ASHGs. Further, we investigate the restricted settings with an upper bound on the coalition size or number of coalitions, and draw the boundary between the cases admitting efficient algorithms and those yielding NP-hardness: bounding the allowed size or number of coalitions by $2$ admits polynomial-time solvability, whereas bounds of $3$ or more yield NP-hardness or unbounded inapproximability.",
+    "topics": [
+      "Game Theory",
+      "Decision Theory",
+      "Social Choice"
+    ],
+    "paperUrl": "https://arxiv.org/abs/2605.19030v1",
+    "pdfUrl": "https://arxiv.org/pdf/2605.19030v1"
   }
 ]

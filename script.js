@@ -6,12 +6,15 @@ const TOPICS = [
   "Decision Theory",
   "Market Design",
   "Auctions",
-  "Matching"
+  "Matching",
+  "Social Choice",
+  "General Equilibrium"
 ];
 
 const papersContainer = document.querySelector("#papers");
 const filtersContainer = document.querySelector("#filters");
 const resultCount = document.querySelector("#result-count");
+const lastUpdated = document.querySelector("#last-updated");
 
 let papers = [];
 let activeTopic = "All";
@@ -32,6 +35,30 @@ function createLink(href, label, className = "") {
   link.target = "_blank";
   link.rel = "noopener noreferrer";
   return link;
+}
+
+function setLastUpdated(lastModified) {
+  if (!lastUpdated) {
+    return;
+  }
+
+  if (!lastModified) {
+    lastUpdated.textContent = "Available after publish";
+    return;
+  }
+
+  const date = new Date(lastModified);
+
+  if (Number.isNaN(date.getTime())) {
+    lastUpdated.textContent = "Available after publish";
+    return;
+  }
+
+  lastUpdated.textContent = new Intl.DateTimeFormat("en-GB", {
+    dateStyle: "medium",
+    timeStyle: "short",
+    timeZone: "Europe/London"
+  }).format(date);
 }
 
 function renderFilters() {
@@ -128,6 +155,7 @@ async function loadPapers() {
     }
 
     papers = await response.json();
+    setLastUpdated(response.headers.get("last-modified"));
     papers.sort(
       (first, second) =>
         new Date(second.publicationDate) - new Date(first.publicationDate)
@@ -139,6 +167,7 @@ async function loadPapers() {
     papersContainer.innerHTML =
       '<p class="empty-state">Could not load paper data. Check data/papers.json.</p>';
     resultCount.textContent = "Paper data unavailable";
+    setLastUpdated(null);
     console.error(error);
   }
 }

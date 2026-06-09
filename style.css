@@ -154,6 +154,30 @@ main {
   margin: 0 auto;
 }
 
+.status-strip {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 18px;
+  padding: 22px 0;
+  border-bottom: 1px solid var(--line);
+  color: var(--text);
+}
+
+.status-strip div {
+  display: flex;
+  min-width: 0;
+  flex-direction: column;
+  gap: 3px;
+}
+
+.status-label {
+  color: var(--green);
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0;
+  text-transform: uppercase;
+}
+
 .toolbar {
   display: grid;
   grid-template-columns: minmax(180px, 260px) 1fr;
@@ -354,6 +378,11 @@ code {
   .toolbar {
     grid-template-columns: 1fr;
     gap: 16px;
+  }
+
+  .status-strip {
+    grid-template-columns: 1fr;
+    gap: 12px;
   }
 
   .filter-list {

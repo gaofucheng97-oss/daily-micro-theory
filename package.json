@@ -1,0 +1,12 @@
+{
+  "name": "daily-micro-theory",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static website for recent microeconomic theory papers.",
+  "scripts": {
+    "update-papers": "node scripts/update-papers.js"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^5.2.5"
+  }
+}
