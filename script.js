@@ -16,10 +16,27 @@ const state = {
   authorPapers: [],
   activeTopic: "All",
   activeAuthorFilter: { type: "all", value: "All watched authors" },
+  openSection: null,
   lastUpdatedValues: []
 };
 
 const elements = {
+  sections: {
+    topic: document.querySelector('[aria-labelledby="topic-papers-heading"]'),
+    author: document.querySelector('[aria-labelledby="author-watch-heading"]')
+  },
+  sectionBodies: {
+    topic: document.querySelector("#topic-section-body"),
+    author: document.querySelector("#author-section-body")
+  },
+  sectionToggles: {
+    topic: document.querySelector('[data-section-toggle="topic"]'),
+    author: document.querySelector('[data-section-toggle="author"]')
+  },
+  sectionStatuses: {
+    topic: document.querySelector("#topic-section-status"),
+    author: document.querySelector("#author-section-status")
+  },
   topicPapers: document.querySelector("#topic-papers"),
   topicFilters: document.querySelector("#topic-filters"),
   topicResultCount: document.querySelector("#topic-result-count"),
@@ -28,6 +45,55 @@ const elements = {
   authorResultCount: document.querySelector("#author-result-count"),
   lastUpdated: document.querySelector("#last-updated")
 };
+
+function formatPaperCount(count) {
+  return `${count} paper${count === 1 ? "" : "s"}`;
+}
+
+function updateSectionStatus(sectionName, count, unavailable = false) {
+  const status = elements.sectionStatuses[sectionName];
+
+  if (!status) {
+    return;
+  }
+
+  status.textContent = unavailable ? "Data unavailable" : formatPaperCount(count);
+}
+
+function setOpenSection(sectionName) {
+  const nextOpenSection = state.openSection === sectionName ? null : sectionName;
+  state.openSection = nextOpenSection;
+
+  Object.keys(elements.sectionBodies).forEach((name) => {
+    const isOpen = name === nextOpenSection;
+    const section = elements.sections[name];
+    const body = elements.sectionBodies[name];
+    const toggle = elements.sectionToggles[name];
+    const action = toggle?.querySelector(".section-toggle-action");
+
+    if (section) {
+      section.classList.toggle("open", isOpen);
+    }
+
+    if (body) {
+      body.hidden = !isOpen;
+    }
+
+    if (toggle) {
+      toggle.setAttribute("aria-expanded", String(isOpen));
+    }
+
+    if (action) {
+      action.textContent = isOpen ? "Close" : "Open";
+    }
+  });
+}
+
+function initializeSectionToggles() {
+  Object.entries(elements.sectionToggles).forEach(([sectionName, toggle]) => {
+    toggle?.addEventListener("click", () => setOpenSection(sectionName));
+  });
+}
 
 function formatDate(dateString) {
   return new Intl.DateTimeFormat("en", {
@@ -328,9 +394,7 @@ function createPaperCard(paper, sectionName) {
 
 function renderPaperGrid(container, countElement, papers, emptyMessage, sectionName) {
   container.innerHTML = "";
-  countElement.textContent = `${papers.length} paper${
-    papers.length === 1 ? "" : "s"
-  } shown`;
+  countElement.textContent = `${formatPaperCount(papers.length)} shown`;
 
   if (papers.length === 0) {
     const empty = document.createElement("p");
@@ -396,6 +460,7 @@ async function loadTopicPapers() {
     );
 
     noteLastUpdated(state.topicPapers, lastModified);
+    updateSectionStatus("topic", state.topicPapers.length);
     renderTopicFilters();
     renderTopicPapers();
     renderAuthorFilters();
@@ -404,6 +469,7 @@ async function loadTopicPapers() {
     elements.topicPapers.innerHTML =
       '<p class="empty-state">Could not load topic paper data.</p>';
     elements.topicResultCount.textContent = "Topic paper data unavailable";
+    updateSectionStatus("topic", 0, true);
     console.error(error);
   }
 }
@@ -418,17 +484,20 @@ async function loadAuthorPapers() {
     );
 
     noteLastUpdated(state.authorPapers, lastModified);
+    updateSectionStatus("author", withoutTopicDuplicates(state.authorPapers).length);
     renderAuthorFilters();
     renderAuthorPapers();
   } catch (error) {
     elements.authorPapers.innerHTML =
       '<p class="empty-state">Could not load RePEc Author Watch data.</p>';
     elements.authorResultCount.textContent = "Author-watch data unavailable";
+    updateSectionStatus("author", 0, true);
     console.error(error);
   }
 }
 
 setLastUpdated();
+initializeSectionToggles();
 renderTopicFilters();
 renderAuthorFilters();
 loadTopicPapers();
