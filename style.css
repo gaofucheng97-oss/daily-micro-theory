@@ -182,6 +182,10 @@ main {
   padding: 36px 0 42px;
 }
 
+.paper-section.open {
+  padding-bottom: 18px;
+}
+
 .paper-section + .paper-section {
   border-top: 1px solid var(--line);
 }
@@ -193,10 +197,10 @@ main {
 
 .section-heading {
   display: grid;
-  grid-template-columns: minmax(180px, 260px) 1fr;
+  grid-template-columns: minmax(0, 1fr) auto;
   gap: 24px;
-  align-items: start;
-  padding: 0 0 18px;
+  align-items: center;
+  padding: 0;
 }
 
 .section-heading .section-label {
@@ -209,11 +213,60 @@ main {
   color: var(--muted);
 }
 
+.section-toggle {
+  display: inline-grid;
+  min-width: 184px;
+  min-height: 52px;
+  grid-template-columns: 1fr auto;
+  gap: 12px;
+  align-items: center;
+  padding: 0 16px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--surface);
+  color: var(--text);
+  cursor: pointer;
+  font: inherit;
+  font-weight: 700;
+  text-align: left;
+  box-shadow: 0 8px 20px rgba(28, 36, 33, 0.06);
+  transition:
+    border-color 150ms ease,
+    color 150ms ease,
+    transform 150ms ease;
+}
+
+.section-toggle:hover,
+.section-toggle:focus {
+  border-color: var(--green);
+  color: var(--green-dark);
+  outline: none;
+  transform: translateY(-1px);
+}
+
+.section-toggle-action {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 58px;
+  min-height: 32px;
+  padding: 0 10px;
+  border-radius: 6px;
+  background: var(--green-dark);
+  color: #ffffff;
+  font-size: 0.9rem;
+}
+
+.section-body {
+  padding-top: 22px;
+}
+
 .filter-list {
   display: flex;
   flex-wrap: wrap;
   gap: 10px;
-  justify-content: flex-end;
+  justify-content: flex-start;
+  padding-bottom: 14px;
 }
 
 .filter-button {
@@ -432,6 +485,10 @@ code {
 
   .filter-list {
     justify-content: flex-start;
+  }
+
+  .section-toggle {
+    width: 100%;
   }
 
   .papers-grid {

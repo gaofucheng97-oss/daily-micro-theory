@@ -54,18 +54,31 @@
               Recent papers matched by microeconomic theory topics.
             </p>
           </div>
-          <div class="filter-list" id="topic-filters"></div>
+          <button
+            class="section-toggle"
+            type="button"
+            aria-expanded="false"
+            aria-controls="topic-section-body"
+            data-section-toggle="topic"
+          >
+            <span id="topic-section-status">Loading papers...</span>
+            <span class="section-toggle-action">Open</span>
+          </button>
         </div>
 
-        <p class="results-summary" aria-live="polite" id="topic-result-count">
-          Loading topic papers...
-        </p>
+        <div class="section-body" id="topic-section-body" hidden>
+          <div class="filter-list" id="topic-filters"></div>
 
-        <section
-          class="papers-grid"
-          id="topic-papers"
-          aria-label="Topic paper list"
-        ></section>
+          <p class="results-summary" aria-live="polite" id="topic-result-count">
+            Loading topic papers...
+          </p>
+
+          <section
+            class="papers-grid"
+            id="topic-papers"
+            aria-label="Topic paper list"
+          ></section>
+        </div>
       </section>
 
       <section class="paper-section author-section" aria-labelledby="author-watch-heading">
@@ -78,18 +91,31 @@
               RePEc/IDEAS.
             </p>
           </div>
-          <div class="filter-list" id="author-filters"></div>
+          <button
+            class="section-toggle"
+            type="button"
+            aria-expanded="false"
+            aria-controls="author-section-body"
+            data-section-toggle="author"
+          >
+            <span id="author-section-status">Loading papers...</span>
+            <span class="section-toggle-action">Open</span>
+          </button>
         </div>
 
-        <p class="results-summary" aria-live="polite" id="author-result-count">
-          Loading author-watch papers...
-        </p>
+        <div class="section-body" id="author-section-body" hidden>
+          <div class="filter-list" id="author-filters"></div>
 
-        <section
-          class="papers-grid"
-          id="author-papers"
-          aria-label="RePEc Author Watch paper list"
-        ></section>
+          <p class="results-summary" aria-live="polite" id="author-result-count">
+            Loading author-watch papers...
+          </p>
+
+          <section
+            class="papers-grid"
+            id="author-papers"
+            aria-label="RePEc Author Watch paper list"
+          ></section>
+        </div>
       </section>
     </main>
 
