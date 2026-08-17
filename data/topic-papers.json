@@ -1,5 +1,62 @@
 [
   {
+    "id": "arxiv-2608-14464v1",
+    "title": "A distance-based theory of lottery complexity",
+    "authors": [
+      "Giulio Principi"
+    ],
+    "publicationDate": "2026-08-14",
+    "abstract": "This paper proposes a metric approach to measuring the complexity of lotteries. Starting by observing that degenerate lotteries are the simplest choice alternatives, the complexity of a lottery is evaluated by its distance from the closest degenerate lottery. Equivalently, a lottery is complex when it is difficult to approximate it by a single outcome. Given a metric over outcomes, the complexity index we consider is the minimum average distance between the lottery and one of its best degenerate proxies.",
+    "abstractPreview": "This paper proposes a metric approach to measuring the complexity of lotteries. Starting by observing that degenerate lotteries are the simplest choice alternatives, the complexity of a lottery is evaluated by its distance from the closest degenerate lottery. Equivalently, a...",
+    "topics": [
+      "Decision Theory"
+    ],
+    "source": "arXiv",
+    "paperUrl": "https://arxiv.org/abs/2608.14464v1",
+    "pdfUrl": "https://arxiv.org/pdf/2608.14464v1",
+    "relevanceScore": 39.63,
+    "collectedAt": "2026-08-17T08:56:45.361Z"
+  },
+  {
+    "id": "arxiv-2608-14173v1",
+    "title": "Acquiring irrelevant information as a commitment",
+    "authors": [
+      "Wataru Kitano",
+      "Shohei Yanagita"
+    ],
+    "publicationDate": "2026-08-14",
+    "abstract": "We formulate the voter's strategic information acquisition to control the future self's action as a Bayesian persuasion problem. Our main result shows that acquiring information that is irrelevant to the voter's objective can be a \\textit{worst-case optimal} solution: it can reduce the possibility that the future self is swayed by additional information whose content is ambiguous to the current voter.",
+    "abstractPreview": "We formulate the voter's strategic information acquisition to control the future self's action as a Bayesian persuasion problem. Our main result shows that acquiring information that is irrelevant to the voter's objective can be a \\textit{worst-case optimal} solution: it can...",
+    "topics": [
+      "Game Theory",
+      "Contract Theory"
+    ],
+    "source": "arXiv",
+    "paperUrl": "https://arxiv.org/abs/2608.14173v1",
+    "pdfUrl": "https://arxiv.org/pdf/2608.14173v1",
+    "relevanceScore": 33.63,
+    "collectedAt": "2026-08-17T08:56:45.361Z"
+  },
+  {
+    "id": "arxiv-2608-14326v1",
+    "title": "Bayesian Sequential Search with Censored Observations",
+    "authors": [
+      "Ehud Lehrer",
+      "Daniel Z. Li"
+    ],
+    "publicationDate": "2026-08-14",
+    "abstract": "This paper studies how information censoring enables a myopic cutoff rule in Bayesian sequential search. Under full information, Bayesian learning generally destroys the monotonicity of continuation values, preventing simple cutoff rules. We show that one-sided censoring restores monotonicity by limiting posterior fluctuations, thereby making a myopic cutoff rule optimal. By decomposing the intertemporal change in the marginal value of search into a fallback-value effect and a learning effect, we derive necessary and sufficient conditions for monotonicity under lower censoring and characterize the optimal cutoff rule. In contrast, under full revelation, monotonicity requires highly restrictive conditions. We further show that expected monotonicity (i.e., the supermartingale property) is characterized by the same conditions under both lower censoring and full revelation, owing to Bayes plausibility and the affine structure of the problem. Thus, censoring restores monotonicity not by altering expected learning, but by reducing posterior volatility. Finally, we apply our framework to job search, consumer price search, and product experimentation.",
+    "abstractPreview": "This paper studies how information censoring enables a myopic cutoff rule in Bayesian sequential search. Under full information, Bayesian learning generally destroys the monotonicity of continuation values, preventing simple cutoff rules. We show that one-sided censoring...",
+    "topics": [
+      "Mechanism Design"
+    ],
+    "source": "arXiv",
+    "paperUrl": "https://arxiv.org/abs/2608.14326v1",
+    "pdfUrl": "https://arxiv.org/pdf/2608.14326v1",
+    "relevanceScore": 30.63,
+    "collectedAt": "2026-08-17T08:56:45.361Z"
+  },
+  {
     "id": "arxiv-2608-13327v1",
     "title": "Breaking the Chain: Division Norms and Criminal Deterrence",
     "authors": [
@@ -16,8 +73,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.13327v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.13327v1",
-    "relevanceScore": 32.64,
-    "collectedAt": "2026-08-16T08:43:16.937Z"
+    "relevanceScore": 31.63,
+    "collectedAt": "2026-08-17T08:56:45.361Z"
   },
   {
     "id": "arxiv-2608-13001v1",
@@ -35,8 +92,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.13001v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.13001v1",
-    "relevanceScore": 32.64,
-    "collectedAt": "2026-08-16T08:43:16.937Z"
+    "relevanceScore": 31.63,
+    "collectedAt": "2026-08-17T08:56:45.361Z"
   },
   {
     "id": "arxiv-2608-12818v1",
@@ -54,8 +111,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.12818v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.12818v1",
-    "relevanceScore": 32.64,
-    "collectedAt": "2026-08-16T08:43:16.937Z"
+    "relevanceScore": 31.63,
+    "collectedAt": "2026-08-17T08:56:45.361Z"
   },
   {
     "id": "arxiv-2608-11682v1",
@@ -74,8 +131,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.11682v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.11682v1",
-    "relevanceScore": 41.64,
-    "collectedAt": "2026-08-16T08:43:16.937Z"
+    "relevanceScore": 40.63,
+    "collectedAt": "2026-08-17T08:56:45.361Z"
   },
   {
     "id": "arxiv-2608-10274v1",
@@ -94,27 +151,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.10274v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.10274v1",
-    "relevanceScore": 31.64,
-    "collectedAt": "2026-08-16T08:43:16.937Z"
-  },
-  {
-    "id": "arxiv-2608-09232v1",
-    "title": "Coalitional bargaining with transfers",
-    "authors": [
-      "Gregorio Curello",
-      "Sam Jindani"
-    ],
-    "publicationDate": "2026-08-10",
-    "abstract": "We consider the problem of bargaining when transfers between agents are possible. Such situations are typically modelled as coalitional games with transferable utilities. However this model makes a strong implicit assumption: the outcome can only depend on the total surplus that each coalition of agents can achieve, not on which agents within the coalition generate the surplus. Is this assumption justified? We define a richer model in which solutions may depend on who generates the surplus. In this model, the classical axiomatisation of the Shapley value fails: a broad family of solutions satisfy efficiency, anonymity, the dummy property, and additivity. Nevertheless, we obtain an axiomatisation of the Shapley value in the richer model by adding continuity and a strengthening of the dummy property to the original axioms.",
-    "abstractPreview": "We consider the problem of bargaining when transfers between agents are possible. Such situations are typically modelled as coalitional games with transferable utilities. However this model makes a strong implicit assumption: the outcome can only depend on the total surplus that...",
-    "topics": [
-      "Social Choice"
-    ],
-    "source": "arXiv",
-    "paperUrl": "https://arxiv.org/abs/2608.09232v1",
-    "pdfUrl": "https://arxiv.org/pdf/2608.09232v1",
-    "relevanceScore": 31.64,
-    "collectedAt": "2026-08-16T08:43:16.937Z"
+    "relevanceScore": 30.63,
+    "collectedAt": "2026-08-17T08:56:45.361Z"
   },
   {
     "id": "arxiv-2608-08897v1",
@@ -132,8 +170,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.08897v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.08897v1",
-    "relevanceScore": 45.64,
-    "collectedAt": "2026-08-16T08:43:16.937Z"
+    "relevanceScore": 44.63,
+    "collectedAt": "2026-08-17T08:56:45.361Z"
   },
   {
     "id": "arxiv-2608-08395v1",
@@ -153,8 +191,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.08395v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.08395v1",
-    "relevanceScore": 35.64,
-    "collectedAt": "2026-08-16T08:43:16.937Z"
+    "relevanceScore": 34.63,
+    "collectedAt": "2026-08-17T08:56:45.361Z"
   },
   {
     "id": "arxiv-2608-08310v1",
@@ -173,8 +211,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.08310v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.08310v1",
-    "relevanceScore": 50.64,
-    "collectedAt": "2026-08-16T08:43:16.937Z"
+    "relevanceScore": 49.63,
+    "collectedAt": "2026-08-17T08:56:45.361Z"
   },
   {
     "id": "arxiv-2608-07098v1",
@@ -192,8 +230,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.07098v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.07098v1",
-    "relevanceScore": 33.64,
-    "collectedAt": "2026-08-16T08:43:16.937Z"
+    "relevanceScore": 32.63,
+    "collectedAt": "2026-08-17T08:56:45.361Z"
   },
   {
     "id": "arxiv-2608-06092v1",
@@ -213,30 +251,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.06092v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.06092v1",
-    "relevanceScore": 38.64,
-    "collectedAt": "2026-08-16T08:43:16.937Z"
-  },
-  {
-    "id": "arxiv-2608-06623v2",
-    "title": "Auction Design with a Bit of Information",
-    "authors": [
-      "Itai Ashlagi",
-      "Shahar Dobzinski",
-      "Jacob D. Leshno",
-      "Sigal Oren"
-    ],
-    "publicationDate": "2026-08-06",
-    "abstract": "Consider a revenue-maximizing seller who can access a binary signal about two bidders` joint values. We explore what kind of information is most valuable to the seller by studying three classes of signals, each capturing a distinct dimension of bidders` values: their overall level (demand), their relative strength (ranking), and their dispersion while preserving bidder anonymity (competitiveness). We characterize the optimal signal and corresponding auction mechanism within each class, and find that competitiveness signals are particularly effective. Under certain regularity conditions, the optimal competitiveness signal yields at least as much revenue as any ranking signal or demand signal. Moreover, for signals that induce a monotone allocation, the optimal competitiveness signal yields at least as much revenue as any other binary signal.",
-    "abstractPreview": "Consider a revenue-maximizing seller who can access a binary signal about two bidders` joint values. We explore what kind of information is most valuable to the seller by studying three classes of signals, each capturing a distinct dimension of bidders` values: their overall...",
-    "topics": [
-      "Market Design",
-      "Auctions"
-    ],
-    "source": "arXiv",
-    "paperUrl": "https://arxiv.org/abs/2608.06623v2",
-    "pdfUrl": "https://arxiv.org/pdf/2608.06623v2",
-    "relevanceScore": 30.64,
-    "collectedAt": "2026-08-16T08:43:16.937Z"
+    "relevanceScore": 37.63,
+    "collectedAt": "2026-08-17T08:56:45.361Z"
   },
   {
     "id": "arxiv-2608-04332v1",
@@ -255,8 +271,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.04332v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.04332v1",
-    "relevanceScore": 33.64,
-    "collectedAt": "2026-08-16T08:43:16.937Z"
+    "relevanceScore": 32.63,
+    "collectedAt": "2026-08-17T08:56:45.361Z"
   },
   {
     "id": "arxiv-2608-03230v1",
@@ -277,8 +293,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.03230v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.03230v1",
-    "relevanceScore": 35.64,
-    "collectedAt": "2026-08-16T08:43:16.937Z"
+    "relevanceScore": 34.63,
+    "collectedAt": "2026-08-17T08:56:45.361Z"
   },
   {
     "id": "arxiv-2608-02479v1",
@@ -298,8 +314,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.02479v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.02479v1",
-    "relevanceScore": 45.64,
-    "collectedAt": "2026-08-16T08:43:16.937Z"
+    "relevanceScore": 44.63,
+    "collectedAt": "2026-08-17T08:56:45.361Z"
   },
   {
     "id": "arxiv-2608-01591v1",
@@ -320,27 +336,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.01591v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.01591v1",
-    "relevanceScore": 36.64,
-    "collectedAt": "2026-08-16T08:43:16.937Z"
-  },
-  {
-    "id": "arxiv-2608-02854v1",
-    "title": "Preference robust distortion risk measures",
-    "authors": [
-      "Carole Bernard",
-      "Silvana M. Pesenti"
-    ],
-    "publicationDate": "2026-08-03",
-    "abstract": "We introduce a framework for preference-robust decision making when preferences over risk are modelled through generalised distortion risk measures. Unlike distributional robustness, our approach addresses ambiguity in the risk functional itself. We construct ambiguity sets on distortion (weight) functions using the Wasserstein distance and Bregman divergences, and derive closed-form expressions for the worst- and best-case distortion risk measures. We further extend the framework to rank-dependent utility, yielding preference-robust behavioural models. In particular, rank-dependent utility appears as a robustification of the expected utility model, yielding a novel way to address the Allais paradox.",
-    "abstractPreview": "We introduce a framework for preference-robust decision making when preferences over risk are modelled through generalised distortion risk measures. Unlike distributional robustness, our approach addresses ambiguity in the risk functional itself. We construct ambiguity sets on...",
-    "topics": [
-      "Decision Theory"
-    ],
-    "source": "arXiv",
-    "paperUrl": "https://arxiv.org/abs/2608.02854v1",
-    "pdfUrl": "https://arxiv.org/pdf/2608.02854v1",
-    "relevanceScore": 31.64,
-    "collectedAt": "2026-08-16T08:43:16.937Z"
+    "relevanceScore": 35.63,
+    "collectedAt": "2026-08-17T08:56:45.361Z"
   },
   {
     "id": "arxiv-2607-29420v1",
@@ -360,8 +357,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2607.29420v1",
     "pdfUrl": "https://arxiv.org/pdf/2607.29420v1",
-    "relevanceScore": 44.64,
-    "collectedAt": "2026-08-16T08:43:16.937Z"
+    "relevanceScore": 43.63,
+    "collectedAt": "2026-08-17T08:56:45.361Z"
   },
   {
     "id": "arxiv-2608-00334v1",
@@ -380,8 +377,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.00334v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.00334v1",
-    "relevanceScore": 35.64,
-    "collectedAt": "2026-08-16T08:43:16.937Z"
+    "relevanceScore": 34.63,
+    "collectedAt": "2026-08-17T08:56:45.361Z"
   },
   {
     "id": "arxiv-2607-28925v1",
@@ -401,7 +398,7 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2607.28925v1",
     "pdfUrl": "https://arxiv.org/pdf/2607.28925v1",
-    "relevanceScore": 32.64,
-    "collectedAt": "2026-08-16T08:43:16.937Z"
+    "relevanceScore": 31.63,
+    "collectedAt": "2026-08-17T08:56:45.361Z"
   }
 ]
