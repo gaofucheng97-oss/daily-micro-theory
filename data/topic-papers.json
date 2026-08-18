@@ -1,60 +1,128 @@
 [
   {
-    "id": "arxiv-2608-14464v1",
+    "id": "arxiv-2608-16869v1",
+    "title": "The New Mathematics of Democracy",
+    "authors": [
+      "Bailey Flanigan",
+      "Ismar Volic"
+    ],
+    "publicationDate": "2026-08-17",
+    "abstract": "This article surveys emerging directions in the mathematics of democracy. It uses three case studies --- voting theory, participatory budgeting, and deliberative democracy --- to highlight how contemporary challenges motivate rigorous mathematical research that incorporates real-world data, institutional constraints, and implementation feasibility. Within each case, we highlight active and promising research frontiers, evidence of real-world impact, practical applications, and opportunities for getting involved.",
+    "abstractPreview": "This article surveys emerging directions in the mathematics of democracy. It uses three case studies --- voting theory, participatory budgeting, and deliberative democracy --- to highlight how contemporary challenges motivate rigorous mathematical research that incorporates...",
+    "topics": [
+      "Mechanism Design",
+      "Social Choice"
+    ],
+    "source": "arXiv",
+    "paperUrl": "https://arxiv.org/abs/2608.16869v1",
+    "pdfUrl": "https://arxiv.org/pdf/2608.16869v1",
+    "relevanceScore": 32.63,
+    "collectedAt": "2026-08-18T08:50:19.500Z"
+  },
+  {
+    "id": "arxiv-2608-16699v1",
+    "title": "Learning to Price with Persuasion",
+    "authors": [
+      "Maria-Florina Balcan",
+      "Tejas Pagare",
+      "Karan Singh"
+    ],
+    "publicationDate": "2026-08-17",
+    "abstract": "Motivated by modern marketplaces, where the platform or the seller routinely gathers detailed user profiles, we study a novel learning theoretic model that simultaneously involves information and mechanism design. Specifically, we consider the economic setting recently introduced by Bergemann et al. (2022), where in addition to the menu of quality-price pairs, the seller offers information on the value of the match between product quality and buyer's taste via a signaling scheme. We relax the assumption that the seller knows the buyers' belief about the distribution of tastes and study the sample requirements of designing a revenue maximizing scheme. We consider both the batch setting where we have access to data from a set of i.i.d. buyers and an online demand query model where we observe the buyers' behaviors to seller's schemes. Despite the apparent non-convexity of the problem, we also give the first FPTAS to compute a scheme that maximizes the revenue within an arbitrarily small additive loss, which was left open by Bergemann et al. (2022). Overall, this brings a new learning perspective in asymmetric economic settings where buyers and sellers know different types of information.",
+    "abstractPreview": "Motivated by modern marketplaces, where the platform or the seller routinely gathers detailed user profiles, we study a novel learning theoretic model that simultaneously involves information and mechanism design. Specifically, we consider the economic setting recently...",
+    "topics": [
+      "Mechanism Design",
+      "Matching"
+    ],
+    "source": "arXiv",
+    "paperUrl": "https://arxiv.org/abs/2608.16699v1",
+    "pdfUrl": "https://arxiv.org/pdf/2608.16699v1",
+    "relevanceScore": 32.63,
+    "collectedAt": "2026-08-18T08:50:19.500Z"
+  },
+  {
+    "id": "arxiv-2608-15631v1",
+    "title": "Non-obvious Manipulability with Groups in Shapley-Scarf Housing Markets",
+    "authors": [
+      "Louise Demoor",
+      "Martí Jané-Ballarín",
+      "Pierre Nunn",
+      "Subhajit Pramanik",
+      "Antoine Prévotat",
+      "Makoto Yokoo"
+    ],
+    "publicationDate": "2026-08-16",
+    "abstract": "In Shapley-Scarf housing markets, Ma (1994) shows that top trading cycles (TTC) is the unique mechanism satisfying individual rationality (IR), Pareto efficiency (PE), and strategy-proofness. We ask what other mechanisms become possible when strategy-proofness is replaced by a weaker condition called non-obvious manipulability (NOM), introduced by Troyan and Morrill (2020). We first show that this weaker condition does not help on its own: every IR and PE mechanism is already NOM. We therefore introduce a new condition: NOM with groups, under which each agent knows the preferences of the other members of her group, but not those of agents outside the group. This condition reduces to strategy-proofness when all agents belong to one group, and to standard NOM when every group is a singleton. Also, we introduce a participation condition called group rationality (GR), which requires that no group do worse than it would by trading only among its own members. We then define a class of mechanisms called TTC with super-groups, whose members satisfy GR, PE, and NOM with groups. The class includes mechanisms that differ from standard TTC, including mechanisms that are not strategy-proof. Furthermore, we show that every mechanism that satisfies GR, PE, and NOM with groups has the same best- and worst-case outcomes as every TTC with super-groups mechanism.",
+    "abstractPreview": "In Shapley-Scarf housing markets, Ma (1994) shows that top trading cycles (TTC) is the unique mechanism satisfying individual rationality (IR), Pareto efficiency (PE), and strategy-proofness. We ask what other mechanisms become possible when strategy-proofness is replaced by a...",
+    "topics": [
+      "Game Theory",
+      "Mechanism Design",
+      "Matching",
+      "Social Choice"
+    ],
+    "source": "arXiv",
+    "paperUrl": "https://arxiv.org/abs/2608.15631v1",
+    "pdfUrl": "https://arxiv.org/pdf/2608.15631v1",
+    "relevanceScore": 48.63,
+    "collectedAt": "2026-08-18T08:50:19.500Z"
+  },
+  {
+    "id": "arxiv-2608-14464v2",
     "title": "A distance-based theory of lottery complexity",
     "authors": [
       "Giulio Principi"
     ],
     "publicationDate": "2026-08-14",
-    "abstract": "This paper proposes a metric approach to measuring the complexity of lotteries. Starting by observing that degenerate lotteries are the simplest choice alternatives, the complexity of a lottery is evaluated by its distance from the closest degenerate lottery. Equivalently, a lottery is complex when it is difficult to approximate it by a single outcome. Given a metric over outcomes, the complexity index we consider is the minimum average distance between the lottery and one of its best degenerate proxies.",
+    "abstract": "This paper proposes a metric approach to measuring the complexity of lotteries. Starting by observing that degenerate lotteries are the simplest choice alternatives, the complexity of a lottery is evaluated by its distance from the closest degenerate lottery. Equivalently, a lottery is complex when it is difficult to approximate it by a single outcome. Given a metric over outcomes, the complexity index we consider is the minimum average distance between the lottery and one of its best degenerate proxies. The paper provides an axiomatic foundation for this representation, studies its main properties, and compares it with other measures of complexity. It then applies the index to choice under risk through a class of complexity adjusted expected utility preferences. Within this model, we study how complexity affects risk attitudes and consistency with stochastic dominance.",
     "abstractPreview": "This paper proposes a metric approach to measuring the complexity of lotteries. Starting by observing that degenerate lotteries are the simplest choice alternatives, the complexity of a lottery is evaluated by its distance from the closest degenerate lottery. Equivalently, a...",
     "topics": [
       "Decision Theory"
     ],
     "source": "arXiv",
-    "paperUrl": "https://arxiv.org/abs/2608.14464v1",
-    "pdfUrl": "https://arxiv.org/pdf/2608.14464v1",
-    "relevanceScore": 39.63,
-    "collectedAt": "2026-08-17T08:56:45.361Z"
+    "paperUrl": "https://arxiv.org/abs/2608.14464v2",
+    "pdfUrl": "https://arxiv.org/pdf/2608.14464v2",
+    "relevanceScore": 40.63,
+    "collectedAt": "2026-08-18T08:50:19.500Z"
   },
   {
-    "id": "arxiv-2608-14173v1",
+    "id": "arxiv-2608-14173v2",
     "title": "Acquiring irrelevant information as a commitment",
     "authors": [
       "Wataru Kitano",
       "Shohei Yanagita"
     ],
     "publicationDate": "2026-08-14",
-    "abstract": "We formulate the voter's strategic information acquisition to control the future self's action as a Bayesian persuasion problem. Our main result shows that acquiring information that is irrelevant to the voter's objective can be a \\textit{worst-case optimal} solution: it can reduce the possibility that the future self is swayed by additional information whose content is ambiguous to the current voter.",
-    "abstractPreview": "We formulate the voter's strategic information acquisition to control the future self's action as a Bayesian persuasion problem. Our main result shows that acquiring information that is irrelevant to the voter's objective can be a \\textit{worst-case optimal} solution: it can...",
+    "abstract": "We formulate the voter's strategic information acquisition to control the future self's action as a Bayesian persuasion problem. Our main result shows that acquiring information that is irrelevant to the voter's objective can be a worst-case optimal solution: it can reduce the possibility that the future self is swayed by additional information whose content is ambiguous to the current voter.",
+    "abstractPreview": "We formulate the voter's strategic information acquisition to control the future self's action as a Bayesian persuasion problem. Our main result shows that acquiring information that is irrelevant to the voter's objective can be a worst-case optimal solution: it can reduce the...",
     "topics": [
       "Game Theory",
       "Contract Theory"
     ],
     "source": "arXiv",
-    "paperUrl": "https://arxiv.org/abs/2608.14173v1",
-    "pdfUrl": "https://arxiv.org/pdf/2608.14173v1",
-    "relevanceScore": 33.63,
-    "collectedAt": "2026-08-17T08:56:45.361Z"
+    "paperUrl": "https://arxiv.org/abs/2608.14173v2",
+    "pdfUrl": "https://arxiv.org/pdf/2608.14173v2",
+    "relevanceScore": 32.63,
+    "collectedAt": "2026-08-18T08:50:19.500Z"
   },
   {
-    "id": "arxiv-2608-14326v1",
-    "title": "Bayesian Sequential Search with Censored Observations",
+    "id": "arxiv-2608-12818v2",
+    "title": "Schedule equilibria",
     "authors": [
-      "Ehud Lehrer",
-      "Daniel Z. Li"
+      "Harry Kleyer"
     ],
-    "publicationDate": "2026-08-14",
-    "abstract": "This paper studies how information censoring enables a myopic cutoff rule in Bayesian sequential search. Under full information, Bayesian learning generally destroys the monotonicity of continuation values, preventing simple cutoff rules. We show that one-sided censoring restores monotonicity by limiting posterior fluctuations, thereby making a myopic cutoff rule optimal. By decomposing the intertemporal change in the marginal value of search into a fallback-value effect and a learning effect, we derive necessary and sufficient conditions for monotonicity under lower censoring and characterize the optimal cutoff rule. In contrast, under full revelation, monotonicity requires highly restrictive conditions. We further show that expected monotonicity (i.e., the supermartingale property) is characterized by the same conditions under both lower censoring and full revelation, owing to Bayes plausibility and the affine structure of the problem. Thus, censoring restores monotonicity not by altering expected learning, but by reducing posterior volatility. Finally, we apply our framework to job search, consumer price search, and product experimentation.",
-    "abstractPreview": "This paper studies how information censoring enables a myopic cutoff rule in Bayesian sequential search. Under full information, Bayesian learning generally destroys the monotonicity of continuation values, preventing simple cutoff rules. We show that one-sided censoring...",
+    "publicationDate": "2026-08-13",
+    "abstract": "This paper studies general equilibrium when households and firms choose price-contingent schedules. Market clearing determines the price, so a unilateral schedule change changes both the agent's allocation and the price at which it is evaluated. We call the resulting outcome a schedule equilibrium. We derive the household and firm conditions, prove existence, and give a trembling-hand refinement. Competitive, Cournot, and supply-function models arise as special cases. Applications are given to monopoly, vertical market power, entry, ownership, firm creation, and technological change. In each case the strategic term is the response of the clearing price to the agent's own schedule.",
+    "abstractPreview": "This paper studies general equilibrium when households and firms choose price-contingent schedules. Market clearing determines the price, so a unilateral schedule change changes both the agent's allocation and the price at which it is evaluated. We call the resulting outcome a...",
     "topics": [
-      "Mechanism Design"
+      "Game Theory",
+      "Market Design",
+      "General Equilibrium"
     ],
     "source": "arXiv",
-    "paperUrl": "https://arxiv.org/abs/2608.14326v1",
-    "pdfUrl": "https://arxiv.org/pdf/2608.14326v1",
-    "relevanceScore": 30.63,
-    "collectedAt": "2026-08-17T08:56:45.361Z"
+    "paperUrl": "https://arxiv.org/abs/2608.12818v2",
+    "pdfUrl": "https://arxiv.org/pdf/2608.12818v2",
+    "relevanceScore": 36.63,
+    "collectedAt": "2026-08-18T08:50:19.500Z"
   },
   {
     "id": "arxiv-2608-13327v1",
@@ -73,8 +141,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.13327v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.13327v1",
-    "relevanceScore": 31.63,
-    "collectedAt": "2026-08-17T08:56:45.361Z"
+    "relevanceScore": 30.63,
+    "collectedAt": "2026-08-18T08:50:19.500Z"
   },
   {
     "id": "arxiv-2608-13001v1",
@@ -92,27 +160,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.13001v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.13001v1",
-    "relevanceScore": 31.63,
-    "collectedAt": "2026-08-17T08:56:45.361Z"
-  },
-  {
-    "id": "arxiv-2608-12818v1",
-    "title": "Schedule equilibria",
-    "authors": [
-      "Harry Kleyer"
-    ],
-    "publicationDate": "2026-08-13",
-    "abstract": "This paper studies imperfect competition in general equilibrium when households and firms choose price-contingent schedules. Market clearing selects the price generated by those schedules, and each agent accounts for how its own behavior changes equilibrium prices. We derive household and firm optimality conditions, establish existence and a trembling-hand refinement, and apply the framework to monopoly, vertical market power, entry, ownership, and technological change. The results show that endogenous price responses can change standard conclusions about markups, deadweight loss, firm creation, and investment.",
-    "abstractPreview": "This paper studies imperfect competition in general equilibrium when households and firms choose price-contingent schedules. Market clearing selects the price generated by those schedules, and each agent accounts for how its own behavior changes equilibrium prices. We derive...",
-    "topics": [
-      "Market Design",
-      "General Equilibrium"
-    ],
-    "source": "arXiv",
-    "paperUrl": "https://arxiv.org/abs/2608.12818v1",
-    "pdfUrl": "https://arxiv.org/pdf/2608.12818v1",
-    "relevanceScore": 31.63,
-    "collectedAt": "2026-08-17T08:56:45.361Z"
+    "relevanceScore": 30.63,
+    "collectedAt": "2026-08-18T08:50:19.500Z"
   },
   {
     "id": "arxiv-2608-11682v1",
@@ -131,28 +180,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.11682v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.11682v1",
-    "relevanceScore": 40.63,
-    "collectedAt": "2026-08-17T08:56:45.361Z"
-  },
-  {
-    "id": "arxiv-2608-10274v1",
-    "title": "Exploration and Stopping",
-    "authors": [
-      "Yuliy Sannikov",
-      "Weijie Zhong"
-    ],
-    "publicationDate": "2026-08-10",
-    "abstract": "We study a decision-maker who explores --- dynamically choosing what to learn --- before stopping to act. We first reduce this dynamic control problem to a static one: any exploration-and-stopping strategy is equivalent to a choice of the joint distribution of the stopped state and the stopping time, subject to one information-budget constraint at each date, and we characterize exactly which distributions are attainable. The reduced problem is a convex program with a linear objective; its dual prices information over time, and the optimal policy concavifies the stopping payoff net of these shadow prices. The curvature of the decision-maker's time preference then governs the shape of optimal exploration: convex time preference induces Poisson exploration, concave time preference confines stopping to a window whose length is controlled by the dispersion of the marginal cost of delay --- forcing an initial phase of pure exploration when the window is short --- and the linear case lies at the boundary between them. We apply the framework to real options, to the speed--accuracy tradeoff in information acquisition, and to a continuous-time exploration contest.",
-    "abstractPreview": "We study a decision-maker who explores --- dynamically choosing what to learn --- before stopping to act. We first reduce this dynamic control problem to a static one: any exploration-and-stopping strategy is equivalent to a choice of the joint distribution of the stopped state...",
-    "topics": [
-      "Game Theory",
-      "Decision Theory"
-    ],
-    "source": "arXiv",
-    "paperUrl": "https://arxiv.org/abs/2608.10274v1",
-    "pdfUrl": "https://arxiv.org/pdf/2608.10274v1",
-    "relevanceScore": 30.63,
-    "collectedAt": "2026-08-17T08:56:45.361Z"
+    "relevanceScore": 39.63,
+    "collectedAt": "2026-08-18T08:50:19.500Z"
   },
   {
     "id": "arxiv-2608-08897v1",
@@ -170,8 +199,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.08897v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.08897v1",
-    "relevanceScore": 44.63,
-    "collectedAt": "2026-08-17T08:56:45.361Z"
+    "relevanceScore": 43.63,
+    "collectedAt": "2026-08-18T08:50:19.500Z"
   },
   {
     "id": "arxiv-2608-08395v1",
@@ -191,8 +220,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.08395v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.08395v1",
-    "relevanceScore": 34.63,
-    "collectedAt": "2026-08-17T08:56:45.361Z"
+    "relevanceScore": 33.63,
+    "collectedAt": "2026-08-18T08:50:19.500Z"
   },
   {
     "id": "arxiv-2608-08310v1",
@@ -211,8 +240,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.08310v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.08310v1",
-    "relevanceScore": 49.63,
-    "collectedAt": "2026-08-17T08:56:45.361Z"
+    "relevanceScore": 48.63,
+    "collectedAt": "2026-08-18T08:50:19.500Z"
   },
   {
     "id": "arxiv-2608-07098v1",
@@ -230,8 +259,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.07098v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.07098v1",
-    "relevanceScore": 32.63,
-    "collectedAt": "2026-08-17T08:56:45.361Z"
+    "relevanceScore": 31.63,
+    "collectedAt": "2026-08-18T08:50:19.500Z"
   },
   {
     "id": "arxiv-2608-06092v1",
@@ -251,8 +280,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.06092v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.06092v1",
-    "relevanceScore": 37.63,
-    "collectedAt": "2026-08-17T08:56:45.361Z"
+    "relevanceScore": 36.63,
+    "collectedAt": "2026-08-18T08:50:19.500Z"
   },
   {
     "id": "arxiv-2608-04332v1",
@@ -271,8 +300,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.04332v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.04332v1",
-    "relevanceScore": 32.63,
-    "collectedAt": "2026-08-17T08:56:45.361Z"
+    "relevanceScore": 31.63,
+    "collectedAt": "2026-08-18T08:50:19.500Z"
   },
   {
     "id": "arxiv-2608-03230v1",
@@ -293,11 +322,11 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.03230v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.03230v1",
-    "relevanceScore": 34.63,
-    "collectedAt": "2026-08-17T08:56:45.361Z"
+    "relevanceScore": 33.63,
+    "collectedAt": "2026-08-18T08:50:19.500Z"
   },
   {
-    "id": "arxiv-2608-02479v1",
+    "id": "arxiv-2608-02479v2",
     "title": "Robust Scale-Free Auctions",
     "authors": [
       "Jerry Anunrojwong"
@@ -312,10 +341,10 @@
       "Auctions"
     ],
     "source": "arXiv",
-    "paperUrl": "https://arxiv.org/abs/2608.02479v1",
-    "pdfUrl": "https://arxiv.org/pdf/2608.02479v1",
-    "relevanceScore": 44.63,
-    "collectedAt": "2026-08-17T08:56:45.361Z"
+    "paperUrl": "https://arxiv.org/abs/2608.02479v2",
+    "pdfUrl": "https://arxiv.org/pdf/2608.02479v2",
+    "relevanceScore": 43.63,
+    "collectedAt": "2026-08-18T08:50:19.500Z"
   },
   {
     "id": "arxiv-2608-01591v1",
@@ -336,8 +365,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.01591v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.01591v1",
-    "relevanceScore": 35.63,
-    "collectedAt": "2026-08-17T08:56:45.361Z"
+    "relevanceScore": 34.63,
+    "collectedAt": "2026-08-18T08:50:19.500Z"
   },
   {
     "id": "arxiv-2607-29420v1",
@@ -357,8 +386,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2607.29420v1",
     "pdfUrl": "https://arxiv.org/pdf/2607.29420v1",
-    "relevanceScore": 43.63,
-    "collectedAt": "2026-08-17T08:56:45.361Z"
+    "relevanceScore": 42.63,
+    "collectedAt": "2026-08-18T08:50:19.500Z"
   },
   {
     "id": "arxiv-2608-00334v1",
@@ -377,28 +406,7 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.00334v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.00334v1",
-    "relevanceScore": 34.63,
-    "collectedAt": "2026-08-17T08:56:45.361Z"
-  },
-  {
-    "id": "arxiv-2607-28925v1",
-    "title": "Learning Optimal Dynamic Matching via Graph Neural Networks",
-    "authors": [
-      "Genta Okada",
-      "Shunya Noda",
-      "Junpei Komiyama",
-      "Akira Matsushita"
-    ],
-    "publicationDate": "2026-07-31",
-    "abstract": "Dynamic matching markets require decisions about whom to match and when: matching now yields value but removes participants who may create better future opportunities. We develop a value-based reinforcement-learning framework for this problem on finite, evolving weighted graphs. We study an infinite-horizon continuous-time model with stochastic arrivals, node-type transitions, edge realizations, and exogenous exits. We prove an event-time reduction: without loss of optimality, the planner acts immediately after each exogenous event and then waits for the next one. We further show that the optimal edge-wise $Q$-function is characterized by a single continuation-value function on post-decision residual graphs, reducing the learned object from state-action values to graph values. Exact action selection still requires combinatorial matching optimization; we approximate the value with a graph neural network, train it by temporal-difference learning, and use it in a forward-greedy matching heuristic. In a binary-type benchmark, the learned policy substantially outperforms immediate and threshold-greedy rules by preserving common nodes for rare arrivals of valuable matches while forming lower-value matches only in thick pools. In a kidney paired donation benchmark, it performs similarly to immediate greedy when exits are unpredictable, recovers the logic of patient matching when warnings are reliable, and outperforms the better of Immediate Greedy and Patient Greedy across intermediate warning probabilities. These results show that residual-graph value learning yields state-dependent dynamic matching policies that adapt to realized connectivity and exit information.",
-    "abstractPreview": "Dynamic matching markets require decisions about whom to match and when: matching now yields value but removes participants who may create better future opportunities. We develop a value-based reinforcement-learning framework for this problem on finite, evolving weighted graphs....",
-    "topics": [
-      "Matching"
-    ],
-    "source": "arXiv",
-    "paperUrl": "https://arxiv.org/abs/2607.28925v1",
-    "pdfUrl": "https://arxiv.org/pdf/2607.28925v1",
-    "relevanceScore": 31.63,
-    "collectedAt": "2026-08-17T08:56:45.361Z"
+    "relevanceScore": 33.63,
+    "collectedAt": "2026-08-18T08:50:19.500Z"
   }
 ]
