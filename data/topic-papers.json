@@ -1,5 +1,62 @@
 [
   {
+    "id": "arxiv-2608-17766v1",
+    "title": "Does the grand coalition form? Persistence, arrival, and the role of the sharing rule in a dynamic process of nested binding agreements",
+    "authors": [
+      "Jobst Heitzig"
+    ],
+    "publicationDate": "2026-08-18",
+    "abstract": "We study a dynamic coalition-formation process in the tradition of Konishi and Ray (2003): players repeatedly form and dissolve binding agreements, evaluate states by discounted long-term expected payoffs, and hold self-confirming beliefs about the process. States and payoff sharing follow Heitzig and Kornek (2018): a state is a hierarchy of nested agreements; agreements are formed by merging existing top-level coalitions, and are terminated together with all agreements containing them; and the members of a new agreement share the surplus it generates, measured against the state without that agreement. All payoff assumptions are structural. We prove that every grand state ever reached is absorbing, and that every absorbing state is grand, for every discount factor. A grand state is actually reached, almost surely, in three cases: small discount factors; three players; and, for any number of players and all discount factors, whenever every player prefers every grand state to every non-grand state in static payoffs, as when distributional stakes are smaller than each player's share of the efficiency gain. Otherwise the process can fail only by cycling for ever among non-grand states. We give exact necessary conditions on such a cycle, and show that for a fixed candidate cycle they reduce to a finite system of linear inequalities in the static payoffs, so the question is decidable. Solving it yields a counterexample: with four players and discount factor one half, under either termination rule, there is an equilibrium that cycles for ever, so the grand coalition need not form. The example survives a far-sighted variant of the sharing rule under which merging raises every player's discounted long-term payoff, not only the static one; there the merge is blocked purely by a better move available to a subgroup. Whether arrival can fail as the discount factor tends to one remains open.",
+    "abstractPreview": "We study a dynamic coalition-formation process in the tradition of Konishi and Ray (2003): players repeatedly form and dissolve binding agreements, evaluate states by discounted long-term expected payoffs, and hold self-confirming beliefs about the process. States and payoff...",
+    "topics": [
+      "Social Choice"
+    ],
+    "source": "arXiv",
+    "paperUrl": "https://arxiv.org/abs/2608.17766v1",
+    "pdfUrl": "https://arxiv.org/pdf/2608.17766v1",
+    "relevanceScore": 37.63,
+    "collectedAt": "2026-08-19T08:51:31.120Z"
+  },
+  {
+    "id": "arxiv-2608-17273v1",
+    "title": "Bayesian Signaling and Entry Decisions under Uncertain Market Conditions",
+    "authors": [
+      "Mustapha Nyenye Issah",
+      "Paramahansa Pramanik"
+    ],
+    "publicationDate": "2026-08-18",
+    "abstract": "We develop a continuous-time entry-deterrence game in which market demand evolves according to the Chan-Karolyi-Longstaff-Sanders (CKLS) stochastic differential equation, allowing mean reversion and state-dependent volatility. An incumbent with privately known strength strategically chooses advertising and promotional expenditures to influence a potential entrant's beliefs, while the entrant faces a costly, irreversible entry decision and optimally waits until market conditions justify participation. Within a dynamic Stackelberg setting, Bayesian learning, asymmetric information, stochastic demand, and strategic controls jointly determine entry and signaling behavior. Using a Feynman-type path-integral control formulation, we characterize a Markovian Nash feedback equilibrium for the firms' expenditure strategies. Our contribution is to integrate CKLS demand uncertainty, private information, irreversible entry, Bayesian belief updating, and path-integral feedback control within a unified continuous-time entry-deterrence framework, while providing a computational alternative to direct Hamilton-Jacobi-Bellman (HJB) approach. We illustrate the framework empirically using 2010-2024 revenue data for Enterprise Products Partners and Targa Resources. The resulting trajectories are qualitatively consistent with the model's predictions, exhibiting persistence, recovery after adverse shocks, and distinct responses associated with different competitive positions, while supporting the model's strategic mechanisms under uncertainty.",
+    "abstractPreview": "We develop a continuous-time entry-deterrence game in which market demand evolves according to the Chan-Karolyi-Longstaff-Sanders (CKLS) stochastic differential equation, allowing mean reversion and state-dependent volatility. An incumbent with privately known strength...",
+    "topics": [
+      "Game Theory"
+    ],
+    "source": "arXiv",
+    "paperUrl": "https://arxiv.org/abs/2608.17273v1",
+    "pdfUrl": "https://arxiv.org/pdf/2608.17273v1",
+    "relevanceScore": 36.63,
+    "collectedAt": "2026-08-19T08:51:31.120Z"
+  },
+  {
+    "id": "arxiv-2608-17446v1",
+    "title": "Searchable Menus",
+    "authors": [
+      "Frank Yang",
+      "Piotr Dworczak"
+    ],
+    "publicationDate": "2026-08-18",
+    "abstract": "Multidimensional screening is (in)famously intractable. In this paper, we study optimal screening mechanisms subject to a tractability constraint from the agent's perspective. Specifically, we require that the menu of options offered by the designer can be ordered so that, regardless of her preference type, the agent can find a utility-maximizing option via greedy search: any locally optimal choice must also be globally optimal. In one-dimensional screening with the single-crossing property, this requirement has no bite. In multidimensional environments, however, searchability restricts the set of implementable outcomes. In the multiproduct monopoly problem, the optimal searchable menu is a sparse upgrade menu: higher tiers offer higher allocation probabilities for every good, and the number of tiers is at most the number of goods. In a multidimensional screening problem with money and ordeals, the optimal searchable menu offers the agent a single way to obtain the good. In income taxation with rich multidimensional heterogeneity, a tax schedule is searchable if and only if it is progressive.",
+    "abstractPreview": "Multidimensional screening is (in)famously intractable. In this paper, we study optimal screening mechanisms subject to a tractability constraint from the agent's perspective. Specifically, we require that the menu of options offered by the designer can be ordered so that,...",
+    "topics": [
+      "Decision Theory",
+      "Market Design"
+    ],
+    "source": "arXiv",
+    "paperUrl": "https://arxiv.org/abs/2608.17446v1",
+    "pdfUrl": "https://arxiv.org/pdf/2608.17446v1",
+    "relevanceScore": 32.63,
+    "collectedAt": "2026-08-19T08:51:31.120Z"
+  },
+  {
     "id": "arxiv-2608-16869v1",
     "title": "The New Mathematics of Democracy",
     "authors": [
@@ -16,8 +73,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.16869v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.16869v1",
-    "relevanceScore": 32.63,
-    "collectedAt": "2026-08-18T08:50:19.500Z"
+    "relevanceScore": 31.63,
+    "collectedAt": "2026-08-19T08:51:31.120Z"
   },
   {
     "id": "arxiv-2608-16699v1",
@@ -37,8 +94,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.16699v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.16699v1",
-    "relevanceScore": 32.63,
-    "collectedAt": "2026-08-18T08:50:19.500Z"
+    "relevanceScore": 31.63,
+    "collectedAt": "2026-08-19T08:51:31.120Z"
   },
   {
     "id": "arxiv-2608-15631v1",
@@ -63,8 +120,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.15631v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.15631v1",
-    "relevanceScore": 48.63,
-    "collectedAt": "2026-08-18T08:50:19.500Z"
+    "relevanceScore": 47.63,
+    "collectedAt": "2026-08-19T08:51:31.120Z"
   },
   {
     "id": "arxiv-2608-14464v2",
@@ -81,8 +138,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.14464v2",
     "pdfUrl": "https://arxiv.org/pdf/2608.14464v2",
-    "relevanceScore": 40.63,
-    "collectedAt": "2026-08-18T08:50:19.500Z"
+    "relevanceScore": 39.63,
+    "collectedAt": "2026-08-19T08:51:31.120Z"
   },
   {
     "id": "arxiv-2608-14173v2",
@@ -101,8 +158,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.14173v2",
     "pdfUrl": "https://arxiv.org/pdf/2608.14173v2",
-    "relevanceScore": 32.63,
-    "collectedAt": "2026-08-18T08:50:19.500Z"
+    "relevanceScore": 31.63,
+    "collectedAt": "2026-08-19T08:51:31.120Z"
   },
   {
     "id": "arxiv-2608-12818v2",
@@ -121,47 +178,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.12818v2",
     "pdfUrl": "https://arxiv.org/pdf/2608.12818v2",
-    "relevanceScore": 36.63,
-    "collectedAt": "2026-08-18T08:50:19.500Z"
-  },
-  {
-    "id": "arxiv-2608-13327v1",
-    "title": "Breaking the Chain: Division Norms and Criminal Deterrence",
-    "authors": [
-      "Constantine Sorokin",
-      "Alexander Nesterov",
-      "Alexei Savvateev"
-    ],
-    "publicationDate": "2026-08-13",
-    "abstract": "In organized crime, membership moves fastest, deterrence capacity moves more slowly, and division norms move slowest. We model this as a three-stage game: division norms fix how every possible coalition divides its proceeds; the authority then attaches deterrence capacity to named members, before knowing which coalition will form; membership adjusts last, around whoever remains undeterred. Under population-monotone division, the minimum deterrence budget is the cost of a shortest dismantling path, removing one member at a time. When the Shapley value is population monotone, it uniquely maximizes this budget by making every path equally costly.",
-    "abstractPreview": "In organized crime, membership moves fastest, deterrence capacity moves more slowly, and division norms move slowest. We model this as a three-stage game: division norms fix how every possible coalition divides its proceeds; the authority then attaches deterrence capacity to...",
-    "topics": [
-      "Social Choice"
-    ],
-    "source": "arXiv",
-    "paperUrl": "https://arxiv.org/abs/2608.13327v1",
-    "pdfUrl": "https://arxiv.org/pdf/2608.13327v1",
-    "relevanceScore": 30.63,
-    "collectedAt": "2026-08-18T08:50:19.500Z"
-  },
-  {
-    "id": "arxiv-2608-13001v1",
-    "title": "Incidence Bimatrix Games",
-    "authors": [
-      "R. B. Bapat",
-      "Debapriya Sen"
-    ],
-    "publicationDate": "2026-08-13",
-    "abstract": "We solve a natural bimatrix game related to graphs. We consider a finite directed graph $G=(V,E),$ where the strategy set of Player I is the set of vertices $V$ and that of Player II is the set of edges $E.$ There are two sets of positive weights ${\\{α_e\\}}_{e\\in E}$ and ${\\{β_e\\}}_{e\\in E}.$ If Player I chooses a vertex $v$ and Player II chooses an edge $e,$ then the payoff to both players is zero if $v$ and $e$ are not incident. If $e$ originates from $v,$ then Player I obtains $α_e$ and Player II obtains $-β_e.$ If $e$ terminates at $v,$ then Player I obtains $-α_e$ and Player II obtains $β_e.$ For this game the payoff matrices are weighted incidence matrices of the graph $G.$ We show that when the graph is acyclic, Player I has a unique strategy in any equilibrium. At this strategy, every vertex is chosen with a probability that is proportional to the maximum length over all directed paths originating from that vertex. Defining the path matrix of the graph, it is shown that the set of all equilibrium strategies of Player II is the convex hull of the column vectors of the path matrix. This work extends earlier results of Bapat and Tijs (1997) for zero-sum games.",
-    "abstractPreview": "We solve a natural bimatrix game related to graphs. We consider a finite directed graph $G=(V,E),$ where the strategy set of Player I is the set of vertices $V$ and that of Player II is the set of edges $E.$ There are two sets of positive weights ${\\{α_e\\}}_{e\\in E}$ and...",
-    "topics": [
-      "Game Theory"
-    ],
-    "source": "arXiv",
-    "paperUrl": "https://arxiv.org/abs/2608.13001v1",
-    "pdfUrl": "https://arxiv.org/pdf/2608.13001v1",
-    "relevanceScore": 30.63,
-    "collectedAt": "2026-08-18T08:50:19.500Z"
+    "relevanceScore": 35.63,
+    "collectedAt": "2026-08-19T08:51:31.120Z"
   },
   {
     "id": "arxiv-2608-11682v1",
@@ -180,8 +198,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.11682v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.11682v1",
-    "relevanceScore": 39.63,
-    "collectedAt": "2026-08-18T08:50:19.500Z"
+    "relevanceScore": 38.63,
+    "collectedAt": "2026-08-19T08:51:31.120Z"
   },
   {
     "id": "arxiv-2608-08897v1",
@@ -199,8 +217,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.08897v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.08897v1",
-    "relevanceScore": 43.63,
-    "collectedAt": "2026-08-18T08:50:19.500Z"
+    "relevanceScore": 42.63,
+    "collectedAt": "2026-08-19T08:51:31.120Z"
   },
   {
     "id": "arxiv-2608-08395v1",
@@ -220,8 +238,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.08395v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.08395v1",
-    "relevanceScore": 33.63,
-    "collectedAt": "2026-08-18T08:50:19.500Z"
+    "relevanceScore": 32.63,
+    "collectedAt": "2026-08-19T08:51:31.120Z"
   },
   {
     "id": "arxiv-2608-08310v1",
@@ -240,8 +258,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.08310v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.08310v1",
-    "relevanceScore": 48.63,
-    "collectedAt": "2026-08-18T08:50:19.500Z"
+    "relevanceScore": 47.63,
+    "collectedAt": "2026-08-19T08:51:31.120Z"
   },
   {
     "id": "arxiv-2608-07098v1",
@@ -259,8 +277,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.07098v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.07098v1",
-    "relevanceScore": 31.63,
-    "collectedAt": "2026-08-18T08:50:19.500Z"
+    "relevanceScore": 30.63,
+    "collectedAt": "2026-08-19T08:51:31.120Z"
   },
   {
     "id": "arxiv-2608-06092v1",
@@ -280,28 +298,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.06092v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.06092v1",
-    "relevanceScore": 36.63,
-    "collectedAt": "2026-08-18T08:50:19.500Z"
-  },
-  {
-    "id": "arxiv-2608-04332v1",
-    "title": "Informational Content of Auction Prices",
-    "authors": [
-      "Yu Awaya",
-      "Vijay Krishna",
-      "Eduard Osipov"
-    ],
-    "publicationDate": "2026-08-05",
-    "abstract": "We study auctions of k identical objects to n bidders, each of whom wants at most one. The objects have a common but unknown value and the bidders receive private signals about this value. The discriminatory price auction and the uniform-price auction are compared in terms of how informative the resulting auction prices (not bids) are in conveying the true value to an outside observer/investor. Since both auctions have symmetric, monotone equilibria, the problem reduces to comparing the informativeness of the highest order statistic of a sample to the (k+1)st highest. We find sufficient conditions under which the highest order statistic is superior---in the sense of Lehmann---in this regard. The sufficient conditions involve the informativeness of high versus low signals and the ratio k/n of objects to bidders. These conditions are also qualitatively necessary.",
-    "abstractPreview": "We study auctions of k identical objects to n bidders, each of whom wants at most one. The objects have a common but unknown value and the bidders receive private signals about this value. The discriminatory price auction and the uniform-price auction are compared in terms of...",
-    "topics": [
-      "Auctions"
-    ],
-    "source": "arXiv",
-    "paperUrl": "https://arxiv.org/abs/2608.04332v1",
-    "pdfUrl": "https://arxiv.org/pdf/2608.04332v1",
-    "relevanceScore": 31.63,
-    "collectedAt": "2026-08-18T08:50:19.500Z"
+    "relevanceScore": 35.63,
+    "collectedAt": "2026-08-19T08:51:31.120Z"
   },
   {
     "id": "arxiv-2608-03230v1",
@@ -322,8 +320,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.03230v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.03230v1",
-    "relevanceScore": 33.63,
-    "collectedAt": "2026-08-18T08:50:19.500Z"
+    "relevanceScore": 32.63,
+    "collectedAt": "2026-08-19T08:51:31.120Z"
   },
   {
     "id": "arxiv-2608-02479v2",
@@ -343,8 +341,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.02479v2",
     "pdfUrl": "https://arxiv.org/pdf/2608.02479v2",
-    "relevanceScore": 43.63,
-    "collectedAt": "2026-08-18T08:50:19.500Z"
+    "relevanceScore": 42.63,
+    "collectedAt": "2026-08-19T08:51:31.120Z"
   },
   {
     "id": "arxiv-2608-01591v1",
@@ -365,8 +363,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.01591v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.01591v1",
-    "relevanceScore": 34.63,
-    "collectedAt": "2026-08-18T08:50:19.500Z"
+    "relevanceScore": 33.63,
+    "collectedAt": "2026-08-19T08:51:31.120Z"
   },
   {
     "id": "arxiv-2607-29420v1",
@@ -386,8 +384,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2607.29420v1",
     "pdfUrl": "https://arxiv.org/pdf/2607.29420v1",
-    "relevanceScore": 42.63,
-    "collectedAt": "2026-08-18T08:50:19.500Z"
+    "relevanceScore": 41.63,
+    "collectedAt": "2026-08-19T08:51:31.120Z"
   },
   {
     "id": "arxiv-2608-00334v1",
@@ -406,7 +404,7 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.00334v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.00334v1",
-    "relevanceScore": 33.63,
-    "collectedAt": "2026-08-18T08:50:19.500Z"
+    "relevanceScore": 32.63,
+    "collectedAt": "2026-08-19T08:51:31.120Z"
   }
 ]
