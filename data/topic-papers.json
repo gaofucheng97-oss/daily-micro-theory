@@ -1,5 +1,42 @@
 [
   {
+    "id": "arxiv-2608-18739v1",
+    "title": "Coalitional Manipulation of Set-Valued Median Voting",
+    "authors": [
+      "Toshiya Yoshimura"
+    ],
+    "publicationDate": "2026-08-19",
+    "abstract": "We study coalitional manipulation of interval-valued median correspondences on the single-peaked domain. Under the pessimistic extension, group strategy-proofness rules out any genuinely set-valued choice. Under the optimistic and best--worst extensions, by contrast, group strategy-proofness characterizes target set correspondences. Moreover, coalitions of at most two voters suffice for both the impossibility and characterization results. Thus, coalitional robustness sharply restricts, but need not eliminate, set-valued flexibility.",
+    "abstractPreview": "We study coalitional manipulation of interval-valued median correspondences on the single-peaked domain. Under the pessimistic extension, group strategy-proofness rules out any genuinely set-valued choice. Under the optimistic and best--worst extensions, by contrast, group...",
+    "topics": [
+      "Game Theory",
+      "Social Choice"
+    ],
+    "source": "arXiv",
+    "paperUrl": "https://arxiv.org/abs/2608.18739v1",
+    "pdfUrl": "https://arxiv.org/pdf/2608.18739v1",
+    "relevanceScore": 37.63,
+    "collectedAt": "2026-08-20T08:52:29.048Z"
+  },
+  {
+    "id": "arxiv-2608-18381v1",
+    "title": "Stable Matching with Peer-Dependent Preferences: Existence and Cutoff Characterization",
+    "authors": [
+      "Jacob D. Leshno"
+    ],
+    "publicationDate": "2026-08-18",
+    "abstract": "This paper presents a framework for stable matching markets that accommodates the peer-dependent preferences employed in empirical work. We show the existence of a stable matching in a continuum economy and of an approximately stable matching in a large finite sampled economy under assumptions satisfied by standard empirical specifications. The analysis builds on a tractable characterization of stable matchings with peer-dependent preferences in terms of supply and demand equations along with a rational-expectations condition.",
+    "abstractPreview": "This paper presents a framework for stable matching markets that accommodates the peer-dependent preferences employed in empirical work. We show the existence of a stable matching in a continuum economy and of an approximately stable matching in a large finite sampled economy...",
+    "topics": [
+      "Matching"
+    ],
+    "source": "arXiv",
+    "paperUrl": "https://arxiv.org/abs/2608.18381v1",
+    "pdfUrl": "https://arxiv.org/pdf/2608.18381v1",
+    "relevanceScore": 49.63,
+    "collectedAt": "2026-08-20T08:52:29.048Z"
+  },
+  {
     "id": "arxiv-2608-17766v1",
     "title": "Does the grand coalition form? Persistence, arrival, and the role of the sharing rule in a dynamic process of nested binding agreements",
     "authors": [
@@ -14,8 +51,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.17766v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.17766v1",
-    "relevanceScore": 37.63,
-    "collectedAt": "2026-08-19T08:51:31.120Z"
+    "relevanceScore": 36.63,
+    "collectedAt": "2026-08-20T08:52:29.048Z"
   },
   {
     "id": "arxiv-2608-17273v1",
@@ -33,8 +70,31 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.17273v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.17273v1",
-    "relevanceScore": 36.63,
-    "collectedAt": "2026-08-19T08:51:31.120Z"
+    "relevanceScore": 35.63,
+    "collectedAt": "2026-08-20T08:52:29.048Z"
+  },
+  {
+    "id": "arxiv-2608-18265v1",
+    "title": "How AI Prompts Can Teach Us About the Structure of Human Behavior",
+    "authors": [
+      "Matthew O. Jackson",
+      "Benjamin S. Manning",
+      "Yutong Xie",
+      "Walter Yuan",
+      "Qiaozhu Mei"
+    ],
+    "publicationDate": "2026-08-18",
+    "abstract": "We introduce a general, easy-to-implement AI-based method for studying the structure and complexity of human behavior. We assign a large language model a ``type vector'' and then prompt it to choose actions across settings in which we observe human choices. For instance, the type vector (2,4) becomes ``You are a player characterized by the following profile: 2 out of 5 in Altruism, 4 out of 5 in Risk Aversion,'' after which it is prompted to make choices. We vary the dimensions (e.g., Altruism, Fairness, Trust, $\\dots$) and values (e.g., 1--5) to minimize distance to human choices. Applying the method to 119,147 decisions made by 78,657 subjects from more than 35 countries across 10 classic economic game roles, we find that human behavior can be closely matched using three dimensions: Risk Aversion, Strategic Sophistication, and Trust. Moreover, the types needed to fit individuals across games cluster into fewer than a dozen groups, and can predict behavior in held-out games with different rules and available actions. The results suggest that behavior across diverse settings can be approximated by a low-dimensional, portable representation, supporting the possibility of general yet parsimonious theories across the behavioral sciences. More broadly, the method can provide insights into the structure of many human behaviors.",
+    "abstractPreview": "We introduce a general, easy-to-implement AI-based method for studying the structure and complexity of human behavior. We assign a large language model a ``type vector'' and then prompt it to choose actions across settings in which we observe human choices. For instance, the...",
+    "topics": [
+      "Game Theory",
+      "Decision Theory"
+    ],
+    "source": "arXiv",
+    "paperUrl": "https://arxiv.org/abs/2608.18265v1",
+    "pdfUrl": "https://arxiv.org/pdf/2608.18265v1",
+    "relevanceScore": 33.63,
+    "collectedAt": "2026-08-20T08:52:29.048Z"
   },
   {
     "id": "arxiv-2608-17446v1",
@@ -53,8 +113,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.17446v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.17446v1",
-    "relevanceScore": 32.63,
-    "collectedAt": "2026-08-19T08:51:31.120Z"
+    "relevanceScore": 31.63,
+    "collectedAt": "2026-08-20T08:52:29.048Z"
   },
   {
     "id": "arxiv-2608-16869v1",
@@ -73,29 +133,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.16869v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.16869v1",
-    "relevanceScore": 31.63,
-    "collectedAt": "2026-08-19T08:51:31.120Z"
-  },
-  {
-    "id": "arxiv-2608-16699v1",
-    "title": "Learning to Price with Persuasion",
-    "authors": [
-      "Maria-Florina Balcan",
-      "Tejas Pagare",
-      "Karan Singh"
-    ],
-    "publicationDate": "2026-08-17",
-    "abstract": "Motivated by modern marketplaces, where the platform or the seller routinely gathers detailed user profiles, we study a novel learning theoretic model that simultaneously involves information and mechanism design. Specifically, we consider the economic setting recently introduced by Bergemann et al. (2022), where in addition to the menu of quality-price pairs, the seller offers information on the value of the match between product quality and buyer's taste via a signaling scheme. We relax the assumption that the seller knows the buyers' belief about the distribution of tastes and study the sample requirements of designing a revenue maximizing scheme. We consider both the batch setting where we have access to data from a set of i.i.d. buyers and an online demand query model where we observe the buyers' behaviors to seller's schemes. Despite the apparent non-convexity of the problem, we also give the first FPTAS to compute a scheme that maximizes the revenue within an arbitrarily small additive loss, which was left open by Bergemann et al. (2022). Overall, this brings a new learning perspective in asymmetric economic settings where buyers and sellers know different types of information.",
-    "abstractPreview": "Motivated by modern marketplaces, where the platform or the seller routinely gathers detailed user profiles, we study a novel learning theoretic model that simultaneously involves information and mechanism design. Specifically, we consider the economic setting recently...",
-    "topics": [
-      "Mechanism Design",
-      "Matching"
-    ],
-    "source": "arXiv",
-    "paperUrl": "https://arxiv.org/abs/2608.16699v1",
-    "pdfUrl": "https://arxiv.org/pdf/2608.16699v1",
-    "relevanceScore": 31.63,
-    "collectedAt": "2026-08-19T08:51:31.120Z"
+    "relevanceScore": 30.63,
+    "collectedAt": "2026-08-20T08:52:29.048Z"
   },
   {
     "id": "arxiv-2608-15631v1",
@@ -120,8 +159,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.15631v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.15631v1",
-    "relevanceScore": 47.63,
-    "collectedAt": "2026-08-19T08:51:31.120Z"
+    "relevanceScore": 46.63,
+    "collectedAt": "2026-08-20T08:52:29.048Z"
   },
   {
     "id": "arxiv-2608-14464v2",
@@ -138,28 +177,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.14464v2",
     "pdfUrl": "https://arxiv.org/pdf/2608.14464v2",
-    "relevanceScore": 39.63,
-    "collectedAt": "2026-08-19T08:51:31.120Z"
-  },
-  {
-    "id": "arxiv-2608-14173v2",
-    "title": "Acquiring irrelevant information as a commitment",
-    "authors": [
-      "Wataru Kitano",
-      "Shohei Yanagita"
-    ],
-    "publicationDate": "2026-08-14",
-    "abstract": "We formulate the voter's strategic information acquisition to control the future self's action as a Bayesian persuasion problem. Our main result shows that acquiring information that is irrelevant to the voter's objective can be a worst-case optimal solution: it can reduce the possibility that the future self is swayed by additional information whose content is ambiguous to the current voter.",
-    "abstractPreview": "We formulate the voter's strategic information acquisition to control the future self's action as a Bayesian persuasion problem. Our main result shows that acquiring information that is irrelevant to the voter's objective can be a worst-case optimal solution: it can reduce the...",
-    "topics": [
-      "Game Theory",
-      "Contract Theory"
-    ],
-    "source": "arXiv",
-    "paperUrl": "https://arxiv.org/abs/2608.14173v2",
-    "pdfUrl": "https://arxiv.org/pdf/2608.14173v2",
-    "relevanceScore": 31.63,
-    "collectedAt": "2026-08-19T08:51:31.120Z"
+    "relevanceScore": 38.63,
+    "collectedAt": "2026-08-20T08:52:29.048Z"
   },
   {
     "id": "arxiv-2608-12818v2",
@@ -178,8 +197,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.12818v2",
     "pdfUrl": "https://arxiv.org/pdf/2608.12818v2",
-    "relevanceScore": 35.63,
-    "collectedAt": "2026-08-19T08:51:31.120Z"
+    "relevanceScore": 34.63,
+    "collectedAt": "2026-08-20T08:52:29.048Z"
   },
   {
     "id": "arxiv-2608-11682v1",
@@ -198,8 +217,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.11682v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.11682v1",
-    "relevanceScore": 38.63,
-    "collectedAt": "2026-08-19T08:51:31.120Z"
+    "relevanceScore": 37.63,
+    "collectedAt": "2026-08-20T08:52:29.048Z"
   },
   {
     "id": "arxiv-2608-08897v1",
@@ -217,8 +236,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.08897v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.08897v1",
-    "relevanceScore": 42.63,
-    "collectedAt": "2026-08-19T08:51:31.120Z"
+    "relevanceScore": 41.63,
+    "collectedAt": "2026-08-20T08:52:29.048Z"
   },
   {
     "id": "arxiv-2608-08395v1",
@@ -238,8 +257,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.08395v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.08395v1",
-    "relevanceScore": 32.63,
-    "collectedAt": "2026-08-19T08:51:31.120Z"
+    "relevanceScore": 31.63,
+    "collectedAt": "2026-08-20T08:52:29.048Z"
   },
   {
     "id": "arxiv-2608-08310v1",
@@ -258,27 +277,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.08310v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.08310v1",
-    "relevanceScore": 47.63,
-    "collectedAt": "2026-08-19T08:51:31.120Z"
-  },
-  {
-    "id": "arxiv-2608-07098v1",
-    "title": "Auditing Algorithmic Collusion from Strategy Graphs",
-    "authors": [
-      "Nicolas Eschenbaum",
-      "Janusz M. Meylahn"
-    ],
-    "publicationDate": "2026-08-07",
-    "abstract": "Detecting algorithmic collusion is challenging because regulators often have limited access to firms' algorithms, training data, and market information. We study an intermediate-information regime in which an auditor can query firms' frozen pricing policies and construct the induced strategy graph. Using a complete characterization of Nash equilibria in a repeated pricing game, we identify graph-theoretic features of strategy graphs that are associated with collusive reward-and-punishment schemes, including maximum betweenness, attractor in-degree, and average path length. We then test these metrics on policies learned by decentralized Q-learning and the Q-learning algorithm of Calvano et al. (2020). We find that especially the maximum betweenness and attractor in-degree are strongly correlated with the standard profit-based Collusion Index. Importantly, the proposed metrics rely only on the unlabeled topology of strategy graphs and require neither price histories, demand estimates, nor competitive and monopoly benchmarks. Our results suggest that the structure of frozen pricing policies contains robust signals of collusion among reinforcement learning algorithms and provides a promising basis for auditing algorithmic pricing systems under limited information.",
-    "abstractPreview": "Detecting algorithmic collusion is challenging because regulators often have limited access to firms' algorithms, training data, and market information. We study an intermediate-information regime in which an auditor can query firms' frozen pricing policies and construct the...",
-    "topics": [
-      "Game Theory"
-    ],
-    "source": "arXiv",
-    "paperUrl": "https://arxiv.org/abs/2608.07098v1",
-    "pdfUrl": "https://arxiv.org/pdf/2608.07098v1",
-    "relevanceScore": 30.63,
-    "collectedAt": "2026-08-19T08:51:31.120Z"
+    "relevanceScore": 46.63,
+    "collectedAt": "2026-08-20T08:52:29.048Z"
   },
   {
     "id": "arxiv-2608-06092v1",
@@ -298,8 +298,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.06092v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.06092v1",
-    "relevanceScore": 35.63,
-    "collectedAt": "2026-08-19T08:51:31.120Z"
+    "relevanceScore": 34.63,
+    "collectedAt": "2026-08-20T08:52:29.048Z"
   },
   {
     "id": "arxiv-2608-03230v1",
@@ -320,8 +320,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.03230v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.03230v1",
-    "relevanceScore": 32.63,
-    "collectedAt": "2026-08-19T08:51:31.120Z"
+    "relevanceScore": 31.63,
+    "collectedAt": "2026-08-20T08:52:29.048Z"
   },
   {
     "id": "arxiv-2608-02479v2",
@@ -341,8 +341,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.02479v2",
     "pdfUrl": "https://arxiv.org/pdf/2608.02479v2",
-    "relevanceScore": 42.63,
-    "collectedAt": "2026-08-19T08:51:31.120Z"
+    "relevanceScore": 41.63,
+    "collectedAt": "2026-08-20T08:52:29.048Z"
   },
   {
     "id": "arxiv-2608-01591v1",
@@ -363,8 +363,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.01591v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.01591v1",
-    "relevanceScore": 33.63,
-    "collectedAt": "2026-08-19T08:51:31.120Z"
+    "relevanceScore": 32.63,
+    "collectedAt": "2026-08-20T08:52:29.048Z"
   },
   {
     "id": "arxiv-2607-29420v1",
@@ -384,8 +384,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2607.29420v1",
     "pdfUrl": "https://arxiv.org/pdf/2607.29420v1",
-    "relevanceScore": 41.63,
-    "collectedAt": "2026-08-19T08:51:31.120Z"
+    "relevanceScore": 40.63,
+    "collectedAt": "2026-08-20T08:52:29.048Z"
   },
   {
     "id": "arxiv-2608-00334v1",
@@ -404,7 +404,7 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.00334v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.00334v1",
-    "relevanceScore": 32.63,
-    "collectedAt": "2026-08-19T08:51:31.120Z"
+    "relevanceScore": 31.63,
+    "collectedAt": "2026-08-20T08:52:29.048Z"
   }
 ]
