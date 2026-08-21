@@ -1,5 +1,43 @@
 [
   {
+    "id": "arxiv-2608-19846v1",
+    "title": "Random Cap: Optimal Informationally Robust Delegation",
+    "authors": [
+      "Zhiyuan Jia"
+    ],
+    "publicationDate": "2026-08-20",
+    "abstract": "Are simple delegation rules optimal under ambiguity? We study delegation when the principal knows the mean, but not the distribution, of the agent's private information. In a quadratic constant-bias environment, the robustly optimal randomized mechanism is a random cap: the principal draws and reveals an upper bound below which the agent chooses freely. Randomization strictly outperforms every deterministic cap by hedging against cap-specific worst-case distributions. We characterize random caps through nondecreasing and concave expected-action rules and construct the solution using a saddle-point approach. The worst-case distribution features an exponential survival function over its continuous region and an atom at the upper endpoint. Under regularity conditions, the result extends to convex-order ambiguity. When the mean is below the agent's bias, the optimal mechanism additionally requires an incentive-neutral outcome lottery.",
+    "abstractPreview": "Are simple delegation rules optimal under ambiguity? We study delegation when the principal knows the mean, but not the distribution, of the agent's private information. In a quadratic constant-bias environment, the robustly optimal randomized mechanism is a random cap: the...",
+    "topics": [
+      "Decision Theory"
+    ],
+    "source": "arXiv",
+    "paperUrl": "https://arxiv.org/abs/2608.19846v1",
+    "pdfUrl": "https://arxiv.org/pdf/2608.19846v1",
+    "relevanceScore": 34.63,
+    "collectedAt": "2026-08-21T08:53:42.318Z"
+  },
+  {
+    "id": "arxiv-2608-20074v1",
+    "title": "Characterizations of continuous adequate objective functions for ordinal or interval scaled data",
+    "authors": [
+      "Gianni Bosi",
+      "Gabriele Sbaiz",
+      "Magalì Zuanon"
+    ],
+    "publicationDate": "2026-08-20",
+    "abstract": "Objective functions (goodness criteria which have to be optimized) that are considered, for instance, in cluster analysis, factor analysis, (linear) structural equation modeling, (linear) regression, multidimensional scaling, choice theory, and utility theory, must be {\\em adequate}, i.e. carefully adapted to the structure of the observed data. Adequateness of an objective function means, in our terminology, that (certain) transformations of its arguments, e.g. changes in the unit measures of the quantities involved, do not influence the solutions of the optimization procedure. In this paper we concentrate our attention on affine strictly increasing transformations and we also incorporate the case of continuous adequate objective functions accordingly. The characterization of adequate dissimilarity coefficients for interval scaled data shows the appropriateness of the concept of adequateness that is developed in this paper.",
+    "abstractPreview": "Objective functions (goodness criteria which have to be optimized) that are considered, for instance, in cluster analysis, factor analysis, (linear) structural equation modeling, (linear) regression, multidimensional scaling, choice theory, and utility theory, must be {\\em...",
+    "topics": [
+      "Decision Theory"
+    ],
+    "source": "arXiv",
+    "paperUrl": "https://arxiv.org/abs/2608.20074v1",
+    "pdfUrl": "https://arxiv.org/pdf/2608.20074v1",
+    "relevanceScore": 30.63,
+    "collectedAt": "2026-08-21T08:53:42.318Z"
+  },
+  {
     "id": "arxiv-2608-18739v1",
     "title": "Coalitional Manipulation of Set-Valued Median Voting",
     "authors": [
@@ -15,8 +53,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.18739v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.18739v1",
-    "relevanceScore": 37.63,
-    "collectedAt": "2026-08-20T08:52:29.048Z"
+    "relevanceScore": 36.63,
+    "collectedAt": "2026-08-21T08:53:42.318Z"
   },
   {
     "id": "arxiv-2608-18381v1",
@@ -33,8 +71,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.18381v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.18381v1",
-    "relevanceScore": 49.63,
-    "collectedAt": "2026-08-20T08:52:29.048Z"
+    "relevanceScore": 48.63,
+    "collectedAt": "2026-08-21T08:53:42.318Z"
   },
   {
     "id": "arxiv-2608-17766v1",
@@ -51,8 +89,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.17766v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.17766v1",
-    "relevanceScore": 36.63,
-    "collectedAt": "2026-08-20T08:52:29.048Z"
+    "relevanceScore": 35.63,
+    "collectedAt": "2026-08-21T08:53:42.318Z"
   },
   {
     "id": "arxiv-2608-17273v1",
@@ -70,8 +108,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.17273v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.17273v1",
-    "relevanceScore": 35.63,
-    "collectedAt": "2026-08-20T08:52:29.048Z"
+    "relevanceScore": 34.63,
+    "collectedAt": "2026-08-21T08:53:42.318Z"
   },
   {
     "id": "arxiv-2608-18265v1",
@@ -93,8 +131,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.18265v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.18265v1",
-    "relevanceScore": 33.63,
-    "collectedAt": "2026-08-20T08:52:29.048Z"
+    "relevanceScore": 32.63,
+    "collectedAt": "2026-08-21T08:53:42.318Z"
   },
   {
     "id": "arxiv-2608-17446v1",
@@ -113,28 +151,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.17446v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.17446v1",
-    "relevanceScore": 31.63,
-    "collectedAt": "2026-08-20T08:52:29.048Z"
-  },
-  {
-    "id": "arxiv-2608-16869v1",
-    "title": "The New Mathematics of Democracy",
-    "authors": [
-      "Bailey Flanigan",
-      "Ismar Volic"
-    ],
-    "publicationDate": "2026-08-17",
-    "abstract": "This article surveys emerging directions in the mathematics of democracy. It uses three case studies --- voting theory, participatory budgeting, and deliberative democracy --- to highlight how contemporary challenges motivate rigorous mathematical research that incorporates real-world data, institutional constraints, and implementation feasibility. Within each case, we highlight active and promising research frontiers, evidence of real-world impact, practical applications, and opportunities for getting involved.",
-    "abstractPreview": "This article surveys emerging directions in the mathematics of democracy. It uses three case studies --- voting theory, participatory budgeting, and deliberative democracy --- to highlight how contemporary challenges motivate rigorous mathematical research that incorporates...",
-    "topics": [
-      "Mechanism Design",
-      "Social Choice"
-    ],
-    "source": "arXiv",
-    "paperUrl": "https://arxiv.org/abs/2608.16869v1",
-    "pdfUrl": "https://arxiv.org/pdf/2608.16869v1",
     "relevanceScore": 30.63,
-    "collectedAt": "2026-08-20T08:52:29.048Z"
+    "collectedAt": "2026-08-21T08:53:42.318Z"
   },
   {
     "id": "arxiv-2608-15631v1",
@@ -159,8 +177,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.15631v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.15631v1",
-    "relevanceScore": 46.63,
-    "collectedAt": "2026-08-20T08:52:29.048Z"
+    "relevanceScore": 45.63,
+    "collectedAt": "2026-08-21T08:53:42.318Z"
   },
   {
     "id": "arxiv-2608-14464v2",
@@ -177,28 +195,28 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.14464v2",
     "pdfUrl": "https://arxiv.org/pdf/2608.14464v2",
-    "relevanceScore": 38.63,
-    "collectedAt": "2026-08-20T08:52:29.048Z"
+    "relevanceScore": 37.63,
+    "collectedAt": "2026-08-21T08:53:42.318Z"
   },
   {
-    "id": "arxiv-2608-12818v2",
+    "id": "arxiv-2608-12818v3",
     "title": "Schedule equilibria",
     "authors": [
       "Harry Kleyer"
     ],
     "publicationDate": "2026-08-13",
-    "abstract": "This paper studies general equilibrium when households and firms choose price-contingent schedules. Market clearing determines the price, so a unilateral schedule change changes both the agent's allocation and the price at which it is evaluated. We call the resulting outcome a schedule equilibrium. We derive the household and firm conditions, prove existence, and give a trembling-hand refinement. Competitive, Cournot, and supply-function models arise as special cases. Applications are given to monopoly, vertical market power, entry, ownership, firm creation, and technological change. In each case the strategic term is the response of the clearing price to the agent's own schedule.",
-    "abstractPreview": "This paper studies general equilibrium when households and firms choose price-contingent schedules. Market clearing determines the price, so a unilateral schedule change changes both the agent's allocation and the price at which it is evaluated. We call the resulting outcome a...",
+    "abstract": "This paper studies general equilibrium when households and firms choose price-contingent schedules and market clearing determines prices. A unilateral schedule change therefore changes both an agent's realized allocation and the price at which it is evaluated. We call the resulting outcome a schedule equilibrium. The central object is the response of the clearing price to an agent's own schedule. This residual price response enters the household and firm first-order conditions, provides the strategic component of markups, and links conduct to observable equilibrium variation. We give conditions for existence, derive a trembling-hand refinement, and show how competitive, Cournot, and supply-function models arise as special cases. Applications to monopoly and vertical market power show how general-equilibrium feedback can alter familiar partial-equilibrium conclusions. We then allow firm mass, ownership, and technology to be endogenous. Free entry need not be efficient because entrants do not internalize their effect on the rest of the economy. Households choose capitalization and thereby ownership and firm creation, while investment moves active firms through production-function space. The same price-response mechanism therefore links market power, entry, ownership, and technological change within a common general-equilibrium framework.",
+    "abstractPreview": "This paper studies general equilibrium when households and firms choose price-contingent schedules and market clearing determines prices. A unilateral schedule change therefore changes both an agent's realized allocation and the price at which it is evaluated. We call the...",
     "topics": [
       "Game Theory",
       "Market Design",
       "General Equilibrium"
     ],
     "source": "arXiv",
-    "paperUrl": "https://arxiv.org/abs/2608.12818v2",
-    "pdfUrl": "https://arxiv.org/pdf/2608.12818v2",
-    "relevanceScore": 34.63,
-    "collectedAt": "2026-08-20T08:52:29.048Z"
+    "paperUrl": "https://arxiv.org/abs/2608.12818v3",
+    "pdfUrl": "https://arxiv.org/pdf/2608.12818v3",
+    "relevanceScore": 33.63,
+    "collectedAt": "2026-08-21T08:53:42.318Z"
   },
   {
     "id": "arxiv-2608-11682v1",
@@ -217,8 +235,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.11682v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.11682v1",
-    "relevanceScore": 37.63,
-    "collectedAt": "2026-08-20T08:52:29.048Z"
+    "relevanceScore": 36.63,
+    "collectedAt": "2026-08-21T08:53:42.318Z"
   },
   {
     "id": "arxiv-2608-08897v1",
@@ -236,8 +254,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.08897v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.08897v1",
-    "relevanceScore": 41.63,
-    "collectedAt": "2026-08-20T08:52:29.048Z"
+    "relevanceScore": 40.63,
+    "collectedAt": "2026-08-21T08:53:42.318Z"
   },
   {
     "id": "arxiv-2608-08395v1",
@@ -257,8 +275,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.08395v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.08395v1",
-    "relevanceScore": 31.63,
-    "collectedAt": "2026-08-20T08:52:29.048Z"
+    "relevanceScore": 30.63,
+    "collectedAt": "2026-08-21T08:53:42.318Z"
   },
   {
     "id": "arxiv-2608-08310v1",
@@ -277,8 +295,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.08310v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.08310v1",
-    "relevanceScore": 46.63,
-    "collectedAt": "2026-08-20T08:52:29.048Z"
+    "relevanceScore": 45.63,
+    "collectedAt": "2026-08-21T08:53:42.318Z"
   },
   {
     "id": "arxiv-2608-06092v1",
@@ -298,8 +316,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.06092v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.06092v1",
-    "relevanceScore": 34.63,
-    "collectedAt": "2026-08-20T08:52:29.048Z"
+    "relevanceScore": 33.63,
+    "collectedAt": "2026-08-21T08:53:42.318Z"
   },
   {
     "id": "arxiv-2608-03230v1",
@@ -320,8 +338,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.03230v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.03230v1",
-    "relevanceScore": 31.63,
-    "collectedAt": "2026-08-20T08:52:29.048Z"
+    "relevanceScore": 30.63,
+    "collectedAt": "2026-08-21T08:53:42.318Z"
   },
   {
     "id": "arxiv-2608-02479v2",
@@ -341,8 +359,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.02479v2",
     "pdfUrl": "https://arxiv.org/pdf/2608.02479v2",
-    "relevanceScore": 41.63,
-    "collectedAt": "2026-08-20T08:52:29.048Z"
+    "relevanceScore": 40.63,
+    "collectedAt": "2026-08-21T08:53:42.318Z"
   },
   {
     "id": "arxiv-2608-01591v1",
@@ -363,8 +381,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.01591v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.01591v1",
-    "relevanceScore": 32.63,
-    "collectedAt": "2026-08-20T08:52:29.048Z"
+    "relevanceScore": 31.63,
+    "collectedAt": "2026-08-21T08:53:42.318Z"
   },
   {
     "id": "arxiv-2607-29420v1",
@@ -384,27 +402,7 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2607.29420v1",
     "pdfUrl": "https://arxiv.org/pdf/2607.29420v1",
-    "relevanceScore": 40.63,
-    "collectedAt": "2026-08-20T08:52:29.048Z"
-  },
-  {
-    "id": "arxiv-2608-00334v1",
-    "title": "Pure-Strategy Equilibrium in the Generalized First-Price Auction",
-    "authors": [
-      "Michael Ostrovsky",
-      "Andrzej Skrzypacz"
-    ],
-    "publicationDate": "2026-07-31",
-    "abstract": "We revisit the classic result on the (non-)existence of pure-strategy Nash equilibria in the Generalized First-Price Auction for sponsored search advertising and show that the conclusion may be reversed when ads are ranked based on the product of stochastic quality scores and bid amounts, rather than solely on the bids or on the product of bids and deterministic quality scores. Moreover, the expected revenue in the pure strategy equilibrium of the Generalized First-Price Auction may substantially exceed that of the Generalized Second-Price Auction, although under some conditions the relation may also be reversed.",
-    "abstractPreview": "We revisit the classic result on the (non-)existence of pure-strategy Nash equilibria in the Generalized First-Price Auction for sponsored search advertising and show that the conclusion may be reversed when ads are ranked based on the product of stochastic quality scores and...",
-    "topics": [
-      "Game Theory",
-      "Auctions"
-    ],
-    "source": "arXiv",
-    "paperUrl": "https://arxiv.org/abs/2608.00334v1",
-    "pdfUrl": "https://arxiv.org/pdf/2608.00334v1",
-    "relevanceScore": 31.63,
-    "collectedAt": "2026-08-20T08:52:29.048Z"
+    "relevanceScore": 39.63,
+    "collectedAt": "2026-08-21T08:53:42.318Z"
   }
 ]
