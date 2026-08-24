@@ -1,5 +1,44 @@
 [
   {
+    "id": "arxiv-2608-20766v1",
+    "title": "Certified Learning and Equilibrium Implementation under Opaque Partial Commitment",
+    "authors": [
+      "Shuyang Zhang",
+      "Xiangtian Li"
+    ],
+    "publicationDate": "2026-08-21",
+    "abstract": "As an extension of existing Bayesian persuasion framework with inadequate message mechanism, we study direct recommendation when a sender is bound by an installed information policy only with probability $ρ$, the realization of binding is hidden, and the receiver does not observe the persistent structural environment. The receiver first sees a payoff-neutral, nonmanipulable calibration sample and then faces a fresh, non-certified deployment interaction. In common, the calibration law identifies only the receiver-facing reduced form, not the latent binding and discretionary kernels. We characterize type-wise $ρ$-implementability, construct the receiver's posterior over the full deployment node, and prove a static direct-following implementation theorem. After every calibration history that passes a posterior-predictive obedience test, the deployment assessment is an exact perfect Bayesian equilibrium: Bayes consistency, receiver sequential rationality, sender sequential rationality, and off-path completion are all verified. Under finite-type separation, common recommendation support, and a positive obedience margin, the test activates such an equilibrium with high probability. Our results keep statistical failure probability distinct from equilibrium approximation. Finally, we embed the original robust value frontier, support-wise linear-programming algorithm, and binary-action fractional-knapsack specialization into this implementation framework",
+    "abstractPreview": "As an extension of existing Bayesian persuasion framework with inadequate message mechanism, we study direct recommendation when a sender is bound by an installed information policy only with probability $ρ$, the realization of binding is hidden, and the receiver does not...",
+    "topics": [
+      "Mechanism Design",
+      "Contract Theory"
+    ],
+    "source": "arXiv",
+    "paperUrl": "https://arxiv.org/abs/2608.20766v1",
+    "pdfUrl": "https://arxiv.org/pdf/2608.20766v1",
+    "relevanceScore": 40.63,
+    "collectedAt": "2026-08-24T08:59:53.165Z"
+  },
+  {
+    "id": "arxiv-2608-20982v1",
+    "title": "Surrender runs",
+    "authors": [
+      "Andreas Löffler",
+      "Stefan Steins"
+    ],
+    "publicationDate": "2026-08-21",
+    "abstract": "Rising interest rates can expose life insurers to surrender risk by reducing the market value of their assets and raising policyholders' outside returns. This paper develops a minimal model of an insurance-specific run mechanism in which strategic interaction arises because early surrenders can deplete the asset pool backing continuation values. We analyze a strategic surrender game in which a run is an equilibrium outcome determined jointly by asset values, contractual surrender claims, and payoff-dependent continuation benefits. The model yields closed-form interest-rate thresholds for fundamentals-driven and self-fulfilling runs. Thinner capitalization weakly lowers the joint-surrender cutoff. Continuation benefits raise surrender thresholds but can also create strategic complementarity.",
+    "abstractPreview": "Rising interest rates can expose life insurers to surrender risk by reducing the market value of their assets and raising policyholders' outside returns. This paper develops a minimal model of an insurance-specific run mechanism in which strategic interaction arises because...",
+    "topics": [
+      "Game Theory"
+    ],
+    "source": "arXiv",
+    "paperUrl": "https://arxiv.org/abs/2608.20982v1",
+    "pdfUrl": "https://arxiv.org/pdf/2608.20982v1",
+    "relevanceScore": 32.63,
+    "collectedAt": "2026-08-24T08:59:53.165Z"
+  },
+  {
     "id": "arxiv-2608-19846v1",
     "title": "Random Cap: Optimal Informationally Robust Delegation",
     "authors": [
@@ -14,8 +53,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.19846v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.19846v1",
-    "relevanceScore": 32.64,
-    "collectedAt": "2026-08-23T08:44:52.523Z"
+    "relevanceScore": 31.63,
+    "collectedAt": "2026-08-24T08:59:53.165Z"
   },
   {
     "id": "arxiv-2608-20074v1",
@@ -34,8 +73,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.20074v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.20074v1",
-    "relevanceScore": 28.64,
-    "collectedAt": "2026-08-23T08:44:52.523Z"
+    "relevanceScore": 27.63,
+    "collectedAt": "2026-08-24T08:59:53.165Z"
   },
   {
     "id": "arxiv-2608-18739v1",
@@ -53,8 +92,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.18739v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.18739v1",
-    "relevanceScore": 34.64,
-    "collectedAt": "2026-08-23T08:44:52.523Z"
+    "relevanceScore": 33.63,
+    "collectedAt": "2026-08-24T08:59:53.165Z"
   },
   {
     "id": "arxiv-2608-18381v1",
@@ -71,8 +110,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.18381v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.18381v1",
-    "relevanceScore": 46.64,
-    "collectedAt": "2026-08-23T08:44:52.523Z"
+    "relevanceScore": 45.63,
+    "collectedAt": "2026-08-24T08:59:53.165Z"
   },
   {
     "id": "arxiv-2608-17766v1",
@@ -89,8 +128,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.17766v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.17766v1",
-    "relevanceScore": 33.64,
-    "collectedAt": "2026-08-23T08:44:52.523Z"
+    "relevanceScore": 32.63,
+    "collectedAt": "2026-08-24T08:59:53.165Z"
   },
   {
     "id": "arxiv-2608-17273v1",
@@ -108,8 +147,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.17273v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.17273v1",
-    "relevanceScore": 32.64,
-    "collectedAt": "2026-08-23T08:44:52.523Z"
+    "relevanceScore": 31.63,
+    "collectedAt": "2026-08-24T08:59:53.165Z"
   },
   {
     "id": "arxiv-2608-18265v1",
@@ -131,8 +170,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.18265v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.18265v1",
-    "relevanceScore": 30.64,
-    "collectedAt": "2026-08-23T08:44:52.523Z"
+    "relevanceScore": 29.63,
+    "collectedAt": "2026-08-24T08:59:53.165Z"
   },
   {
     "id": "arxiv-2608-17446v1",
@@ -151,8 +190,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.17446v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.17446v1",
-    "relevanceScore": 28.64,
-    "collectedAt": "2026-08-23T08:44:52.523Z"
+    "relevanceScore": 27.63,
+    "collectedAt": "2026-08-24T08:59:53.165Z"
   },
   {
     "id": "arxiv-2608-15631v1",
@@ -177,8 +216,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.15631v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.15631v1",
-    "relevanceScore": 43.64,
-    "collectedAt": "2026-08-23T08:44:52.523Z"
+    "relevanceScore": 42.63,
+    "collectedAt": "2026-08-24T08:59:53.165Z"
   },
   {
     "id": "arxiv-2608-14464v2",
@@ -195,8 +234,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.14464v2",
     "pdfUrl": "https://arxiv.org/pdf/2608.14464v2",
-    "relevanceScore": 35.64,
-    "collectedAt": "2026-08-23T08:44:52.523Z"
+    "relevanceScore": 34.63,
+    "collectedAt": "2026-08-24T08:59:53.165Z"
   },
   {
     "id": "arxiv-2608-12818v3",
@@ -215,8 +254,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.12818v3",
     "pdfUrl": "https://arxiv.org/pdf/2608.12818v3",
-    "relevanceScore": 31.64,
-    "collectedAt": "2026-08-23T08:44:52.523Z"
+    "relevanceScore": 30.63,
+    "collectedAt": "2026-08-24T08:59:53.165Z"
   },
   {
     "id": "arxiv-2608-11682v1",
@@ -235,8 +274,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.11682v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.11682v1",
-    "relevanceScore": 34.64,
-    "collectedAt": "2026-08-23T08:44:52.523Z"
+    "relevanceScore": 33.63,
+    "collectedAt": "2026-08-24T08:59:53.165Z"
   },
   {
     "id": "arxiv-2608-08897v1",
@@ -254,29 +293,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.08897v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.08897v1",
-    "relevanceScore": 38.64,
-    "collectedAt": "2026-08-23T08:44:52.523Z"
-  },
-  {
-    "id": "arxiv-2608-08395v1",
-    "title": "From Product Search to Preference Articulation: The Economics of Agentic Commerce",
-    "authors": [
-      "Lingxiu Dong",
-      "Kaiwen Luo",
-      "Fasheng Xu"
-    ],
-    "publicationDate": "2026-08-09",
-    "abstract": "Generative AI is shifting digital commerce from browsing toward agentic search, in which consumers delegate product discovery to AI agents. We compare manual search, which accurately evaluates a limited product set, with agentic search, which screens a broad catalog through noisy representations of preferences and products. Preference complexity is the number of satisfaction-relevant dimensions that are difficult to articulate before search but readily evaluated upon inspection. Consumers have finite attention and choose search intensity: products inspected manually or preference-refinement depth with an agent. We obtain three findings. First, manual search collapses beyond a finite complexity threshold: inspection ceases, mismatch reaches the no-search benchmark, and platform revenue falls to zero. Agentic search avoids this collapse. Once refinement becomes worthwhile, it remains worthwhile as complexity rises; mismatch stays below the no-search benchmark and revenue remains positive, although articulation effort and mismatch may increase. Second, platforms rank the regimes by conversion revenue, whereas consumers also bear search expenditure. When manual inspection is sufficiently inexpensive, agentic search becomes revenue-superior before consumers voluntarily adopt it, creating an adoption lag in which consumers rationally continue manual search. Third, conditional on agentic participation, platforms may assign lower fidelity to consumers with larger attention budgets because they can offset noisier representations through additional refinement, yielding an inverted fidelity allocation. Agentic commerce thus shifts scarcity from product inspection to preference articulation, making consumers' willingness and ability to interact central to voluntary use and platform fidelity design.",
-    "abstractPreview": "Generative AI is shifting digital commerce from browsing toward agentic search, in which consumers delegate product discovery to AI agents. We compare manual search, which accurately evaluates a limited product set, with agentic search, which screens a broad catalog through...",
-    "topics": [
-      "Decision Theory",
-      "Market Design"
-    ],
-    "source": "arXiv",
-    "paperUrl": "https://arxiv.org/abs/2608.08395v1",
-    "pdfUrl": "https://arxiv.org/pdf/2608.08395v1",
-    "relevanceScore": 28.64,
-    "collectedAt": "2026-08-23T08:44:52.523Z"
+    "relevanceScore": 37.63,
+    "collectedAt": "2026-08-24T08:59:53.165Z"
   },
   {
     "id": "arxiv-2608-08310v1",
@@ -295,8 +313,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.08310v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.08310v1",
-    "relevanceScore": 43.64,
-    "collectedAt": "2026-08-23T08:44:52.523Z"
+    "relevanceScore": 42.63,
+    "collectedAt": "2026-08-24T08:59:53.165Z"
   },
   {
     "id": "arxiv-2608-06092v1",
@@ -316,30 +334,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.06092v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.06092v1",
-    "relevanceScore": 31.64,
-    "collectedAt": "2026-08-23T08:44:52.523Z"
-  },
-  {
-    "id": "arxiv-2608-03230v1",
-    "title": "Stable Matching with Payoff Guarantees",
-    "authors": [
-      "Mohsen Pourpouneh",
-      "Rasoul Ramezanian",
-      "Arunava Sen",
-      "Vilok Taori"
-    ],
-    "publicationDate": "2026-08-04",
-    "abstract": "We consider a variant of the Assignment Game of Shapley and Shubik (1971), where agents do not observe the assignment or the surplus division of other matched pairs. We propose a set-valued solution concept (Self-Stabilizing Set) and characterize the largest such set. This leads to the formulation of the Stable Payoff Guarantee (SPG) set, which assumes that agents receive at least their payoff guarantees and that this is common knowledge. Our main result is that, for generic surplus matrices, the SPG set consists only of the efficient assignment. The associated payoff vectors are given by the smallest interval that contains the worker-optimal and firm-optimal stable payoffs.",
-    "abstractPreview": "We consider a variant of the Assignment Game of Shapley and Shubik (1971), where agents do not observe the assignment or the surplus division of other matched pairs. We propose a set-valued solution concept (Self-Stabilizing Set) and characterize the largest such set. This leads...",
-    "topics": [
-      "Matching",
-      "Social Choice"
-    ],
-    "source": "arXiv",
-    "paperUrl": "https://arxiv.org/abs/2608.03230v1",
-    "pdfUrl": "https://arxiv.org/pdf/2608.03230v1",
-    "relevanceScore": 28.64,
-    "collectedAt": "2026-08-23T08:44:52.523Z"
+    "relevanceScore": 30.63,
+    "collectedAt": "2026-08-24T08:59:53.165Z"
   },
   {
     "id": "arxiv-2608-02479v2",
@@ -359,8 +355,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.02479v2",
     "pdfUrl": "https://arxiv.org/pdf/2608.02479v2",
-    "relevanceScore": 38.64,
-    "collectedAt": "2026-08-23T08:44:52.523Z"
+    "relevanceScore": 37.63,
+    "collectedAt": "2026-08-24T08:59:53.165Z"
   },
   {
     "id": "arxiv-2608-01591v1",
@@ -381,8 +377,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.01591v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.01591v1",
-    "relevanceScore": 29.64,
-    "collectedAt": "2026-08-23T08:44:52.523Z"
+    "relevanceScore": 28.63,
+    "collectedAt": "2026-08-24T08:59:53.165Z"
   },
   {
     "id": "arxiv-2607-29420v1",
@@ -402,7 +398,7 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2607.29420v1",
     "pdfUrl": "https://arxiv.org/pdf/2607.29420v1",
-    "relevanceScore": 37.64,
-    "collectedAt": "2026-08-23T08:44:52.523Z"
+    "relevanceScore": 36.63,
+    "collectedAt": "2026-08-24T08:59:53.165Z"
   }
 ]
