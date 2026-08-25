@@ -1,5 +1,42 @@
 [
   {
+    "id": "arxiv-2608-23407v1",
+    "title": "Optimal Grading: A Unified Approach",
+    "authors": [
+      "Bin Liu",
+      "Jingfeng Lu"
+    ],
+    "publicationDate": "2026-08-24",
+    "abstract": "We develop a unified approach to optimal grading in an all-pay contest in which a designer assigns a fixed vector of heterogeneous prizes to maximize expected total effort. The approach covers two information regimes and identifies a common principle: iron locally misordered incentive returns and assign prizes assortatively across the resulting grades. Under rank-only grading, assignments depend only on ordinal ranks. Ironing cumulative rank coefficients---via the least concave majorant or the pool-adjacent-violators algorithm---determines which adjacent ranks are pooled and which prizes are randomized within each grade. Under performance-contingent grading, assignments may depend on numerical effort. The optimum irons virtual ability, forms endogenous type grades, and assigns prize blocks assortatively across grades. A failing grade below a minimum passing effort and a collection of effort brackets implement the direct optimum while preserving full prize assignment.",
+    "abstractPreview": "We develop a unified approach to optimal grading in an all-pay contest in which a designer assigns a fixed vector of heterogeneous prizes to maximize expected total effort. The approach covers two information regimes and identifies a common principle: iron locally misordered...",
+    "topics": [
+      "Matching"
+    ],
+    "source": "arXiv",
+    "paperUrl": "https://arxiv.org/abs/2608.23407v1",
+    "pdfUrl": "https://arxiv.org/pdf/2608.23407v1",
+    "relevanceScore": 30.63,
+    "collectedAt": "2026-08-25T08:55:30.425Z"
+  },
+  {
+    "id": "arxiv-2608-22371v1",
+    "title": "On Deterministic Optimal Mechanisms in a Two-Item Setting for Distributions with Nondecreasing Density",
+    "authors": [
+      "Thirumulanathan D"
+    ],
+    "publicationDate": "2026-08-23",
+    "abstract": "Consider the problem of designing a revenue-optimal auction mechanism when two heterogeneous items are sold to a single buyer having independent valuations over the items. The distributions of the buyer's valuation for the items are assumed to have densities that are positive, nondecreasing, and continuously differentiable on their support sets $[c_i,c_i+b_i]$ in the positive axis. I prove that the optimal mechanism is deterministic if at least one of the minimum valuations (i.e., either $c_1$ or $c_2$) is sufficiently high. I provide a method to calculate the threshold of $(c_1,c_2)$ beyond which the optimal mechanism is deterministic. I also provide a sufficient condition on the distributions of buyer's valuations for which the individual sale mechanism is optimal. I show that when $c_1$ is low and $c_2$ is high, it is optimal for the seller to sell item $2$ at the minimum valuation $c_2$, thus effectively reducing the problem to finding the optimal mechanism in the one-dimensional setting only for item $1$. I conjecture with promising preliminary results that this result can be extended to the three-item setting. Specifically, I conjecture that when $c_1$ and $c_2$ are low but $c_3$ is high, it is optimal for the seller to sell item $3$ at the minimum valuation $c_3$, thus effectively reducing the problem to finding the optimal mechanism in the two-dimensional setting for items $1$ and $2$.",
+    "abstractPreview": "Consider the problem of designing a revenue-optimal auction mechanism when two heterogeneous items are sold to a single buyer having independent valuations over the items. The distributions of the buyer's valuation for the items are assumed to have densities that are positive,...",
+    "topics": [
+      "Auctions"
+    ],
+    "source": "arXiv",
+    "paperUrl": "https://arxiv.org/abs/2608.22371v1",
+    "pdfUrl": "https://arxiv.org/pdf/2608.22371v1",
+    "relevanceScore": 29.63,
+    "collectedAt": "2026-08-25T08:55:30.425Z"
+  },
+  {
     "id": "arxiv-2608-20766v1",
     "title": "Certified Learning and Equilibrium Implementation under Opaque Partial Commitment",
     "authors": [
@@ -16,8 +53,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.20766v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.20766v1",
-    "relevanceScore": 40.63,
-    "collectedAt": "2026-08-24T08:59:53.165Z"
+    "relevanceScore": 39.63,
+    "collectedAt": "2026-08-25T08:55:30.425Z"
   },
   {
     "id": "arxiv-2608-20982v1",
@@ -35,46 +72,26 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.20982v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.20982v1",
-    "relevanceScore": 32.63,
-    "collectedAt": "2026-08-24T08:59:53.165Z"
+    "relevanceScore": 31.63,
+    "collectedAt": "2026-08-25T08:55:30.425Z"
   },
   {
-    "id": "arxiv-2608-19846v1",
+    "id": "arxiv-2608-19846v2",
     "title": "Random Cap: Optimal Informationally Robust Delegation",
     "authors": [
       "Zhiyuan Jia"
     ],
     "publicationDate": "2026-08-20",
-    "abstract": "Are simple delegation rules optimal under ambiguity? We study delegation when the principal knows the mean, but not the distribution, of the agent's private information. In a quadratic constant-bias environment, the robustly optimal randomized mechanism is a random cap: the principal draws and reveals an upper bound below which the agent chooses freely. Randomization strictly outperforms every deterministic cap by hedging against cap-specific worst-case distributions. We characterize random caps through nondecreasing and concave expected-action rules and construct the solution using a saddle-point approach. The worst-case distribution features an exponential survival function over its continuous region and an atom at the upper endpoint. Under regularity conditions, the result extends to convex-order ambiguity. When the mean is below the agent's bias, the optimal mechanism additionally requires an incentive-neutral outcome lottery.",
-    "abstractPreview": "Are simple delegation rules optimal under ambiguity? We study delegation when the principal knows the mean, but not the distribution, of the agent's private information. In a quadratic constant-bias environment, the robustly optimal randomized mechanism is a random cap: the...",
+    "abstract": "Are simple delegation rules optimal under ambiguity? We study delegation when the principal knows the mean, but not the distribution, of the agent's private information. In a parsimonious quadratic constant-bias environment, the robustly optimal randomized mechanism is a random cap: the principal draws and reveals an upper bound, below which the agent chooses freely. Randomization strictly outperforms every deterministic cap by hedging against cap-specific worst-case distributions. We characterize random caps through a nondecreasing and concave expected-action rule and construct the solution using a saddle-point approach. The worst-case distribution features an exponential survival function over its continuous region and an atom at the upper endpoint. Under regularity conditions, the result extends to convex-order ambiguity. Moreover, when the mean is below the agent's bias, an optimum can be implemented by supplementing the random cap with an incentive-neutral outcome lottery, while pure random caps are strictly suboptimal.",
+    "abstractPreview": "Are simple delegation rules optimal under ambiguity? We study delegation when the principal knows the mean, but not the distribution, of the agent's private information. In a parsimonious quadratic constant-bias environment, the robustly optimal randomized mechanism is a random...",
     "topics": [
       "Decision Theory"
     ],
     "source": "arXiv",
-    "paperUrl": "https://arxiv.org/abs/2608.19846v1",
-    "pdfUrl": "https://arxiv.org/pdf/2608.19846v1",
-    "relevanceScore": 31.63,
-    "collectedAt": "2026-08-24T08:59:53.165Z"
-  },
-  {
-    "id": "arxiv-2608-20074v1",
-    "title": "Characterizations of continuous adequate objective functions for ordinal or interval scaled data",
-    "authors": [
-      "Gianni Bosi",
-      "Gabriele Sbaiz",
-      "Magalì Zuanon"
-    ],
-    "publicationDate": "2026-08-20",
-    "abstract": "Objective functions (goodness criteria which have to be optimized) that are considered, for instance, in cluster analysis, factor analysis, (linear) structural equation modeling, (linear) regression, multidimensional scaling, choice theory, and utility theory, must be {\\em adequate}, i.e. carefully adapted to the structure of the observed data. Adequateness of an objective function means, in our terminology, that (certain) transformations of its arguments, e.g. changes in the unit measures of the quantities involved, do not influence the solutions of the optimization procedure. In this paper we concentrate our attention on affine strictly increasing transformations and we also incorporate the case of continuous adequate objective functions accordingly. The characterization of adequate dissimilarity coefficients for interval scaled data shows the appropriateness of the concept of adequateness that is developed in this paper.",
-    "abstractPreview": "Objective functions (goodness criteria which have to be optimized) that are considered, for instance, in cluster analysis, factor analysis, (linear) structural equation modeling, (linear) regression, multidimensional scaling, choice theory, and utility theory, must be {\\em...",
-    "topics": [
-      "Decision Theory"
-    ],
-    "source": "arXiv",
-    "paperUrl": "https://arxiv.org/abs/2608.20074v1",
-    "pdfUrl": "https://arxiv.org/pdf/2608.20074v1",
-    "relevanceScore": 27.63,
-    "collectedAt": "2026-08-24T08:59:53.165Z"
+    "paperUrl": "https://arxiv.org/abs/2608.19846v2",
+    "pdfUrl": "https://arxiv.org/pdf/2608.19846v2",
+    "relevanceScore": 30.63,
+    "collectedAt": "2026-08-25T08:55:30.425Z"
   },
   {
     "id": "arxiv-2608-18739v1",
@@ -92,8 +109,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.18739v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.18739v1",
-    "relevanceScore": 33.63,
-    "collectedAt": "2026-08-24T08:59:53.165Z"
+    "relevanceScore": 32.63,
+    "collectedAt": "2026-08-25T08:55:30.425Z"
   },
   {
     "id": "arxiv-2608-18381v1",
@@ -110,26 +127,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.18381v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.18381v1",
-    "relevanceScore": 45.63,
-    "collectedAt": "2026-08-24T08:59:53.165Z"
-  },
-  {
-    "id": "arxiv-2608-17766v1",
-    "title": "Does the grand coalition form? Persistence, arrival, and the role of the sharing rule in a dynamic process of nested binding agreements",
-    "authors": [
-      "Jobst Heitzig"
-    ],
-    "publicationDate": "2026-08-18",
-    "abstract": "We study a dynamic coalition-formation process in the tradition of Konishi and Ray (2003): players repeatedly form and dissolve binding agreements, evaluate states by discounted long-term expected payoffs, and hold self-confirming beliefs about the process. States and payoff sharing follow Heitzig and Kornek (2018): a state is a hierarchy of nested agreements; agreements are formed by merging existing top-level coalitions, and are terminated together with all agreements containing them; and the members of a new agreement share the surplus it generates, measured against the state without that agreement. All payoff assumptions are structural. We prove that every grand state ever reached is absorbing, and that every absorbing state is grand, for every discount factor. A grand state is actually reached, almost surely, in three cases: small discount factors; three players; and, for any number of players and all discount factors, whenever every player prefers every grand state to every non-grand state in static payoffs, as when distributional stakes are smaller than each player's share of the efficiency gain. Otherwise the process can fail only by cycling for ever among non-grand states. We give exact necessary conditions on such a cycle, and show that for a fixed candidate cycle they reduce to a finite system of linear inequalities in the static payoffs, so the question is decidable. Solving it yields a counterexample: with four players and discount factor one half, under either termination rule, there is an equilibrium that cycles for ever, so the grand coalition need not form. The example survives a far-sighted variant of the sharing rule under which merging raises every player's discounted long-term payoff, not only the static one; there the merge is blocked purely by a better move available to a subgroup. Whether arrival can fail as the discount factor tends to one remains open.",
-    "abstractPreview": "We study a dynamic coalition-formation process in the tradition of Konishi and Ray (2003): players repeatedly form and dissolve binding agreements, evaluate states by discounted long-term expected payoffs, and hold self-confirming beliefs about the process. States and payoff...",
-    "topics": [
-      "Social Choice"
-    ],
-    "source": "arXiv",
-    "paperUrl": "https://arxiv.org/abs/2608.17766v1",
-    "pdfUrl": "https://arxiv.org/pdf/2608.17766v1",
-    "relevanceScore": 32.63,
-    "collectedAt": "2026-08-24T08:59:53.165Z"
+    "relevanceScore": 44.63,
+    "collectedAt": "2026-08-25T08:55:30.425Z"
   },
   {
     "id": "arxiv-2608-17273v1",
@@ -147,8 +146,26 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.17273v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.17273v1",
-    "relevanceScore": 31.63,
-    "collectedAt": "2026-08-24T08:59:53.165Z"
+    "relevanceScore": 30.63,
+    "collectedAt": "2026-08-25T08:55:30.425Z"
+  },
+  {
+    "id": "arxiv-2608-17766v2",
+    "title": "Does the grand coalition form? Persistence, arrival, and the role of the sharing rule in a dynamic process of nested binding agreements",
+    "authors": [
+      "Jobst Heitzig"
+    ],
+    "publicationDate": "2026-08-18",
+    "abstract": "We study a dynamic coalition-formation process in the tradition of Konishi and Ray (2003): players repeatedly form and dissolve binding agreements, evaluate states by discounted long-term expected payoffs, and hold self-confirming beliefs about the process. States and payoff sharing follow Heitzig and Kornek (2018): a state is a hierarchy of nested agreements, and the members of a new agreement share the surplus it generates, measured against the state without that agreement. All payoff assumptions are structural. We prove that every grand state ever reached is absorbing, and that every absorbing state is grand, for every discount factor. A grand state is actually reached, almost surely, for small discount factors, for three players, and, at every discount factor, whenever distributional stakes are smaller than each player s share of the efficiency gain. Otherwise the process can fail only by cycling for ever among non-grand states. We give exact necessary conditions on such a cycle, decidable for a fixed candidate cycle by linear programming, and exhibit, under an earlier and weaker notion of profitability, a four-player payoff structure whose only closed class is a cycle of two pairs forming and dissolving alternately. Under the present definition, and under either termination rule, no equilibrium traverses a cycle on a fixed schedule: somebody always reaches a state they would rather not leave, and the axioms give them the floor. Whether arrival can fail by cycling at random is open. The axioms are not merely postulated: we exhibit a bargaining game proposal, amendment by substitutes voted on by their own signatories, final unanimity, and an arbitrarily small delay on failure whose equilibria satisfy them as the delay vanishes, and which settles each period in its first round.",
+    "abstractPreview": "We study a dynamic coalition-formation process in the tradition of Konishi and Ray (2003): players repeatedly form and dissolve binding agreements, evaluate states by discounted long-term expected payoffs, and hold self-confirming beliefs about the process. States and payoff...",
+    "topics": [
+      "Social Choice"
+    ],
+    "source": "arXiv",
+    "paperUrl": "https://arxiv.org/abs/2608.17766v2",
+    "pdfUrl": "https://arxiv.org/pdf/2608.17766v2",
+    "relevanceScore": 29.63,
+    "collectedAt": "2026-08-25T08:55:30.425Z"
   },
   {
     "id": "arxiv-2608-18265v1",
@@ -170,28 +187,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.18265v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.18265v1",
-    "relevanceScore": 29.63,
-    "collectedAt": "2026-08-24T08:59:53.165Z"
-  },
-  {
-    "id": "arxiv-2608-17446v1",
-    "title": "Searchable Menus",
-    "authors": [
-      "Frank Yang",
-      "Piotr Dworczak"
-    ],
-    "publicationDate": "2026-08-18",
-    "abstract": "Multidimensional screening is (in)famously intractable. In this paper, we study optimal screening mechanisms subject to a tractability constraint from the agent's perspective. Specifically, we require that the menu of options offered by the designer can be ordered so that, regardless of her preference type, the agent can find a utility-maximizing option via greedy search: any locally optimal choice must also be globally optimal. In one-dimensional screening with the single-crossing property, this requirement has no bite. In multidimensional environments, however, searchability restricts the set of implementable outcomes. In the multiproduct monopoly problem, the optimal searchable menu is a sparse upgrade menu: higher tiers offer higher allocation probabilities for every good, and the number of tiers is at most the number of goods. In a multidimensional screening problem with money and ordeals, the optimal searchable menu offers the agent a single way to obtain the good. In income taxation with rich multidimensional heterogeneity, a tax schedule is searchable if and only if it is progressive.",
-    "abstractPreview": "Multidimensional screening is (in)famously intractable. In this paper, we study optimal screening mechanisms subject to a tractability constraint from the agent's perspective. Specifically, we require that the menu of options offered by the designer can be ordered so that,...",
-    "topics": [
-      "Decision Theory",
-      "Market Design"
-    ],
-    "source": "arXiv",
-    "paperUrl": "https://arxiv.org/abs/2608.17446v1",
-    "pdfUrl": "https://arxiv.org/pdf/2608.17446v1",
-    "relevanceScore": 27.63,
-    "collectedAt": "2026-08-24T08:59:53.165Z"
+    "relevanceScore": 28.63,
+    "collectedAt": "2026-08-25T08:55:30.425Z"
   },
   {
     "id": "arxiv-2608-15631v1",
@@ -216,8 +213,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.15631v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.15631v1",
-    "relevanceScore": 42.63,
-    "collectedAt": "2026-08-24T08:59:53.165Z"
+    "relevanceScore": 41.63,
+    "collectedAt": "2026-08-25T08:55:30.425Z"
   },
   {
     "id": "arxiv-2608-14464v2",
@@ -234,8 +231,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.14464v2",
     "pdfUrl": "https://arxiv.org/pdf/2608.14464v2",
-    "relevanceScore": 34.63,
-    "collectedAt": "2026-08-24T08:59:53.165Z"
+    "relevanceScore": 33.63,
+    "collectedAt": "2026-08-25T08:55:30.425Z"
   },
   {
     "id": "arxiv-2608-12818v3",
@@ -254,8 +251,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.12818v3",
     "pdfUrl": "https://arxiv.org/pdf/2608.12818v3",
-    "relevanceScore": 30.63,
-    "collectedAt": "2026-08-24T08:59:53.165Z"
+    "relevanceScore": 29.63,
+    "collectedAt": "2026-08-25T08:55:30.425Z"
   },
   {
     "id": "arxiv-2608-11682v1",
@@ -274,8 +271,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.11682v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.11682v1",
-    "relevanceScore": 33.63,
-    "collectedAt": "2026-08-24T08:59:53.165Z"
+    "relevanceScore": 32.63,
+    "collectedAt": "2026-08-25T08:55:30.425Z"
   },
   {
     "id": "arxiv-2608-08897v1",
@@ -293,8 +290,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.08897v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.08897v1",
-    "relevanceScore": 37.63,
-    "collectedAt": "2026-08-24T08:59:53.165Z"
+    "relevanceScore": 36.63,
+    "collectedAt": "2026-08-25T08:55:30.425Z"
   },
   {
     "id": "arxiv-2608-08310v1",
@@ -313,8 +310,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.08310v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.08310v1",
-    "relevanceScore": 42.63,
-    "collectedAt": "2026-08-24T08:59:53.165Z"
+    "relevanceScore": 41.63,
+    "collectedAt": "2026-08-25T08:55:30.425Z"
   },
   {
     "id": "arxiv-2608-06092v1",
@@ -334,8 +331,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.06092v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.06092v1",
-    "relevanceScore": 30.63,
-    "collectedAt": "2026-08-24T08:59:53.165Z"
+    "relevanceScore": 29.63,
+    "collectedAt": "2026-08-25T08:55:30.425Z"
   },
   {
     "id": "arxiv-2608-02479v2",
@@ -355,8 +352,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.02479v2",
     "pdfUrl": "https://arxiv.org/pdf/2608.02479v2",
-    "relevanceScore": 37.63,
-    "collectedAt": "2026-08-24T08:59:53.165Z"
+    "relevanceScore": 36.63,
+    "collectedAt": "2026-08-25T08:55:30.425Z"
   },
   {
     "id": "arxiv-2608-01591v1",
@@ -377,8 +374,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.01591v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.01591v1",
-    "relevanceScore": 28.63,
-    "collectedAt": "2026-08-24T08:59:53.165Z"
+    "relevanceScore": 27.63,
+    "collectedAt": "2026-08-25T08:55:30.425Z"
   },
   {
     "id": "arxiv-2607-29420v1",
@@ -398,7 +395,7 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2607.29420v1",
     "pdfUrl": "https://arxiv.org/pdf/2607.29420v1",
-    "relevanceScore": 36.63,
-    "collectedAt": "2026-08-24T08:59:53.165Z"
+    "relevanceScore": 35.63,
+    "collectedAt": "2026-08-25T08:55:30.425Z"
   }
 ]
