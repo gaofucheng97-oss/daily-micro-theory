@@ -1,5 +1,86 @@
 [
   {
+    "id": "arxiv-2608-24560v1",
+    "title": "Contagious Ambiguity",
+    "authors": [
+      "Mira Frick",
+      "Ryota Iijima",
+      "Daisuke Oyama"
+    ],
+    "publicationDate": "2026-08-25",
+    "abstract": "We study the strategic impact of ambiguity through the channel of higher-order beliefs. We show that even small amounts of prior ambiguity about game payoffs can generate arbitrarily large amounts of higher-order ambiguity. This gives rise to a novel form of contagion: vanishingly small payoff ambiguity can select ``secure'' actions (e.g., non-participation) as the unique equilibrium outcome even when those actions are almost dominated. We highlight two main implications. First, classical robustness results under probabilistic uncertainty break down under ambiguity when players can deviate to secure actions. Second, if a designer can introduce small amounts of payoff ambiguity into a game, this can serve as a powerful tool for unique implementation.",
+    "abstractPreview": "We study the strategic impact of ambiguity through the channel of higher-order beliefs. We show that even small amounts of prior ambiguity about game payoffs can generate arbitrarily large amounts of higher-order ambiguity. This gives rise to a novel form of contagion:...",
+    "topics": [
+      "Game Theory",
+      "Mechanism Design",
+      "Decision Theory"
+    ],
+    "source": "arXiv",
+    "paperUrl": "https://arxiv.org/abs/2608.24560v1",
+    "pdfUrl": "https://arxiv.org/pdf/2608.24560v1",
+    "relevanceScore": 49.63,
+    "collectedAt": "2026-08-26T08:58:08.903Z"
+  },
+  {
+    "id": "arxiv-2608-24774v1",
+    "title": "The Paradox of Strategic Altruism",
+    "authors": [
+      "Foivos Savva",
+      "Michele Lombardi",
+      "Ritesh Jain"
+    ],
+    "publicationDate": "2026-08-25",
+    "abstract": "Can altruism serve as the behavioral foundation for efficient institutional design? We study full implementation in Berge equilibrium, the solution concept that formalizes strategic altruism: each agent's opponents collectively maximize her payoff. While Berge equilibrium resolves the Prisoner's Dilemma and can eliminate cooperation failures in social dilemmas, we show that this optimism does not survive the move from individual behavior to institutional design. First, we show that the weak Pareto optimal rule is not implementable in Berge equilibrium. Second, on the unrestricted domain of strict preferences, any social choice rule that is both weakly Pareto efficient and implementable in Berge equilibrium must be dictatorial. Finally, we show that Berge implementability is strictly more demanding than Nash implementability: every social goal achievable under strategic altruism is also achievable under self-interest, but not vice versa. The very feature that makes Berge equilibrium appealing at the behavioral level, that is, opponents protecting each agent's payoff, is precisely what forecloses efficient, non-dictatorial institutions at the design level.",
+    "abstractPreview": "Can altruism serve as the behavioral foundation for efficient institutional design? We study full implementation in Berge equilibrium, the solution concept that formalizes strategic altruism: each agent's opponents collectively maximize her payoff. While Berge equilibrium...",
+    "topics": [
+      "Game Theory",
+      "Mechanism Design",
+      "Social Choice"
+    ],
+    "source": "arXiv",
+    "paperUrl": "https://arxiv.org/abs/2608.24774v1",
+    "pdfUrl": "https://arxiv.org/pdf/2608.24774v1",
+    "relevanceScore": 47.63,
+    "collectedAt": "2026-08-26T08:58:08.903Z"
+  },
+  {
+    "id": "arxiv-2608-24600v1",
+    "title": "Fair Allocation with Optional Selling",
+    "authors": [
+      "Uriel Feige",
+      "Yotam Gafni"
+    ],
+    "publicationDate": "2026-08-25",
+    "abstract": "We consider fair allocation of indivisible goods in a setting in which agents have subjective valuation functions over the set of goods, and in addition, goods may be sold at given market prices. In this setting, a fair allocation involves {deciding which goods to sell, how to allocate the unsold goods, and how to divide the money received from the sold goods.} We adapt to this setting the definitions of share-based fairness notions, such as the maximin share (MMS) and the truncated proportional share (TPS), and comparison-based fairness notions such as EF1 and EFX (which we adapt to SEF1 and SEFX). We show the following results when the utility of each agent is additive both over goods and over money. With two agents, there are allocations that are simultaneously MMS and SEFX. With three agents, there are instances in which no allocation gives every agent more than $\\frac{11}{12}$-MMS. With any number of agents, there are $\\frac{2}{3}$-MMS allocations. There also are allocations that are simultaneously SEFX and $\\frac{n}{2n-1}$-TPS. This latter ratio is best possible, even without the SEFX requirement.",
+    "abstractPreview": "We consider fair allocation of indivisible goods in a setting in which agents have subjective valuation functions over the set of goods, and in addition, goods may be sold at given market prices. In this setting, a fair allocation involves {deciding which goods to sell, how to...",
+    "topics": [
+      "Market Design"
+    ],
+    "source": "arXiv",
+    "paperUrl": "https://arxiv.org/abs/2608.24600v1",
+    "pdfUrl": "https://arxiv.org/pdf/2608.24600v1",
+    "relevanceScore": 39.63,
+    "collectedAt": "2026-08-26T08:58:08.903Z"
+  },
+  {
+    "id": "arxiv-2608-23781v1",
+    "title": "Directional Revision under Two-Horizon Deliberation: A Revealed-Preference Analysis",
+    "authors": [
+      "Sinan Ertemel"
+    ],
+    "publicationDate": "2026-08-24",
+    "abstract": "We study deterministic choice when the same decision maker is observed before and after a deliberative intervention that makes one of two fixed ordinal consequence dimensions more salient. Both choice modes are path independent. Ordinary choice respects two-dimensional dominance, while any binary reversal under fuller deliberation must favor the alternative that is strictly better on the emphasized dimension. We characterize exactly the admissible ordinary and full-horizon rankings. The characterization yields a protected partial order, sharp pairwise and menu-level identification, a signed restriction on menu-level choice changes, and an acyclicity test for incomplete observations. With an ordered sequence of deliberative modes, choices from any fixed menu form a monotone tradeoff path: every switch improves the emphasized dimension, worsens the other dimension, and an abandoned alternative cannot reappear. When the emphasized consequence order is strict, the admissible rankings have an equivalent Kemeny-Kendall representation. The framework is ordinal: it requires neither a cardinal tradeoff nor lexicographic priority, and it applies whenever deliberation gives greater emphasis to one of two fixed consequence dimensions.",
+    "abstractPreview": "We study deterministic choice when the same decision maker is observed before and after a deliberative intervention that makes one of two fixed ordinal consequence dimensions more salient. Both choice modes are path independent. Ordinary choice respects two-dimensional...",
+    "topics": [
+      "Decision Theory"
+    ],
+    "source": "arXiv",
+    "paperUrl": "https://arxiv.org/abs/2608.23781v1",
+    "pdfUrl": "https://arxiv.org/pdf/2608.23781v1",
+    "relevanceScore": 32.63,
+    "collectedAt": "2026-08-26T08:58:08.903Z"
+  },
+  {
     "id": "arxiv-2608-23407v1",
     "title": "Optimal Grading: A Unified Approach",
     "authors": [
@@ -15,8 +96,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.23407v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.23407v1",
-    "relevanceScore": 30.63,
-    "collectedAt": "2026-08-25T08:55:30.425Z"
+    "relevanceScore": 29.63,
+    "collectedAt": "2026-08-26T08:58:08.903Z"
   },
   {
     "id": "arxiv-2608-22371v1",
@@ -33,8 +114,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.22371v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.22371v1",
-    "relevanceScore": 29.63,
-    "collectedAt": "2026-08-25T08:55:30.425Z"
+    "relevanceScore": 28.63,
+    "collectedAt": "2026-08-26T08:58:08.903Z"
   },
   {
     "id": "arxiv-2608-20766v1",
@@ -53,8 +134,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.20766v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.20766v1",
-    "relevanceScore": 39.63,
-    "collectedAt": "2026-08-25T08:55:30.425Z"
+    "relevanceScore": 38.63,
+    "collectedAt": "2026-08-26T08:58:08.903Z"
   },
   {
     "id": "arxiv-2608-20982v1",
@@ -72,8 +153,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.20982v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.20982v1",
-    "relevanceScore": 31.63,
-    "collectedAt": "2026-08-25T08:55:30.425Z"
+    "relevanceScore": 30.63,
+    "collectedAt": "2026-08-26T08:58:08.903Z"
   },
   {
     "id": "arxiv-2608-19846v2",
@@ -90,8 +171,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.19846v2",
     "pdfUrl": "https://arxiv.org/pdf/2608.19846v2",
-    "relevanceScore": 30.63,
-    "collectedAt": "2026-08-25T08:55:30.425Z"
+    "relevanceScore": 29.63,
+    "collectedAt": "2026-08-26T08:58:08.903Z"
   },
   {
     "id": "arxiv-2608-18739v1",
@@ -109,8 +190,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.18739v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.18739v1",
-    "relevanceScore": 32.63,
-    "collectedAt": "2026-08-25T08:55:30.425Z"
+    "relevanceScore": 31.63,
+    "collectedAt": "2026-08-26T08:58:08.903Z"
   },
   {
     "id": "arxiv-2608-18381v1",
@@ -127,8 +208,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.18381v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.18381v1",
-    "relevanceScore": 44.63,
-    "collectedAt": "2026-08-25T08:55:30.425Z"
+    "relevanceScore": 43.63,
+    "collectedAt": "2026-08-26T08:58:08.903Z"
   },
   {
     "id": "arxiv-2608-17273v1",
@@ -146,8 +227,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.17273v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.17273v1",
-    "relevanceScore": 30.63,
-    "collectedAt": "2026-08-25T08:55:30.425Z"
+    "relevanceScore": 29.63,
+    "collectedAt": "2026-08-26T08:58:08.903Z"
   },
   {
     "id": "arxiv-2608-17766v2",
@@ -164,31 +245,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.17766v2",
     "pdfUrl": "https://arxiv.org/pdf/2608.17766v2",
-    "relevanceScore": 29.63,
-    "collectedAt": "2026-08-25T08:55:30.425Z"
-  },
-  {
-    "id": "arxiv-2608-18265v1",
-    "title": "How AI Prompts Can Teach Us About the Structure of Human Behavior",
-    "authors": [
-      "Matthew O. Jackson",
-      "Benjamin S. Manning",
-      "Yutong Xie",
-      "Walter Yuan",
-      "Qiaozhu Mei"
-    ],
-    "publicationDate": "2026-08-18",
-    "abstract": "We introduce a general, easy-to-implement AI-based method for studying the structure and complexity of human behavior. We assign a large language model a ``type vector'' and then prompt it to choose actions across settings in which we observe human choices. For instance, the type vector (2,4) becomes ``You are a player characterized by the following profile: 2 out of 5 in Altruism, 4 out of 5 in Risk Aversion,'' after which it is prompted to make choices. We vary the dimensions (e.g., Altruism, Fairness, Trust, $\\dots$) and values (e.g., 1--5) to minimize distance to human choices. Applying the method to 119,147 decisions made by 78,657 subjects from more than 35 countries across 10 classic economic game roles, we find that human behavior can be closely matched using three dimensions: Risk Aversion, Strategic Sophistication, and Trust. Moreover, the types needed to fit individuals across games cluster into fewer than a dozen groups, and can predict behavior in held-out games with different rules and available actions. The results suggest that behavior across diverse settings can be approximated by a low-dimensional, portable representation, supporting the possibility of general yet parsimonious theories across the behavioral sciences. More broadly, the method can provide insights into the structure of many human behaviors.",
-    "abstractPreview": "We introduce a general, easy-to-implement AI-based method for studying the structure and complexity of human behavior. We assign a large language model a ``type vector'' and then prompt it to choose actions across settings in which we observe human choices. For instance, the...",
-    "topics": [
-      "Game Theory",
-      "Decision Theory"
-    ],
-    "source": "arXiv",
-    "paperUrl": "https://arxiv.org/abs/2608.18265v1",
-    "pdfUrl": "https://arxiv.org/pdf/2608.18265v1",
     "relevanceScore": 28.63,
-    "collectedAt": "2026-08-25T08:55:30.425Z"
+    "collectedAt": "2026-08-26T08:58:08.903Z"
   },
   {
     "id": "arxiv-2608-15631v1",
@@ -213,8 +271,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.15631v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.15631v1",
-    "relevanceScore": 41.63,
-    "collectedAt": "2026-08-25T08:55:30.425Z"
+    "relevanceScore": 40.63,
+    "collectedAt": "2026-08-26T08:58:08.903Z"
   },
   {
     "id": "arxiv-2608-14464v2",
@@ -231,8 +289,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.14464v2",
     "pdfUrl": "https://arxiv.org/pdf/2608.14464v2",
-    "relevanceScore": 33.63,
-    "collectedAt": "2026-08-25T08:55:30.425Z"
+    "relevanceScore": 32.63,
+    "collectedAt": "2026-08-26T08:58:08.903Z"
   },
   {
     "id": "arxiv-2608-12818v3",
@@ -251,8 +309,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.12818v3",
     "pdfUrl": "https://arxiv.org/pdf/2608.12818v3",
-    "relevanceScore": 29.63,
-    "collectedAt": "2026-08-25T08:55:30.425Z"
+    "relevanceScore": 28.63,
+    "collectedAt": "2026-08-26T08:58:08.903Z"
   },
   {
     "id": "arxiv-2608-11682v1",
@@ -271,8 +329,8 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.11682v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.11682v1",
-    "relevanceScore": 32.63,
-    "collectedAt": "2026-08-25T08:55:30.425Z"
+    "relevanceScore": 31.63,
+    "collectedAt": "2026-08-26T08:58:08.903Z"
   },
   {
     "id": "arxiv-2608-08897v1",
@@ -290,49 +348,28 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.08897v1",
     "pdfUrl": "https://arxiv.org/pdf/2608.08897v1",
-    "relevanceScore": 36.63,
-    "collectedAt": "2026-08-25T08:55:30.425Z"
+    "relevanceScore": 35.63,
+    "collectedAt": "2026-08-26T08:58:08.903Z"
   },
   {
-    "id": "arxiv-2608-08310v1",
-    "title": "Category of strategic games and presheaf corresponding solution concepts or welfare criteria",
+    "id": "arxiv-2608-08310v2",
+    "title": "Category of strategic games and presheaf corresponding to solution concepts or welfare criteria",
     "authors": [
       "Tomohiko Kawamori"
     ],
     "publicationDate": "2026-08-08",
-    "abstract": "We define a category of strategic games in which a morphism is a pair of a map between sets of players and a map between sets of strategy profiles with specific properties, and we show that this category is well-defined. Three cases are considered for the maps between sets of strategy profiles: they may be order-preserving, order-reflecting or order-embedding with respect to each player's preference relation. We define a presheaf on the category of games valued in a category of sets that sends each strategic game to a set of strategy profiles, and we present equivalent conditions for this presheaf to be well-defined. Two cases are considered for the morphisms in the category of sets: they may be relations or maps. We define a presheaf that sends each strategic game to the set of Nash equilibria (resp.\\ Pareto efficient strategy profiles), and we show that this presheaf is well-defined if and only if the maps between sets of strategy profiles are order-reflecting or order-embedding (resp.\\ the maps between sets of strategy profiles are order-embedding), and the morphisms in the category of sets are relations.",
-    "abstractPreview": "We define a category of strategic games in which a morphism is a pair of a map between sets of players and a map between sets of strategy profiles with specific properties, and we show that this category is well-defined. Three cases are considered for the maps between sets of...",
+    "abstract": "We define a category of strategic games in which a morphism is a pair of a map between sets of players and a map between sets of strategy profiles with specific properties and show that this category is well-defined. Three cases are considered for the maps between sets of strategy profiles: they may be order-preserving, order-reflecting or order-embedding with respect to each player's preference relation. We define a presheaf on the category of games valued in a category of sets that sends each strategic game to a set of strategy profiles and present conditions for this presheaf to be well-defined. Two cases are considered for the morphisms in the category of sets: they may be relations or maps. We define a presheaf that sends each strategic game to the set of Nash equilibria (resp. Pareto efficient strategy profiles) and show that this presheaf is well-defined if and only if the maps between sets of strategy profiles are order-reflecting or order-embedding (resp. order-embedding), and the morphisms in the category of sets are relations.",
+    "abstractPreview": "We define a category of strategic games in which a morphism is a pair of a map between sets of players and a map between sets of strategy profiles with specific properties and show that this category is well-defined. Three cases are considered for the maps between sets of...",
     "topics": [
       "Game Theory",
       "Decision Theory",
       "Social Choice"
     ],
     "source": "arXiv",
-    "paperUrl": "https://arxiv.org/abs/2608.08310v1",
-    "pdfUrl": "https://arxiv.org/pdf/2608.08310v1",
-    "relevanceScore": 41.63,
-    "collectedAt": "2026-08-25T08:55:30.425Z"
-  },
-  {
-    "id": "arxiv-2608-06092v1",
-    "title": "Strategic Heterogeneity: Welfare Gains from Secession and Immigration",
-    "authors": [
-      "Mauro Bambi",
-      "Ehud Lehrer",
-      "Eilon Solan"
-    ],
-    "publicationDate": "2026-08-06",
-    "abstract": "This paper investigates the strategic and welfare properties of endogenous population partitioning (secession) within large-population anonymous games featuring strategic heterogeneity. We consider a continuum-player framework with a binary action space where players are categorized either as fol- lowers, who experience positive network externalities from conformity, or as contrarians, who seek distinctiveness via anti-conformism. We fully characterize the set of Nash equilibria and establish con- ditions under which costless secession yields structural Pareto improvements. We demonstrate that in any strategically mixed society, every mixed-strategy Nash equilibrium admits a Pareto-improving se- cession. With finitely many types, secession systematically mitigates coordination frictions, enhancing both individual payoffs and aggregate utility. Furthermore, we characterize social planner configura- tions optimizing weighted aggregate utility, establishing a formal mathematical isomorphism between optimal jurisdictional design and the theory of Bayesian persuasion solved via concavification. Finally, we derive the structural conditions governing migration stability when subgroups can unilaterally re- locate across distinct societies.",
-    "abstractPreview": "This paper investigates the strategic and welfare properties of endogenous population partitioning (secession) within large-population anonymous games featuring strategic heterogeneity. We consider a continuum-player framework with a binary action space where players are...",
-    "topics": [
-      "Game Theory",
-      "Social Choice"
-    ],
-    "source": "arXiv",
-    "paperUrl": "https://arxiv.org/abs/2608.06092v1",
-    "pdfUrl": "https://arxiv.org/pdf/2608.06092v1",
-    "relevanceScore": 29.63,
-    "collectedAt": "2026-08-25T08:55:30.425Z"
+    "paperUrl": "https://arxiv.org/abs/2608.08310v2",
+    "pdfUrl": "https://arxiv.org/pdf/2608.08310v2",
+    "relevanceScore": 38.63,
+    "collectedAt": "2026-08-26T08:58:08.903Z"
   },
   {
     "id": "arxiv-2608-02479v2",
@@ -352,50 +389,7 @@
     "source": "arXiv",
     "paperUrl": "https://arxiv.org/abs/2608.02479v2",
     "pdfUrl": "https://arxiv.org/pdf/2608.02479v2",
-    "relevanceScore": 36.63,
-    "collectedAt": "2026-08-25T08:55:30.425Z"
-  },
-  {
-    "id": "arxiv-2608-01591v1",
-    "title": "One-Shot Pricing for Hands-Off-the-Wheel Advertising Markets",
-    "authors": [
-      "Emerson Melo",
-      "Matt Shum",
-      "Rakesh Vohra"
-    ],
-    "publicationDate": "2026-08-03",
-    "abstract": "Per-impression auctions have long served as the allocation mechanism in online advertising. We argue that in ``hands-off-the-wheel'' (HOTW) markets, where advertisers declare budgets and ``return-on-investment'' (ROI) targets and the exchange's ML models predict click values, auctions are no longer necessary: all information required for optimal pricing is already known to the exchange, which occupies the position of a monopolist pricing against a downward-sloping demand curve. A HOTW market is a Fisher market, whose competitive equilibrium can be computed via the convex program of Eisenberg and Gale, yielding market-clearing prices and allocations satisfying all budget and ROI constraints simultaneously. This competitive-equilibrium price is revenue-optimal for the exchange among all uniform-price mechanisms: avoiding the demand reduction problem in typical uniform-price multi-unit auctions. The resulting competitive equilibrium is moreover outcome-equivalent to sequential first-price auctions with pacing, with pacing multipliers computable ex-ante by the exchange. This one-shot approach replaces millions of individual auctions with one convex program, which is not only operationally simpler than dynamically evolving bidding strategies, but revenue-optimal for the exchange, while delivering the same equilibrium outcome.",
-    "abstractPreview": "Per-impression auctions have long served as the allocation mechanism in online advertising. We argue that in ``hands-off-the-wheel'' (HOTW) markets, where advertisers declare budgets and ``return-on-investment'' (ROI) targets and the exchange's ML models predict click values,...",
-    "topics": [
-      "Market Design",
-      "Auctions",
-      "General Equilibrium"
-    ],
-    "source": "arXiv",
-    "paperUrl": "https://arxiv.org/abs/2608.01591v1",
-    "pdfUrl": "https://arxiv.org/pdf/2608.01591v1",
-    "relevanceScore": 27.63,
-    "collectedAt": "2026-08-25T08:55:30.425Z"
-  },
-  {
-    "id": "arxiv-2607-29420v1",
-    "title": "Shadow-score auctions for execution incentives",
-    "authors": [
-      "Federico Vaccari"
-    ],
-    "publicationDate": "2026-07-31",
-    "abstract": "This paper studies optimal auctions in which the allocation creates a moral hazard problem for a third-party executor. The executor chooses effort before the winner is known. In regular independent-private-values environments, the optimal mechanism is a shadow-score auction. Each bidder's virtual value is adjusted by the shadow value of relaxing the executor's incentive constraint using that bidder's allocation state. Unlike standard scoring auctions, the score is derived from a non-bidder's moral hazard constraint rather than from a preference for quality. Reserve formats miss this ranking channel, as they can adjust whether the object is sold, but cannot favor allocation states that are more useful for motivating execution effort. The paper also studies cases in which this scoring representation breaks down and the optimal mechanism becomes a constrained shadow allocation.",
-    "abstractPreview": "This paper studies optimal auctions in which the allocation creates a moral hazard problem for a third-party executor. The executor chooses effort before the winner is known. In regular independent-private-values environments, the optimal mechanism is a shadow-score auction....",
-    "topics": [
-      "Contract Theory",
-      "Decision Theory",
-      "Market Design",
-      "Auctions"
-    ],
-    "source": "arXiv",
-    "paperUrl": "https://arxiv.org/abs/2607.29420v1",
-    "pdfUrl": "https://arxiv.org/pdf/2607.29420v1",
     "relevanceScore": 35.63,
-    "collectedAt": "2026-08-25T08:55:30.425Z"
+    "collectedAt": "2026-08-26T08:58:08.903Z"
   }
 ]
